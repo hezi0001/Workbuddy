@@ -1,0 +1,246 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+<title>原油收盘价日报</title>
+<style>
+  :root{
+    --bg:#0d1117; --panel:#161b22; --panel2:#1c2230; --border:#2a3038;
+    --text:#e6edf3; --muted:#8b949e; --up:#f85149; --down:#3fb950;
+    --accent:#58a6ff; --warn:#d29922;
+  }
+  *{box-sizing:border-box; -webkit-tap-highlight-color:transparent;}
+  body{margin:0; background:var(--bg); color:var(--text);
+    font-family:-apple-system,BlinkMacSystemFont,"Segoe UI","PingFang SC","Microsoft YaHei",sans-serif;
+    padding:16px; max-width:760px; margin:0 auto;}
+  header{display:flex; align-items:baseline; justify-content:space-between; flex-wrap:wrap; gap:8px; margin-bottom:14px;}
+  h1{font-size:20px; margin:0; font-weight:700; letter-spacing:.5px;}
+  .src{font-size:12px; color:var(--muted);}
+  .src b{color:var(--accent);}
+  .cards{display:grid; grid-template-columns:1fr 1fr; gap:12px; margin-bottom:12px;}
+  .card{background:var(--panel); border:1px solid var(--border); border-radius:14px; padding:14px;}
+  .card .label{font-size:13px; color:var(--muted); margin-bottom:6px;}
+  .card .price{font-size:30px; font-weight:800; line-height:1;}
+  .card .chg{font-size:14px; font-weight:700; margin-top:6px;}
+  .up{color:var(--up);} .down{color:var(--down);} .flat{color:var(--muted);}
+  .panel{background:var(--panel); border:1px solid var(--border); border-radius:14px; padding:14px; margin-bottom:12px;}
+  .panel h2{font-size:15px; margin:0 0 10px; display:flex; align-items:center; gap:6px;}
+  .reasons li{margin:6px 0; line-height:1.5; color:#c9d1d9; font-size:14px;}
+  .reasons{padding-left:18px; margin:0;}
+  table{width:100%; border-collapse:collapse; font-size:13px;}
+  th,td{padding:8px 6px; text-align:right; border-bottom:1px solid var(--border);}
+  th:first-child,td:first-child{text-align:left;}
+  th{color:var(--muted); font-weight:600;}
+  .news a{color:var(--accent); text-decoration:none; font-size:13px; line-height:1.6; display:block; padding:4px 0;}
+  .news a:hover{text-decoration:underline;}
+  .chart-wrap{width:100%; overflow-x:auto;}
+  svg{display:block; width:100%; height:140px;}
+  .updated{font-size:12px; color:var(--muted); margin-top:6px;}
+  .tag{display:inline-block; font-size:11px; padding:2px 8px; border-radius:999px; border:1px solid var(--border); color:var(--muted);}
+  .demo-banner{background:#3d2a00; border:1px solid var(--warn); color:#f0c674; font-size:12px; padding:8px 12px; border-radius:10px; margin-bottom:12px;}
+  footer{text-align:center; color:var(--muted); font-size:11px; margin-top:8px; line-height:1.6;}
+  @media (max-width:560px){
+    .price{font-size:24px;} h1{font-size:17px;}
+    .cards{gap:10px;} .card{padding:12px;}
+  }
+</style>
+</head>
+<body>
+<header>
+  <h1>🛢️ 原油收盘价日报</h1>
+  <div class="src" id="srcInfo">数据加载中…</div>
+</header>
+
+<div id="demoBanner" class="demo-banner" style="display:none">
+  ⚠️ 当前为离线演示数据（无法连接 GitHub 公开接口）。部署到公开仓库后即可显示每日自动收集的实时数据。
+</div>
+
+<div class="cards" id="cards"></div>
+
+<div class="panel">
+  <h2>📉 下跌原因 / 市场解读</h2>
+  <ul class="reasons" id="reasons"></ul>
+  <div class="updated" id="updated"></div>
+</div>
+
+<div class="panel">
+  <h2>📈 近 5 日走势（WTI 收盘价）</h2>
+  <div class="chart-wrap"><svg id="chart" viewBox="0 0 680 140" preserveAspectRatio="none"></svg></div>
+</div>
+
+<div class="panel">
+  <h2>🗓️ 最近 5 天历史</h2>
+  <div style="overflow-x:auto"><table id="histTable"></table></div>
+</div>
+
+<div class="panel">
+  <h2>📰 相关新闻</h2>
+  <div class="news" id="news"></div>
+</div>
+
+<footer>
+  数据源：Yahoo Finance（WTI=CL=F, Brent=BZ=F）<br/>
+  每日 06:30（北京时间）由 GitHub Actions 自动收集 · 保留最近 5 天
+</footer>
+
+<script>
+const REPO = "hezi0001/Workbuddy";
+const PATH = "crude-oil-tracker/history.json";
+const API  = `https://api.github.com/repos/${REPO}/contents/${PATH}`;
+
+const PROXIES = [
+  u => `https://api.allorigins.win/raw?url=${encodeURIComponent(u)}`,
+  u => `https://corsproxy.io/?url=${encodeURIComponent(u)}`,
+  u => `https://api.codetabs.com/v1/proxy/?quest=${u}`
+];
+
+const DEMO = [
+  {date:"2026-07-31", updated_at:"2026-07-31T22:30:00Z",
+   wti:{close:78.40, prev:81.24, chg_pct:-3.52, chg_abs:-2.84, drop_streak:2, ma20_dev:-1.8, range_pos:42, volume_ratio:1.3,
+        reasons:["较前一交易日下跌 3.52%（-2.84 美元）。","已连续 2 个交易日走低，短期弱势延续。","当前价格低于 20 日均线约 1.8%，短线偏弱。"]},
+   brent:{close:82.10, prev:84.50, chg_pct:-2.84, chg_abs:-2.40, drop_streak:2, ma20_dev:-1.2, range_pos:45, volume_ratio:1.2,
+        reasons:["较前一交易日下跌 2.84%（-2.40 美元）。","已连续 2 个交易日走低。"]},
+   news:[{title:"Demo: 原油连续第二日下挫，需求担忧加剧", link:"#"}]},
+  {date:"2026-07-30", updated_at:"2026-07-30T22:30:00Z",
+   wti:{close:81.24, prev:80.10, chg_pct:1.42, chg_abs:1.14, drop_streak:0, ma20_dev:0.5, range_pos:50, volume_ratio:0.9, reasons:["较前一交易日上涨 1.42%。"]},
+   brent:{close:84.50, prev:83.20, chg_pct:1.56, chg_abs:1.30, drop_streak:0, ma20_dev:0.7, range_pos:52, volume_ratio:0.9, reasons:["较前一交易日上涨 1.56%。"]},
+   news:[]},
+  {date:"2026-07-29", updated_at:"2026-07-29T22:30:00Z",
+   wti:{close:80.10, prev:81.00, chg_pct:-1.11, chg_abs:-0.90, drop_streak:1, ma20_dev:-0.3, range_pos:48, volume_ratio:1.0, reasons:["较前一交易日下跌 1.11%。"]},
+   brent:{close:83.20, prev:84.00, chg_pct:-0.95, chg_abs:-0.80, drop_streak:1, ma20_dev:-0.2, range_pos:49, volume_ratio:1.0, reasons:["较前一交易日下跌 0.95%。"]},
+   news:[]},
+  {date:"2026-07-28", updated_at:"2026-07-28T22:30:00Z",
+   wti:{close:81.00, prev:79.50, chg_pct:1.89, chg_abs:1.50, drop_streak:0, ma20_dev:1.0, range_pos:55, volume_ratio:1.1, reasons:["较前一交易日上涨 1.89%。"]},
+   brent:{close:84.00, prev:82.60, chg_pct:1.69, chg_abs:1.40, drop_streak:0, ma20_dev:1.1, range_pos:56, volume_ratio:1.1, reasons:["较前一交易日上涨 1.69%。"]},
+   news:[]},
+  {date:"2026-07-27", updated_at:"2026-07-27T22:30:00Z",
+   wti:{close:79.50, prev:80.20, chg_pct:-0.87, chg_abs:-0.70, drop_streak:1, ma20_dev:-0.5, range_pos:44, volume_ratio:0.8, reasons:["较前一交易日下跌 0.87%。","成交量明显萎缩，市场观望情绪浓。"]},
+   brent:{close:82.60, prev:83.10, chg_pct:-0.60, chg_abs:-0.50, drop_streak:1, ma20_dev:-0.4, range_pos:46, volume_ratio:0.8, reasons:["较前一交易日下跌 0.60%。"]},
+   news:[]}
+];
+
+function chgClass(p){ return p>0?"up":(p<0?"down":"flat"); }
+function chgSign(p){ return (p>0?"+":"") + p.toFixed(2) + "%"; }
+
+function render(history, isDemo){
+  const data = history.slice().sort((a,b)=>a.date.localeCompare(b.date));
+  const last = data[data.length-1];
+  const prev = data.length>1 ? data[data.length-2] : null;
+
+  // 卡片
+  const cards = document.getElementById("cards");
+  cards.innerHTML = ["wti","brent"].map(k=>{
+    const o = last[k];
+    const name = k==="wti"?"WTI 美油 (CL=F)":"Brent 布油 (BZ=F)";
+    const cls = chgClass(o.chg_pct);
+    const arrow = o.chg_pct>0?"▲":(o.chg_pct<0?"▼":"—");
+    return `<div class="card">
+      <div class="label">${name}</div>
+      <div class="price">$${o.close.toFixed(2)}</div>
+      <div class="chg ${cls}">${arrow} ${chgSign(o.chg_pct)}　<span style="opacity:.8">${o.chg_abs>=0?"+":""}${o.chg_abs.toFixed(2)}</span></div>
+    </div>`;
+  }).join("");
+
+  // 原因（合并最新一天两条）
+  const reasons = document.getElementById("reasons");
+  let rlist = [];
+  if(last.wti.reasons) rlist.push(...last.wti.reasons.map(x=>"WTI："+x));
+  if(last.brent.reasons) rlist.push(...last.brent.reasons.map(x=>"Brent："+x));
+  if(rlist.length===0) rlist=["今日数据暂无明确方向性解读。"];
+  reasons.innerHTML = rlist.map(x=>`<li>${x}</li>`).join("");
+  document.getElementById("updated").textContent =
+    "最近自动收集：" + (last.updated_at||last.date);
+
+  // 新闻
+  const news = document.getElementById("news");
+  if(last.news && last.news.length){
+    news.innerHTML = last.news.map(n=>`<a href="${n.link||'#'}" target="_blank" rel="noopener">• ${n.title}</a>`).join("");
+  } else {
+    news.innerHTML = `<span style="color:var(--muted);font-size:13px">暂无新闻。</span>`;
+  }
+
+  // 走势图（WTI 收盘价）
+  drawChart(data.map(d=>d.wti.close));
+
+  // 历史表
+  const tbl = document.getElementById("histTable");
+  let rows = `<tr><th>日期</th><th>WTI</th><th>WTI涨跌</th><th>Brent</th><th>Brent涨跌</th></tr>`;
+  data.slice().reverse().forEach(d=>{
+    const w=d.wti, b=d.brent;
+    rows += `<tr>
+      <td>${d.date.slice(5)}</td>
+      <td>$${w.close.toFixed(2)}</td>
+      <td class="${chgClass(w.chg_pct)}">${chgSign(w.chg_pct)}</td>
+      <td>$${b.close.toFixed(2)}</td>
+      <td class="${chgClass(b.chg_pct)}">${chgSign(b.chg_pct)}</td>
+    </tr>`;
+  });
+  tbl.innerHTML = rows;
+
+  // 数据源标识
+  const src = document.getElementById("srcInfo");
+  if(isDemo){
+    src.innerHTML = `来源：<b>离线演示</b>`;
+    document.getElementById("demoBanner").style.display = "block";
+  } else {
+    src.innerHTML = `来源：<b>GitHub 自动归档</b> · 共 ${data.length} 天`;
+  }
+}
+
+function drawChart(values){
+  const svg = document.getElementById("chart");
+  const W=680, H=140, pad=18;
+  if(!values.length){ svg.innerHTML=""; return; }
+  const min=Math.min(...values), max=Math.max(...values);
+  const span=(max-min)||1;
+  const n=values.length;
+  const x=i=> pad + (W-2*pad)*(n===1?0.5:i/(n-1));
+  const y=v=> H-pad - (H-2*pad)*((v-min)/span);
+  let pts = values.map((v,i)=>`${x(i).toFixed(1)},${y(v).toFixed(1)}`).join(" ");
+  let dots = values.map((v,i)=>{
+    const c = i>0 && values[i]<values[i-1] ? "var(--down)" : "var(--up)";
+    return `<circle cx="${x(i).toFixed(1)}" cy="${y(v).toFixed(1)}" r="3.5" fill="${c}"/>`;
+  }).join("");
+  let labels = values.map((v,i)=>`<text x="${x(i).toFixed(1)}" y="${H-4}" fill="var(--muted)" font-size="10" text-anchor="middle">${v.toFixed(1)}</text>`).join("");
+  svg.innerHTML = `<polyline points="${pts}" fill="none" stroke="var(--accent)" stroke-width="2"/>
+    ${dots}${labels}
+    <line x1="${pad}" y1="${H-pad}" x2="${W-pad}" y2="${H-pad}" stroke="var(--border)" stroke-width="1"/>`;
+}
+
+async function liveProbe(){
+  // 尽力用代理刷新实时价（不影响主数据）
+  try{
+    for(const p of PROXIES){
+      const url = `https://query1.finance.yahoo.com/v8/finance/chart/CL=F?interval=1d&range=5d`;
+      const r = await fetch(p(url), {cache:"no-store"});
+      const j = await r.json();
+      const closes = j.chart.result[0].indicators.quote[0].close.filter(x=>x!=null);
+      const close=closes[closes.length-1], prev=closes[closes.length-2];
+      const pct=(close-prev)/prev*100;
+      document.getElementById("srcInfo").innerHTML +=
+        `　·　实时(代理) WTI $${close.toFixed(2)} ${chgSign(pct)}`;
+      return;
+    }
+  }catch(e){/* ignore */}
+}
+
+async function load(){
+  try{
+    const r = await fetch(API, {headers:{"Accept":"application/vnd.github+json"}});
+    if(!r.ok) throw new Error("http "+r.status);
+    const j = await r.json();
+    const text = atob(j.content.replace(/\s/g,""));
+    const data = JSON.parse(text);
+    if(!Array.isArray(data) || !data.length) throw new Error("empty");
+    render(data, false);
+    liveProbe();
+  }catch(e){
+    console.warn("GitHub 读取失败，使用演示数据：", e);
+    render(DEMO, true);
+  }
+}
+load();
+</script>
+</body>
+</html>

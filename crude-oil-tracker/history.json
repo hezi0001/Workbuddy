@@ -1,0 +1,53 @@
+[
+  {
+    "date": "2026-08-01",
+    "updated_at": "2026-08-01T02:07:29Z",
+    "wti": {
+      "close": 86.8,
+      "prev": 83.59,
+      "chg_pct": 3.84,
+      "chg_abs": 3.21,
+      "drop_streak": 0,
+      "ma20_dev": 7.98,
+      "range_pos": 66.4,
+      "volume_ratio": 0.91,
+      "reasons": [
+        "较前一交易日上涨 3.84%（+3.21 美元）。",
+        "当前价格高于 20 日均线约 8.0%，短线偏强。"
+      ]
+    },
+    "brent": {
+      "close": 90.12,
+      "prev": 89.03,
+      "chg_pct": 1.22,
+      "chg_abs": 1.09,
+      "drop_streak": 0,
+      "ma20_dev": 5.04,
+      "range_pos": 63.7,
+      "volume_ratio": 0.02,
+      "reasons": [
+        "较前一交易日上涨 1.22%（+1.09 美元）。",
+        "当前价格高于 20 日均线约 5.0%，短线偏强。",
+        "成交量明显萎缩，市场观望情绪浓。"
+      ]
+    },
+    "news": [
+      {
+        "title": "Japan’s stock market is facing these 3 hurdles in August",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/japan-stock-market-facing-3-012749340.html"
+      },
+      {
+        "title": "BW Energy Ltd (BWEFF) (Q2 2026) Earnings Call Highlights: Record Cash Flow and Strategic Growth ...",
+        "link": "https://finance.yahoo.com/energy/articles/bw-energy-ltd-bweff-q2-010347312.html"
+      },
+      {
+        "title": "Basin rig count up two as prices decrease",
+        "link": "https://finance.yahoo.com/m/44c481c5-6fd9-3659-b33c-a33fb88bc8a5/basin-rig-count-up-two-as.html"
+      },
+      {
+        "title": "PBF Energy Q2 Earnings Call Highlights",
+        "link": "https://finance.yahoo.com/m/8b7548e3-7a82-3c2f-9f9e-aa4bf608c0e6/pbf-energy-q2-earnings-call.html"
+      }
+    ]
+  }
+]
