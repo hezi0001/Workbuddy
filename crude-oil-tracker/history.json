@@ -1,19 +1,19 @@
 [
   {
     "date": "2026-08-01",
-    "updated_at": "2026-08-01T02:25:19Z",
+    "updated_at": "2026-08-01T23:31:46Z",
     "wti": {
-      "close": 86.8,
+      "close": 84.67,
       "prev": 83.59,
-      "chg_pct": 3.84,
-      "chg_abs": 3.21,
+      "chg_pct": 1.29,
+      "chg_abs": 1.08,
       "drop_streak": 0,
-      "ma20_dev": 7.98,
-      "range_pos": 66.4,
+      "ma20_dev": 5.47,
+      "range_pos": 58.7,
       "volume_ratio": 0.91,
       "reasons": [
-        "较前一交易日上涨 3.84%（+3.21 美元）。",
-        "当前价格高于 20 日均线约 8.0%，短线偏强。"
+        "较前一交易日上涨 1.29%（+1.08 美元）。",
+        "当前价格高于 20 日均线约 5.5%，短线偏强。"
       ]
     },
     "brent": {
@@ -24,7 +24,7 @@
       "drop_streak": 0,
       "ma20_dev": 5.04,
       "range_pos": 63.7,
-      "volume_ratio": 0.02,
+      "volume_ratio": 0.17,
       "reasons": [
         "较前一交易日上涨 1.22%（+1.09 美元）。",
         "当前价格高于 20 日均线约 5.0%，短线偏强。",
@@ -33,20 +33,20 @@
     },
     "news": [
       {
-        "title": "Japan’s stock market is facing these 3 hurdles in August",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/japan-stock-market-facing-3-012749340.html"
+        "title": "Dow Jones Futures: Market Rebounds, Now Watch For This; SpaceX, AMD, Sandisk, Eli Lilly Earnings Loom",
+        "link": "https://finance.yahoo.com/m/a6fd7cc1-160f-33be-9c9b-10601e0fcebe/dow-jones-futures%3A-market.html"
       },
       {
-        "title": "BW Energy Ltd (BWEFF) (Q2 2026) Earnings Call Highlights: Record Cash Flow and Strategic Growth ...",
-        "link": "https://finance.yahoo.com/energy/articles/bw-energy-ltd-bweff-q2-010347312.html"
+        "title": "Middle East turmoil leaves gas prices exposed",
+        "link": "https://finance.yahoo.com/m/133b3223-06ac-3e94-86a0-22541f07ead5/middle-east-turmoil-leaves.html"
       },
       {
-        "title": "Basin rig count up two as prices decrease",
-        "link": "https://finance.yahoo.com/m/44c481c5-6fd9-3659-b33c-a33fb88bc8a5/basin-rig-count-up-two-as.html"
+        "title": "Suriname's $26 Billion Oil Bet Is Finally Paying Off",
+        "link": "https://finance.yahoo.com/energy/articles/surinames-26-billion-oil-bet-210000202.html"
       },
       {
-        "title": "PBF Energy Q2 Earnings Call Highlights",
-        "link": "https://finance.yahoo.com/m/8b7548e3-7a82-3c2f-9f9e-aa4bf608c0e6/pbf-energy-q2-earnings-call.html"
+        "title": "Shell Says Oil Prices Are Headed Higher for Years. Here's the Case for Buying Oil Stocks.",
+        "link": "https://finance.yahoo.com/m/d11a7bf7-b42d-3a38-a73b-0262788ed1b6/shell-says-oil-prices-are.html"
       }
     ]
   }
