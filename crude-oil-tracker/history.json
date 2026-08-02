@@ -49,5 +49,56 @@
         "link": "https://finance.yahoo.com/m/d11a7bf7-b42d-3a38-a73b-0262788ed1b6/shell-says-oil-prices-are.html"
       }
     ]
+  },
+  {
+    "date": "2026-08-02",
+    "updated_at": "2026-08-02T23:31:17Z",
+    "wti": {
+      "close": 80.87,
+      "prev": 84.67,
+      "chg_pct": -4.49,
+      "chg_abs": -3.8,
+      "drop_streak": 1,
+      "ma20_dev": -0.03,
+      "range_pos": 44.8,
+      "volume_ratio": 0.07,
+      "reasons": [
+        "较前一交易日下跌 4.49%（-3.80 美元）。",
+        "成交量明显萎缩，市场观望情绪浓。"
+      ]
+    },
+    "brent": {
+      "close": 90.12,
+      "prev": 89.03,
+      "chg_pct": 1.22,
+      "chg_abs": 1.09,
+      "drop_streak": 0,
+      "ma20_dev": 5.04,
+      "range_pos": 63.7,
+      "volume_ratio": 0.03,
+      "reasons": [
+        "较前一交易日上涨 1.22%（+1.09 美元）。",
+        "当前价格高于 20 日均线约 5.0%，短线偏强。",
+        "成交量明显萎缩，市场观望情绪浓。"
+      ]
+    },
+    "news": [
+      {
+        "title": "Dow Jones Futures Rise, Oil Prices Dive As Trump Shifts On Iran; SpaceX, AMD, Sandisk, Eli Lilly Earnings Loom",
+        "link": "https://finance.yahoo.com/m/a6fd7cc1-160f-33be-9c9b-10601e0fcebe/dow-jones-futures-rise%2C-oil.html"
+      },
+      {
+        "title": "Stock Futures Rise, Oil Drops to Begin a New Month",
+        "link": "https://finance.yahoo.com/m/7353c521-1fec-328d-adab-6f24d02b67b7/stock-futures-rise%2C-oil-drops.html"
+      },
+      {
+        "title": "Earnings, PMI and Other Key Things to Watch this Week",
+        "link": "https://finance.yahoo.com/m/0717a5de-20b1-3d78-ba03-6a4e7618834e/earnings%2C-pmi-and-other-key.html"
+      },
+      {
+        "title": "3 Bold Oil Predictions for the Second Half of 2026",
+        "link": "https://finance.yahoo.com/m/ad328b83-a207-3ad9-af00-e1169b9ca8ea/3-bold-oil-predictions-for.html"
+      }
+    ]
   }
 ]
