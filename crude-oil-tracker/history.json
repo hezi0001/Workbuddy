@@ -100,5 +100,56 @@
         "link": "https://finance.yahoo.com/m/ad328b83-a207-3ad9-af00-e1169b9ca8ea/3-bold-oil-predictions-for.html"
       }
     ]
+  },
+  {
+    "date": "2026-08-03",
+    "updated_at": "2026-08-03T23:39:57Z",
+    "wti": {
+      "close": 79.84,
+      "prev": 84.67,
+      "chg_pct": -5.7,
+      "chg_abs": -4.83,
+      "drop_streak": 1,
+      "ma20_dev": -1.24,
+      "range_pos": 41.1,
+      "volume_ratio": 0.01,
+      "reasons": [
+        "较前一交易日下跌 5.70%（-4.83 美元）。",
+        "成交量明显萎缩，市场观望情绪浓。"
+      ]
+    },
+    "brent": {
+      "close": 83.52,
+      "prev": 90.12,
+      "chg_pct": -7.32,
+      "chg_abs": -6.6,
+      "drop_streak": 1,
+      "ma20_dev": -3.3,
+      "range_pos": 41.0,
+      "volume_ratio": 0.0,
+      "reasons": [
+        "较前一交易日下跌 7.32%（-6.60 美元）。",
+        "当前价格低于 20 日均线约 3.3%，短线偏弱。",
+        "成交量明显萎缩，市场观望情绪浓。"
+      ]
+    },
+    "news": [
+      {
+        "title": "Trump Calls Out Exxon, Chevron for Profiting From a War He Started",
+        "link": "https://finance.yahoo.com/m/a6057d2b-8fc4-3db8-bbfa-1273346d32d9/trump-calls-out-exxon%2C.html"
+      },
+      {
+        "title": "Black Stone Minerals (NYSE:BSM) Delivers Strong Q2 CY2026 Numbers",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/black-stone-minerals-nyse-bsm-221532467.html"
+      },
+      {
+        "title": "S&P500, Nasdaq End Higher, Dow Hits Record High On Strong Mag 7 Performance And Falling Oil Prices — BA, XOM, CVX, HOOD, AMD In Focus",
+        "link": "https://finance.yahoo.com/m/eb653304-9378-3155-a53e-af80b46d4577/s%26p500%2C-nasdaq-end-higher%2C.html"
+      },
+      {
+        "title": "Tech stocks rally to kick off August. Can chipmakers keep up with demand?",
+        "link": "https://finance.yahoo.com/video/tech-stocks-rally-kick-off-213000641.html"
+      }
+    ]
   }
 ]
