@@ -151,5 +151,59 @@
         "link": "https://finance.yahoo.com/video/tech-stocks-rally-kick-off-213000641.html"
       }
     ]
+  },
+  {
+    "date": "2026-08-04",
+    "updated_at": "2026-08-04T23:34:52Z",
+    "wti": {
+      "close": 75.17,
+      "prev": 80.34,
+      "chg_pct": -6.44,
+      "chg_abs": -5.17,
+      "drop_streak": 2,
+      "ma20_dev": -7.32,
+      "range_pos": 27.0,
+      "volume_ratio": 0.01,
+      "reasons": [
+        "较前一交易日下跌 6.44%（-5.17 美元）。",
+        "已连续 2 个交易日走低，短期弱势延续。",
+        "当前价格低于 20 日均线约 7.3%，短线偏弱。",
+        "成交量明显萎缩，市场观望情绪浓。"
+      ]
+    },
+    "brent": {
+      "close": 78.92,
+      "prev": 83.77,
+      "chg_pct": -5.79,
+      "chg_abs": -4.85,
+      "drop_streak": 2,
+      "ma20_dev": -8.89,
+      "range_pos": 25.2,
+      "volume_ratio": 0.0,
+      "reasons": [
+        "较前一交易日下跌 5.79%（-4.85 美元）。",
+        "已连续 2 个交易日走低，短期弱势延续。",
+        "当前价格低于 20 日均线约 8.9%，短线偏弱。",
+        "成交量明显萎缩，市场观望情绪浓。"
+      ]
+    },
+    "news": [
+      {
+        "title": "Dow Jones Futures: SpaceX, AMD, Arista Lead Earnings Movers After S&P 500 Jumps To High",
+        "link": "https://finance.yahoo.com/m/63f73cc3-b9b2-3295-a581-3f2fee0b0e0e/dow-jones-futures%3A-spacex%2C.html"
+      },
+      {
+        "title": "ONEOK Inc (OKE) (Q2 2026) Earnings Call Highlights: Record Volumes and Raised Guidance Signal ...",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/oneok-inc-oke-q2-2026-230128963.html"
+      },
+      {
+        "title": "Vitesse Energy Inc (VTS) (Q2 2026) Earnings Call Highlights: Record Production and Durable ...",
+        "link": "https://finance.yahoo.com/energy/articles/vitesse-energy-inc-vts-q2-230030251.html"
+      },
+      {
+        "title": "Stock indexes register records after upbeat company forecasts; oil drops",
+        "link": "https://finance.yahoo.com/markets/world-indices/articles/asia-stocks-move-higher-wall-003819857.html"
+      }
+    ]
   }
 ]
