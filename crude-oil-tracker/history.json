@@ -205,5 +205,59 @@
         "link": "https://finance.yahoo.com/markets/world-indices/articles/asia-stocks-move-higher-wall-003819857.html"
       }
     ]
+  },
+  {
+    "date": "2026-08-05",
+    "updated_at": "2026-08-05T23:30:55Z",
+    "wti": {
+      "close": 74.99,
+      "prev": 75.77,
+      "chg_pct": -1.03,
+      "chg_abs": -0.78,
+      "drop_streak": 3,
+      "ma20_dev": -7.66,
+      "range_pos": 27.2,
+      "volume_ratio": 0.0,
+      "reasons": [
+        "较前一交易日下跌 1.03%（-0.78 美元）。",
+        "已连续 3 个交易日走低，短期弱势延续。",
+        "当前价格低于 20 日均线约 7.7%，短线偏弱。",
+        "成交量明显萎缩，市场观望情绪浓。"
+      ]
+    },
+    "brent": {
+      "close": 79.33,
+      "prev": 79.36,
+      "chg_pct": -0.04,
+      "chg_abs": -0.03,
+      "drop_streak": 3,
+      "ma20_dev": -8.51,
+      "range_pos": 26.6,
+      "volume_ratio": 0.0,
+      "reasons": [
+        "较前一交易日下跌 0.04%（-0.03 美元）。",
+        "已连续 3 个交易日走低，短期弱势延续。",
+        "当前价格低于 20 日均线约 8.5%，短线偏弱。",
+        "成交量明显萎缩，市场观望情绪浓。"
+      ]
+    },
+    "news": [
+      {
+        "title": "Devon Energy Corp (DVN) (Q2 2026) Earnings Call Highlights: Strong Results, Synergy Progress, ...",
+        "link": "https://finance.yahoo.com/energy/articles/devon-energy-corp-dvn-q2-230236527.html"
+      },
+      {
+        "title": "Gran Tierra Energy Inc (GTE) (Q2 2026) Earnings Call Highlights: Net Income Turnaround and ...",
+        "link": "https://finance.yahoo.com/energy/articles/gran-tierra-energy-inc-gte-230050286.html"
+      },
+      {
+        "title": "Chord Energy (NASDAQ:CHRD) Surprises With Strong Q2 CY2026",
+        "link": "https://finance.yahoo.com/energy/articles/chord-energy-nasdaq-chrd-surprises-225341341.html"
+      },
+      {
+        "title": "SM Energy (NYSE:SM) Reports Upbeat Q2 CY2026",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/sm-energy-nyse-sm-reports-225034518.html"
+      }
+    ]
   }
 ]
