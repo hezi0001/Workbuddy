@@ -1,56 +1,5 @@
 [
   {
-    "date": "2026-08-01",
-    "updated_at": "2026-08-01T23:31:46Z",
-    "wti": {
-      "close": 84.67,
-      "prev": 83.59,
-      "chg_pct": 1.29,
-      "chg_abs": 1.08,
-      "drop_streak": 0,
-      "ma20_dev": 5.47,
-      "range_pos": 58.7,
-      "volume_ratio": 0.91,
-      "reasons": [
-        "较前一交易日上涨 1.29%（+1.08 美元）。",
-        "当前价格高于 20 日均线约 5.5%，短线偏强。"
-      ]
-    },
-    "brent": {
-      "close": 90.12,
-      "prev": 89.03,
-      "chg_pct": 1.22,
-      "chg_abs": 1.09,
-      "drop_streak": 0,
-      "ma20_dev": 5.04,
-      "range_pos": 63.7,
-      "volume_ratio": 0.17,
-      "reasons": [
-        "较前一交易日上涨 1.22%（+1.09 美元）。",
-        "当前价格高于 20 日均线约 5.0%，短线偏强。",
-        "成交量明显萎缩，市场观望情绪浓。"
-      ]
-    },
-    "news": [
-      {
-        "title": "Dow Jones Futures: Market Rebounds, Now Watch For This; SpaceX, AMD, Sandisk, Eli Lilly Earnings Loom",
-        "link": "https://finance.yahoo.com/m/a6fd7cc1-160f-33be-9c9b-10601e0fcebe/dow-jones-futures%3A-market.html"
-      },
-      {
-        "title": "Middle East turmoil leaves gas prices exposed",
-        "link": "https://finance.yahoo.com/m/133b3223-06ac-3e94-86a0-22541f07ead5/middle-east-turmoil-leaves.html"
-      },
-      {
-        "title": "Suriname's $26 Billion Oil Bet Is Finally Paying Off",
-        "link": "https://finance.yahoo.com/energy/articles/surinames-26-billion-oil-bet-210000202.html"
-      },
-      {
-        "title": "Shell Says Oil Prices Are Headed Higher for Years. Here's the Case for Buying Oil Stocks.",
-        "link": "https://finance.yahoo.com/m/d11a7bf7-b42d-3a38-a73b-0262788ed1b6/shell-says-oil-prices-are.html"
-      }
-    ]
-  },
-  {
     "date": "2026-08-02",
     "updated_at": "2026-08-02T23:31:17Z",
     "wti": {
@@ -257,6 +206,56 @@
       {
         "title": "SM Energy (NYSE:SM) Reports Upbeat Q2 CY2026",
         "link": "https://finance.yahoo.com/markets/stocks/articles/sm-energy-nyse-sm-reports-225034518.html"
+      }
+    ]
+  },
+  {
+    "date": "2026-08-07",
+    "updated_at": "2026-08-07T23:07:57Z",
+    "wti": {
+      "close": 77.08,
+      "prev": 77.29,
+      "chg_pct": -0.27,
+      "chg_abs": -0.21,
+      "drop_streak": 1,
+      "ma20_dev": -5.73,
+      "range_pos": 36.1,
+      "volume_ratio": 0.79,
+      "reasons": [
+        "较前一交易日下跌 0.27%（-0.21 美元）。",
+        "当前价格低于 20 日均线约 5.7%，短线偏弱。"
+      ]
+    },
+    "brent": {
+      "close": 82.27,
+      "prev": 82.49,
+      "chg_pct": -0.27,
+      "chg_abs": -0.22,
+      "drop_streak": 1,
+      "ma20_dev": -5.8,
+      "range_pos": 36.7,
+      "volume_ratio": 0.85,
+      "reasons": [
+        "较前一交易日下跌 0.27%（-0.22 美元）。",
+        "当前价格低于 20 日均线约 5.8%，短线偏弱。"
+      ]
+    },
+    "news": [
+      {
+        "title": "Petroleo Brasileiro SA Petrobras (PBR) (Q2 2026) Earnings Call Highlights: Record Profit and ...",
+        "link": "https://finance.yahoo.com/energy/articles/petroleo-brasileiro-sa-petrobras-pbr-230138168.html"
+      },
+      {
+        "title": "Kodiak Gas Services Inc (KGS) (Q2 2026) Earnings Call Highlights: Record EBITDA and Strategic ...",
+        "link": "https://finance.yahoo.com/energy/articles/kodiak-gas-services-inc-kgs-230028140.html"
+      },
+      {
+        "title": "Stock market hits records as Fed removes key safety net",
+        "link": "https://finance.yahoo.com/m/16c9a2b8-84b3-354f-9364-97dffc219fe7/stock-market-hits-records-as.html"
+      },
+      {
+        "title": "360 Energy Pulse: What mattered this week in energy",
+        "link": "https://finance.yahoo.com/energy/articles/360-energy-pulse-mattered-week-213043744.html"
       }
     ]
   }
