@@ -1,56 +1,5 @@
 [
   {
-    "date": "2026-08-02",
-    "updated_at": "2026-08-02T23:31:17Z",
-    "wti": {
-      "close": 80.87,
-      "prev": 84.67,
-      "chg_pct": -4.49,
-      "chg_abs": -3.8,
-      "drop_streak": 1,
-      "ma20_dev": -0.03,
-      "range_pos": 44.8,
-      "volume_ratio": 0.07,
-      "reasons": [
-        "较前一交易日下跌 4.49%（-3.80 美元）。",
-        "成交量明显萎缩，市场观望情绪浓。"
-      ]
-    },
-    "brent": {
-      "close": 90.12,
-      "prev": 89.03,
-      "chg_pct": 1.22,
-      "chg_abs": 1.09,
-      "drop_streak": 0,
-      "ma20_dev": 5.04,
-      "range_pos": 63.7,
-      "volume_ratio": 0.03,
-      "reasons": [
-        "较前一交易日上涨 1.22%（+1.09 美元）。",
-        "当前价格高于 20 日均线约 5.0%，短线偏强。",
-        "成交量明显萎缩，市场观望情绪浓。"
-      ]
-    },
-    "news": [
-      {
-        "title": "Dow Jones Futures Rise, Oil Prices Dive As Trump Shifts On Iran; SpaceX, AMD, Sandisk, Eli Lilly Earnings Loom",
-        "link": "https://finance.yahoo.com/m/a6fd7cc1-160f-33be-9c9b-10601e0fcebe/dow-jones-futures-rise%2C-oil.html"
-      },
-      {
-        "title": "Stock Futures Rise, Oil Drops to Begin a New Month",
-        "link": "https://finance.yahoo.com/m/7353c521-1fec-328d-adab-6f24d02b67b7/stock-futures-rise%2C-oil-drops.html"
-      },
-      {
-        "title": "Earnings, PMI and Other Key Things to Watch this Week",
-        "link": "https://finance.yahoo.com/m/0717a5de-20b1-3d78-ba03-6a4e7618834e/earnings%2C-pmi-and-other-key.html"
-      },
-      {
-        "title": "3 Bold Oil Predictions for the Second Half of 2026",
-        "link": "https://finance.yahoo.com/m/ad328b83-a207-3ad9-af00-e1169b9ca8ea/3-bold-oil-predictions-for.html"
-      }
-    ]
-  },
-  {
     "date": "2026-08-03",
     "updated_at": "2026-08-03T23:39:57Z",
     "wti": {
@@ -256,6 +205,56 @@
       {
         "title": "360 Energy Pulse: What mattered this week in energy",
         "link": "https://finance.yahoo.com/energy/articles/360-energy-pulse-mattered-week-213043744.html"
+      }
+    ]
+  },
+  {
+    "date": "2026-08-08",
+    "updated_at": "2026-08-08T22:59:43Z",
+    "wti": {
+      "close": 78.18,
+      "prev": 77.29,
+      "chg_pct": 1.15,
+      "chg_abs": 0.89,
+      "drop_streak": 0,
+      "ma20_dev": -4.45,
+      "range_pos": 40.7,
+      "volume_ratio": 0.94,
+      "reasons": [
+        "较前一交易日上涨 1.15%（+0.89 美元）。",
+        "当前价格低于 20 日均线约 4.4%，短线偏弱。"
+      ]
+    },
+    "brent": {
+      "close": 83.55,
+      "prev": 82.49,
+      "chg_pct": 1.29,
+      "chg_abs": 1.06,
+      "drop_streak": 0,
+      "ma20_dev": -4.41,
+      "range_pos": 41.1,
+      "volume_ratio": 0.98,
+      "reasons": [
+        "较前一交易日上涨 1.29%（+1.06 美元）。",
+        "当前价格低于 20 日均线约 4.4%，短线偏弱。"
+      ]
+    },
+    "news": [
+      {
+        "title": "Matador Resources Q2 Earnings Call Highlights",
+        "link": "https://finance.yahoo.com/m/c5fdc14c-093e-3ebd-9a63-2554ad19c662/matador-resources-q2-earnings.html"
+      },
+      {
+        "title": "Alvopetro highlights strong Brazil operations during second quarter – ICYMI",
+        "link": "https://finance.yahoo.com/m/27172ff5-eaf0-3ecf-bbc9-775999ae59d6/alvopetro-highlights-strong.html"
+      },
+      {
+        "title": "Klesch becomes Germany’s second-largest oil refiner after BP deal",
+        "link": "https://finance.yahoo.com/energy/articles/klesch-becomes-germany-second-largest-072146991.html"
+      },
+      {
+        "title": "Northern Oil And Gas (NOG) Beat Q2 Estimates With Record Gas Production",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/northern-oil-gas-nog-beat-061259260.html"
       }
     ]
   }
