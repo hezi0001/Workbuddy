@@ -1,56 +1,5 @@
 [
   {
-    "date": "2026-08-03",
-    "updated_at": "2026-08-03T23:39:57Z",
-    "wti": {
-      "close": 79.84,
-      "prev": 84.67,
-      "chg_pct": -5.7,
-      "chg_abs": -4.83,
-      "drop_streak": 1,
-      "ma20_dev": -1.24,
-      "range_pos": 41.1,
-      "volume_ratio": 0.01,
-      "reasons": [
-        "较前一交易日下跌 5.70%（-4.83 美元）。",
-        "成交量明显萎缩，市场观望情绪浓。"
-      ]
-    },
-    "brent": {
-      "close": 83.52,
-      "prev": 90.12,
-      "chg_pct": -7.32,
-      "chg_abs": -6.6,
-      "drop_streak": 1,
-      "ma20_dev": -3.3,
-      "range_pos": 41.0,
-      "volume_ratio": 0.0,
-      "reasons": [
-        "较前一交易日下跌 7.32%（-6.60 美元）。",
-        "当前价格低于 20 日均线约 3.3%，短线偏弱。",
-        "成交量明显萎缩，市场观望情绪浓。"
-      ]
-    },
-    "news": [
-      {
-        "title": "Trump Calls Out Exxon, Chevron for Profiting From a War He Started",
-        "link": "https://finance.yahoo.com/m/a6057d2b-8fc4-3db8-bbfa-1273346d32d9/trump-calls-out-exxon%2C.html"
-      },
-      {
-        "title": "Black Stone Minerals (NYSE:BSM) Delivers Strong Q2 CY2026 Numbers",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/black-stone-minerals-nyse-bsm-221532467.html"
-      },
-      {
-        "title": "S&P500, Nasdaq End Higher, Dow Hits Record High On Strong Mag 7 Performance And Falling Oil Prices — BA, XOM, CVX, HOOD, AMD In Focus",
-        "link": "https://finance.yahoo.com/m/eb653304-9378-3155-a53e-af80b46d4577/s%26p500%2C-nasdaq-end-higher%2C.html"
-      },
-      {
-        "title": "Tech stocks rally to kick off August. Can chipmakers keep up with demand?",
-        "link": "https://finance.yahoo.com/video/tech-stocks-rally-kick-off-213000641.html"
-      }
-    ]
-  },
-  {
     "date": "2026-08-04",
     "updated_at": "2026-08-04T23:34:52Z",
     "wti": {
@@ -255,6 +204,58 @@
       {
         "title": "Northern Oil And Gas (NOG) Beat Q2 Estimates With Record Gas Production",
         "link": "https://finance.yahoo.com/markets/stocks/articles/northern-oil-gas-nog-beat-061259260.html"
+      }
+    ]
+  },
+  {
+    "date": "2026-08-09",
+    "updated_at": "2026-08-09T23:01:28Z",
+    "wti": {
+      "close": 78.81,
+      "prev": 78.18,
+      "chg_pct": 0.81,
+      "chg_abs": 0.63,
+      "drop_streak": 0,
+      "ma20_dev": -3.72,
+      "range_pos": 43.4,
+      "volume_ratio": 0.03,
+      "reasons": [
+        "较前一交易日上涨 0.81%（+0.63 美元）。",
+        "当前价格低于 20 日均线约 3.7%，短线偏弱。",
+        "成交量明显萎缩，市场观望情绪浓。"
+      ]
+    },
+    "brent": {
+      "close": 84.39,
+      "prev": 83.55,
+      "chg_pct": 1.01,
+      "chg_abs": 0.84,
+      "drop_streak": 0,
+      "ma20_dev": -3.51,
+      "range_pos": 44.0,
+      "volume_ratio": 0.02,
+      "reasons": [
+        "较前一交易日上涨 1.01%（+0.84 美元）。",
+        "当前价格低于 20 日均线约 3.5%，短线偏弱。",
+        "成交量明显萎缩，市场观望情绪浓。"
+      ]
+    },
+    "news": [
+      {
+        "title": "Dow Jones Futures Fall As Market Bulls Rule; Cisco, Lumentum Earnings Ahead",
+        "link": "https://finance.yahoo.com/m/6bf0da8a-faae-33c1-af5a-bcc389ef390c/dow-jones-futures-fall-as.html"
+      },
+      {
+        "title": "Stock Futures Little Changed to Begin Another Week of Iran Uncertainty",
+        "link": "https://finance.yahoo.com/m/543aeb48-8bdd-36ff-a113-75f8cd6be35a/stock-futures-little-changed.html"
+      },
+      {
+        "title": "Inflation Data, Super Micro, Cisco, Rocket Lab, Tapestry, and More to Watch This Week",
+        "link": "https://finance.yahoo.com/m/d4b2fc78-3222-32a3-8225-f1b696dbd55a/inflation-data%2C-super-micro%2C.html"
+      },
+      {
+        "title": "W&T Offshore Q2 Earnings Call Highlights",
+        "link": "https://finance.yahoo.com/m/2a54a01f-6a56-3230-906e-5e4d081c36c5/w%26t-offshore-q2-earnings-call.html"
       }
     ]
   }
