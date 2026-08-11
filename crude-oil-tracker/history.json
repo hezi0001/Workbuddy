@@ -1,59 +1,5 @@
 [
   {
-    "date": "2026-08-05",
-    "updated_at": "2026-08-05T23:30:55Z",
-    "wti": {
-      "close": 74.99,
-      "prev": 75.77,
-      "chg_pct": -1.03,
-      "chg_abs": -0.78,
-      "drop_streak": 3,
-      "ma20_dev": -7.66,
-      "range_pos": 27.2,
-      "volume_ratio": 0.0,
-      "reasons": [
-        "较前一交易日下跌 1.03%（-0.78 美元）。",
-        "已连续 3 个交易日走低，短期弱势延续。",
-        "当前价格低于 20 日均线约 7.7%，短线偏弱。",
-        "成交量明显萎缩，市场观望情绪浓。"
-      ]
-    },
-    "brent": {
-      "close": 79.33,
-      "prev": 79.36,
-      "chg_pct": -0.04,
-      "chg_abs": -0.03,
-      "drop_streak": 3,
-      "ma20_dev": -8.51,
-      "range_pos": 26.6,
-      "volume_ratio": 0.0,
-      "reasons": [
-        "较前一交易日下跌 0.04%（-0.03 美元）。",
-        "已连续 3 个交易日走低，短期弱势延续。",
-        "当前价格低于 20 日均线约 8.5%，短线偏弱。",
-        "成交量明显萎缩，市场观望情绪浓。"
-      ]
-    },
-    "news": [
-      {
-        "title": "Devon Energy Corp (DVN) (Q2 2026) Earnings Call Highlights: Strong Results, Synergy Progress, ...",
-        "link": "https://finance.yahoo.com/energy/articles/devon-energy-corp-dvn-q2-230236527.html"
-      },
-      {
-        "title": "Gran Tierra Energy Inc (GTE) (Q2 2026) Earnings Call Highlights: Net Income Turnaround and ...",
-        "link": "https://finance.yahoo.com/energy/articles/gran-tierra-energy-inc-gte-230050286.html"
-      },
-      {
-        "title": "Chord Energy (NASDAQ:CHRD) Surprises With Strong Q2 CY2026",
-        "link": "https://finance.yahoo.com/energy/articles/chord-energy-nasdaq-chrd-surprises-225341341.html"
-      },
-      {
-        "title": "SM Energy (NYSE:SM) Reports Upbeat Q2 CY2026",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/sm-energy-nyse-sm-reports-225034518.html"
-      }
-    ]
-  },
-  {
     "date": "2026-08-07",
     "updated_at": "2026-08-07T23:07:57Z",
     "wti": {
@@ -252,6 +198,56 @@
       {
         "title": "Stock Market Today, Aug. 10: Markets Slip as Oil Gains Fuel Inflation Fears",
         "link": "https://finance.yahoo.com/m/26f255aa-d628-3c2f-8101-5a9df0830903/stock-market-today%2C-aug.-10%3A.html"
+      }
+    ]
+  },
+  {
+    "date": "2026-08-11",
+    "updated_at": "2026-08-11T23:20:09Z",
+    "wti": {
+      "close": 83.49,
+      "prev": 82.13,
+      "chg_pct": 1.66,
+      "chg_abs": 1.36,
+      "drop_streak": 0,
+      "ma20_dev": 1.54,
+      "range_pos": 63.2,
+      "volume_ratio": 0.01,
+      "reasons": [
+        "较前一交易日上涨 1.66%（+1.36 美元）。",
+        "成交量明显萎缩，市场观望情绪浓。"
+      ]
+    },
+    "brent": {
+      "close": 89.3,
+      "prev": 87.72,
+      "chg_pct": 1.8,
+      "chg_abs": 1.58,
+      "drop_streak": 0,
+      "ma20_dev": 1.65,
+      "range_pos": 60.9,
+      "volume_ratio": 0.0,
+      "reasons": [
+        "较前一交易日上涨 1.80%（+1.58 美元）。",
+        "成交量明显萎缩，市场观望情绪浓。"
+      ]
+    },
+    "news": [
+      {
+        "title": "5 Must-Read Analyst Questions From Viper Energy’s Q2 Earnings Call",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/5-must-read-analyst-questions-225322756.html"
+      },
+      {
+        "title": "Wall Street ends down as US-Iran peace optimism fades",
+        "link": "https://finance.yahoo.com/video/wall-street-ends-down-us-224853021.html"
+      },
+      {
+        "title": "The Top 5 Analyst Questions From Crescent Energy’s Q2 Earnings Call",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/top-5-analyst-questions-crescent-224522027.html"
+      },
+      {
+        "title": "Dow Jones Futures: Stocks Pause Before CPI Inflation; 3 Nvidia Partners Lead Earnings Movers Late",
+        "link": "https://finance.yahoo.com/m/7170c7f6-3bd3-35bf-bee2-a691a7f3afbd/dow-jones-futures%3A-stocks.html"
       }
     ]
   }
