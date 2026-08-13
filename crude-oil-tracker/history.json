@@ -1,55 +1,5 @@
 [
   {
-    "date": "2026-08-08",
-    "updated_at": "2026-08-08T22:59:43Z",
-    "wti": {
-      "close": 78.18,
-      "prev": 77.29,
-      "chg_pct": 1.15,
-      "chg_abs": 0.89,
-      "drop_streak": 0,
-      "ma20_dev": -4.45,
-      "range_pos": 40.7,
-      "volume_ratio": 0.94,
-      "reasons": [
-        "较前一交易日上涨 1.15%（+0.89 美元）。",
-        "当前价格低于 20 日均线约 4.4%，短线偏弱。"
-      ]
-    },
-    "brent": {
-      "close": 83.55,
-      "prev": 82.49,
-      "chg_pct": 1.29,
-      "chg_abs": 1.06,
-      "drop_streak": 0,
-      "ma20_dev": -4.41,
-      "range_pos": 41.1,
-      "volume_ratio": 0.98,
-      "reasons": [
-        "较前一交易日上涨 1.29%（+1.06 美元）。",
-        "当前价格低于 20 日均线约 4.4%，短线偏弱。"
-      ]
-    },
-    "news": [
-      {
-        "title": "Matador Resources Q2 Earnings Call Highlights",
-        "link": "https://finance.yahoo.com/m/c5fdc14c-093e-3ebd-9a63-2554ad19c662/matador-resources-q2-earnings.html"
-      },
-      {
-        "title": "Alvopetro highlights strong Brazil operations during second quarter – ICYMI",
-        "link": "https://finance.yahoo.com/m/27172ff5-eaf0-3ecf-bbc9-775999ae59d6/alvopetro-highlights-strong.html"
-      },
-      {
-        "title": "Klesch becomes Germany’s second-largest oil refiner after BP deal",
-        "link": "https://finance.yahoo.com/energy/articles/klesch-becomes-germany-second-largest-072146991.html"
-      },
-      {
-        "title": "Northern Oil And Gas (NOG) Beat Q2 Estimates With Record Gas Production",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/northern-oil-gas-nog-beat-061259260.html"
-      }
-    ]
-  },
-  {
     "date": "2026-08-09",
     "updated_at": "2026-08-09T23:01:28Z",
     "wti": {
@@ -248,6 +198,56 @@
       {
         "title": "Mexco Energy Corporation Reports Financial Results for First Quarter",
         "link": "https://finance.yahoo.com/energy/articles/mexco-energy-corporation-reports-financial-205800819.html"
+      }
+    ]
+  },
+  {
+    "date": "2026-08-13",
+    "updated_at": "2026-08-13T23:20:18Z",
+    "wti": {
+      "close": 81.14,
+      "prev": 83.27,
+      "chg_pct": -2.56,
+      "chg_abs": -2.13,
+      "drop_streak": 1,
+      "ma20_dev": -1.65,
+      "range_pos": 53.3,
+      "volume_ratio": 0.0,
+      "reasons": [
+        "较前一交易日下跌 2.56%（-2.13 美元）。",
+        "成交量明显萎缩，市场观望情绪浓。"
+      ]
+    },
+    "brent": {
+      "close": 86.93,
+      "prev": 88.98,
+      "chg_pct": -2.3,
+      "chg_abs": -2.05,
+      "drop_streak": 1,
+      "ma20_dev": -1.4,
+      "range_pos": 52.7,
+      "volume_ratio": 0.0,
+      "reasons": [
+        "较前一交易日下跌 2.30%（-2.05 美元）。",
+        "成交量明显萎缩，市场观望情绪浓。"
+      ]
+    },
+    "news": [
+      {
+        "title": "Why HighPeak Energy (HPK) Stock Is Trading Up Today",
+        "link": "https://finance.yahoo.com/energy/articles/why-highpeak-energy-hpk-stock-223700961.html"
+      },
+      {
+        "title": "Dow Jones Futures: S&P 500 Hits High On Workday, Sandisk, Oil Prices; Applied Materials Earnings Late",
+        "link": "https://finance.yahoo.com/m/d77ca588-1019-36e1-8065-a36ae0ce7b6c/dow-jones-futures%3A-s%26p-500.html"
+      },
+      {
+        "title": "Stocks rise as traders reduce rate hike bets, oil prices drop",
+        "link": "https://finance.yahoo.com/markets/world-indices/articles/asian-stocks-rise-us-inflation-010444910.html"
+      },
+      {
+        "title": "U.S. Stocks Rise, S&P 500 Closes at Record High",
+        "link": "https://finance.yahoo.com/m/784fe516-fc55-39db-b7cc-d62b7af036a1/u.s.-stocks-rise%2C-s%26p-500.html"
       }
     ]
   }
