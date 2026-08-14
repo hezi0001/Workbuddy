@@ -1,57 +1,5 @@
 [
   {
-    "date": "2026-08-09",
-    "updated_at": "2026-08-09T23:01:28Z",
-    "wti": {
-      "close": 78.81,
-      "prev": 78.18,
-      "chg_pct": 0.81,
-      "chg_abs": 0.63,
-      "drop_streak": 0,
-      "ma20_dev": -3.72,
-      "range_pos": 43.4,
-      "volume_ratio": 0.03,
-      "reasons": [
-        "较前一交易日上涨 0.81%（+0.63 美元）。",
-        "当前价格低于 20 日均线约 3.7%，短线偏弱。",
-        "成交量明显萎缩，市场观望情绪浓。"
-      ]
-    },
-    "brent": {
-      "close": 84.39,
-      "prev": 83.55,
-      "chg_pct": 1.01,
-      "chg_abs": 0.84,
-      "drop_streak": 0,
-      "ma20_dev": -3.51,
-      "range_pos": 44.0,
-      "volume_ratio": 0.02,
-      "reasons": [
-        "较前一交易日上涨 1.01%（+0.84 美元）。",
-        "当前价格低于 20 日均线约 3.5%，短线偏弱。",
-        "成交量明显萎缩，市场观望情绪浓。"
-      ]
-    },
-    "news": [
-      {
-        "title": "Dow Jones Futures Fall As Market Bulls Rule; Cisco, Lumentum Earnings Ahead",
-        "link": "https://finance.yahoo.com/m/6bf0da8a-faae-33c1-af5a-bcc389ef390c/dow-jones-futures-fall-as.html"
-      },
-      {
-        "title": "Stock Futures Little Changed to Begin Another Week of Iran Uncertainty",
-        "link": "https://finance.yahoo.com/m/543aeb48-8bdd-36ff-a113-75f8cd6be35a/stock-futures-little-changed.html"
-      },
-      {
-        "title": "Inflation Data, Super Micro, Cisco, Rocket Lab, Tapestry, and More to Watch This Week",
-        "link": "https://finance.yahoo.com/m/d4b2fc78-3222-32a3-8225-f1b696dbd55a/inflation-data%2C-super-micro%2C.html"
-      },
-      {
-        "title": "W&T Offshore Q2 Earnings Call Highlights",
-        "link": "https://finance.yahoo.com/m/2a54a01f-6a56-3230-906e-5e4d081c36c5/w%26t-offshore-q2-earnings-call.html"
-      }
-    ]
-  },
-  {
     "date": "2026-08-10",
     "updated_at": "2026-08-10T23:08:32Z",
     "wti": {
@@ -248,6 +196,54 @@
       {
         "title": "U.S. Stocks Rise, S&P 500 Closes at Record High",
         "link": "https://finance.yahoo.com/m/784fe516-fc55-39db-b7cc-d62b7af036a1/u.s.-stocks-rise%2C-s%26p-500.html"
+      }
+    ]
+  },
+  {
+    "date": "2026-08-14",
+    "updated_at": "2026-08-14T22:52:33Z",
+    "wti": {
+      "close": 82.4,
+      "prev": 81.25,
+      "chg_pct": 1.42,
+      "chg_abs": 1.15,
+      "drop_streak": 0,
+      "ma20_dev": -0.13,
+      "range_pos": 58.6,
+      "volume_ratio": 0.64,
+      "reasons": [
+        "较前一交易日上涨 1.42%（+1.15 美元）。"
+      ]
+    },
+    "brent": {
+      "close": 88.59,
+      "prev": 87.07,
+      "chg_pct": 1.75,
+      "chg_abs": 1.52,
+      "drop_streak": 0,
+      "ma20_dev": 0.44,
+      "range_pos": 58.4,
+      "volume_ratio": 0.68,
+      "reasons": [
+        "较前一交易日上涨 1.75%（+1.52 美元）。"
+      ]
+    },
+    "news": [
+      {
+        "title": "Oil prices rally, US data dents chances of Fed rate hike",
+        "link": "https://finance.yahoo.com/news/asian-stocks-set-weekly-gain-023234921.html"
+      },
+      {
+        "title": "Stock Market Today: Nasdaq Slips On Retail Sales Gloom; Nvidia Eyes Robotics Wave",
+        "link": "https://finance.yahoo.com/m/00339b32-5e9a-331a-9223-dd02518723a7/stock-market-today%3A-nasdaq.html"
+      },
+      {
+        "title": "Energy & Utilities Roundup: Market Talk",
+        "link": "https://finance.yahoo.com/m/90285fc6-acc0-39ce-9b64-7b59b81772b6/energy-%26-utilities-roundup%3A.html"
+      },
+      {
+        "title": "Stocks slip in cautious trading after weak US retail sales data",
+        "link": "https://finance.yahoo.com/markets/world-indices/articles/most-asian-stocks-track-wall-024850728.html"
       }
     ]
   }
