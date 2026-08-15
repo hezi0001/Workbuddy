@@ -1,55 +1,5 @@
 [
   {
-    "date": "2026-08-10",
-    "updated_at": "2026-08-10T23:08:32Z",
-    "wti": {
-      "close": 82.14,
-      "prev": 78.18,
-      "chg_pct": 5.07,
-      "chg_abs": 3.96,
-      "drop_streak": 0,
-      "ma20_dev": 0.15,
-      "range_pos": 57.5,
-      "volume_ratio": 0.0,
-      "reasons": [
-        "较前一交易日上涨 5.07%（+3.96 美元）。",
-        "成交量明显萎缩，市场观望情绪浓。"
-      ]
-    },
-    "brent": {
-      "close": 87.68,
-      "prev": 83.55,
-      "chg_pct": 4.94,
-      "chg_abs": 4.13,
-      "drop_streak": 0,
-      "ma20_dev": 0.07,
-      "range_pos": 55.3,
-      "volume_ratio": 0.0,
-      "reasons": [
-        "较前一交易日上涨 4.94%（+4.13 美元）。",
-        "成交量明显萎缩，市场观望情绪浓。"
-      ]
-    },
-    "news": [
-      {
-        "title": "Dow Jones Futures: Surging Oil Prices Spark Stock Market Losses; SpaceX Rival Rocket Lab Dives On Earnings",
-        "link": "https://finance.yahoo.com/m/8edb4f71-ec17-31b7-b263-bc566a40aab3/dow-jones-futures%3A-surging.html"
-      },
-      {
-        "title": "Wall Street ends down as expectations of Hormuz deal fade",
-        "link": "https://finance.yahoo.com/video/wall-street-ends-down-expectations-224806034.html"
-      },
-      {
-        "title": "Energy & Utilities Roundup: Market Talk",
-        "link": "https://finance.yahoo.com/m/761174d4-fecb-3225-ac49-bc633200e557/energy-%26-utilities-roundup%3A.html"
-      },
-      {
-        "title": "Stock Market Today, Aug. 10: Markets Slip as Oil Gains Fuel Inflation Fears",
-        "link": "https://finance.yahoo.com/m/26f255aa-d628-3c2f-8101-5a9df0830903/stock-market-today%2C-aug.-10%3A.html"
-      }
-    ]
-  },
-  {
     "date": "2026-08-11",
     "updated_at": "2026-08-11T23:20:09Z",
     "wti": {
@@ -244,6 +194,54 @@
       {
         "title": "Stocks slip in cautious trading after weak US retail sales data",
         "link": "https://finance.yahoo.com/markets/world-indices/articles/most-asian-stocks-track-wall-024850728.html"
+      }
+    ]
+  },
+  {
+    "date": "2026-08-15",
+    "updated_at": "2026-08-15T22:50:52Z",
+    "wti": {
+      "close": 82.4,
+      "prev": 81.25,
+      "chg_pct": 1.42,
+      "chg_abs": 1.15,
+      "drop_streak": 0,
+      "ma20_dev": -0.13,
+      "range_pos": 58.6,
+      "volume_ratio": 0.95,
+      "reasons": [
+        "较前一交易日上涨 1.42%（+1.15 美元）。"
+      ]
+    },
+    "brent": {
+      "close": 88.52,
+      "prev": 87.07,
+      "chg_pct": 1.67,
+      "chg_abs": 1.45,
+      "drop_streak": 0,
+      "ma20_dev": 0.37,
+      "range_pos": 58.2,
+      "volume_ratio": 0.7,
+      "reasons": [
+        "较前一交易日上涨 1.67%（+1.45 美元）。"
+      ]
+    },
+    "news": [
+      {
+        "title": "The Top 5 Analyst Questions From ConocoPhillips’s Q2 Earnings Call",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/top-5-analyst-questions-conocophillips-145300867.html"
+      },
+      {
+        "title": "The 5 Most Interesting Analyst Questions From BKV’s Q2 Earnings Call",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/5-most-interesting-analyst-questions-141300653.html"
+      },
+      {
+        "title": "Larry Fink Says Oil Could Be Cut in Half. If So, This Tech Stock Could Explode Higher",
+        "link": "https://finance.yahoo.com/m/6565b8e8-2c85-3932-b981-90adc7a3eae4/larry-fink-says-oil-could-be.html"
+      },
+      {
+        "title": "The Top 5 Analyst Questions From Northern Oil and Gas’s Q2 Earnings Call",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/top-5-analyst-questions-northern-061300597.html"
       }
     ]
   }
