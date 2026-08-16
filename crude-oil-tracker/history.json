@@ -1,55 +1,5 @@
 [
   {
-    "date": "2026-08-11",
-    "updated_at": "2026-08-11T23:20:09Z",
-    "wti": {
-      "close": 83.49,
-      "prev": 82.13,
-      "chg_pct": 1.66,
-      "chg_abs": 1.36,
-      "drop_streak": 0,
-      "ma20_dev": 1.54,
-      "range_pos": 63.2,
-      "volume_ratio": 0.01,
-      "reasons": [
-        "较前一交易日上涨 1.66%（+1.36 美元）。",
-        "成交量明显萎缩，市场观望情绪浓。"
-      ]
-    },
-    "brent": {
-      "close": 89.3,
-      "prev": 87.72,
-      "chg_pct": 1.8,
-      "chg_abs": 1.58,
-      "drop_streak": 0,
-      "ma20_dev": 1.65,
-      "range_pos": 60.9,
-      "volume_ratio": 0.0,
-      "reasons": [
-        "较前一交易日上涨 1.80%（+1.58 美元）。",
-        "成交量明显萎缩，市场观望情绪浓。"
-      ]
-    },
-    "news": [
-      {
-        "title": "5 Must-Read Analyst Questions From Viper Energy’s Q2 Earnings Call",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/5-must-read-analyst-questions-225322756.html"
-      },
-      {
-        "title": "Wall Street ends down as US-Iran peace optimism fades",
-        "link": "https://finance.yahoo.com/video/wall-street-ends-down-us-224853021.html"
-      },
-      {
-        "title": "The Top 5 Analyst Questions From Crescent Energy’s Q2 Earnings Call",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/top-5-analyst-questions-crescent-224522027.html"
-      },
-      {
-        "title": "Dow Jones Futures: Stocks Pause Before CPI Inflation; 3 Nvidia Partners Lead Earnings Movers Late",
-        "link": "https://finance.yahoo.com/m/7170c7f6-3bd3-35bf-bee2-a691a7f3afbd/dow-jones-futures%3A-stocks.html"
-      }
-    ]
-  },
-  {
     "date": "2026-08-12",
     "updated_at": "2026-08-12T23:18:29Z",
     "wti": {
@@ -242,6 +192,56 @@
       {
         "title": "The Top 5 Analyst Questions From Northern Oil and Gas’s Q2 Earnings Call",
         "link": "https://finance.yahoo.com/markets/stocks/articles/top-5-analyst-questions-northern-061300597.html"
+      }
+    ]
+  },
+  {
+    "date": "2026-08-16",
+    "updated_at": "2026-08-16T22:49:24Z",
+    "wti": {
+      "close": 82.4,
+      "prev": 82.4,
+      "chg_pct": 0.0,
+      "chg_abs": 0.0,
+      "drop_streak": 0,
+      "ma20_dev": -0.08,
+      "range_pos": 58.6,
+      "volume_ratio": 0.01,
+      "reasons": [
+        "较前一交易日持平 0.00%（+0.00 美元）。",
+        "成交量明显萎缩，市场观望情绪浓。"
+      ]
+    },
+    "brent": {
+      "close": 88.68,
+      "prev": 88.52,
+      "chg_pct": 0.18,
+      "chg_abs": 0.16,
+      "drop_streak": 0,
+      "ma20_dev": 0.58,
+      "range_pos": 58.8,
+      "volume_ratio": 0.0,
+      "reasons": [
+        "较前一交易日上涨 0.18%（+0.16 美元）。",
+        "成交量明显萎缩，市场观望情绪浓。"
+      ]
+    },
+    "news": [
+      {
+        "title": "Oil Majors Reap $93 Billion Windfall From the Iran War",
+        "link": "https://finance.yahoo.com/energy/articles/oil-majors-reap-93-billion-190000461.html"
+      },
+      {
+        "title": "Buyers line up for £2.5bn BP North Sea takeover",
+        "link": "https://finance.yahoo.com/m/f115d258-81e4-3964-a24a-969809cf8418/buyers-line-up-for-%C2%A32.5bn-bp.html"
+      },
+      {
+        "title": "Bonds Face a Bigger Threat Than the Fed as Global Rates Climb",
+        "link": "https://finance.yahoo.com/economy/policy/articles/bonds-face-bigger-threat-fed-120000846.html"
+      },
+      {
+        "title": "Peter Thiel’s Second-Biggest Bet is Not a Tech Stock Anymore",
+        "link": "https://finance.yahoo.com/m/326a796a-8f30-3462-92ce-71e10f6286fb/peter-thiel%E2%80%99s-second-biggest.html"
       }
     ]
   }
