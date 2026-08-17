@@ -1,55 +1,5 @@
 [
   {
-    "date": "2026-08-12",
-    "updated_at": "2026-08-12T23:18:29Z",
-    "wti": {
-      "close": 82.72,
-      "prev": 83.2,
-      "chg_pct": -0.58,
-      "chg_abs": -0.48,
-      "drop_streak": 1,
-      "ma20_dev": 0.43,
-      "range_pos": 59.9,
-      "volume_ratio": 0.0,
-      "reasons": [
-        "较前一交易日下跌 0.58%（-0.48 美元）。",
-        "成交量明显萎缩，市场观望情绪浓。"
-      ]
-    },
-    "brent": {
-      "close": 88.5,
-      "prev": 88.91,
-      "chg_pct": -0.46,
-      "chg_abs": -0.41,
-      "drop_streak": 1,
-      "ma20_dev": 0.56,
-      "range_pos": 58.1,
-      "volume_ratio": 0.0,
-      "reasons": [
-        "较前一交易日下跌 0.46%（-0.41 美元）。",
-        "成交量明显萎缩，市场观望情绪浓。"
-      ]
-    },
-    "news": [
-      {
-        "title": "Talos Energy (TALO) Just Reshaped Its Map, So What’s The Catch?",
-        "link": "https://finance.yahoo.com/energy/articles/talos-energy-talo-just-reshaped-225135261.html"
-      },
-      {
-        "title": "Oil prices climb again, as global stocks gain",
-        "link": "https://finance.yahoo.com/markets/articles/stocks-inch-oil-dips-traders-163401004.html"
-      },
-      {
-        "title": "U.S. Stocks Mixed After Inflation Data, AI Earnings",
-        "link": "https://finance.yahoo.com/m/39ad81f5-bb02-3190-bd61-d23b145101fd/u.s.-stocks-mixed-after.html"
-      },
-      {
-        "title": "Mexco Energy Corporation Reports Financial Results for First Quarter",
-        "link": "https://finance.yahoo.com/energy/articles/mexco-energy-corporation-reports-financial-205800819.html"
-      }
-    ]
-  },
-  {
     "date": "2026-08-13",
     "updated_at": "2026-08-13T23:20:18Z",
     "wti": {
@@ -242,6 +192,58 @@
       {
         "title": "Peter Thiel’s Second-Biggest Bet is Not a Tech Stock Anymore",
         "link": "https://finance.yahoo.com/m/326a796a-8f30-3462-92ce-71e10f6286fb/peter-thiel%E2%80%99s-second-biggest.html"
+      }
+    ]
+  },
+  {
+    "date": "2026-08-17",
+    "updated_at": "2026-08-17T22:52:06Z",
+    "wti": {
+      "close": 85.12,
+      "prev": 82.4,
+      "chg_pct": 3.3,
+      "chg_abs": 2.72,
+      "drop_streak": 0,
+      "ma20_dev": 3.05,
+      "range_pos": 70.1,
+      "volume_ratio": 0.0,
+      "reasons": [
+        "较前一交易日上涨 3.30%（+2.72 美元）。",
+        "当前价格高于 20 日均线约 3.1%，短线偏强。",
+        "成交量明显萎缩，市场观望情绪浓。"
+      ]
+    },
+    "brent": {
+      "close": 91.21,
+      "prev": 88.52,
+      "chg_pct": 3.04,
+      "chg_abs": 2.69,
+      "drop_streak": 0,
+      "ma20_dev": 3.3,
+      "range_pos": 67.4,
+      "volume_ratio": 0.0,
+      "reasons": [
+        "较前一交易日上涨 3.04%（+2.69 美元）。",
+        "当前价格高于 20 日均线约 3.3%，短线偏强。",
+        "成交量明显萎缩，市场观望情绪浓。"
+      ]
+    },
+    "news": [
+      {
+        "title": "Wall Street indexes slip as oil prices rise, retail results awaited",
+        "link": "https://finance.yahoo.com/video/wall-street-indexes-slip-oil-221542467.html"
+      },
+      {
+        "title": "S&P500, Dow, Nasdaq End Lower As Geopolitics And Oil Price Risk Take Center Stage — TSLA, PSKY, MSTR, BABA, NVDA In Focus",
+        "link": "https://finance.yahoo.com/m/a7037492-737a-33e6-9bfa-60dbe7964b56/s%26p500%2C-dow%2C-nasdaq-end-lower.html"
+      },
+      {
+        "title": "Update: US Equity Indexes Slide After Trump's Threats to Bomb Oman Lifts Crude Oil, 30-Year Treasury Yield Touches 19-Year High",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/us-equity-indexes-slide-trump-211106690.html"
+      },
+      {
+        "title": "Trading Day: Bonds play the blues",
+        "link": "https://finance.yahoo.com/markets/articles/trading-day-bonds-play-blues-210450520.html"
       }
     ]
   }
