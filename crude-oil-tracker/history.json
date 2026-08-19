@@ -1,53 +1,5 @@
 [
   {
-    "date": "2026-08-14",
-    "updated_at": "2026-08-14T22:52:33Z",
-    "wti": {
-      "close": 82.4,
-      "prev": 81.25,
-      "chg_pct": 1.42,
-      "chg_abs": 1.15,
-      "drop_streak": 0,
-      "ma20_dev": -0.13,
-      "range_pos": 58.6,
-      "volume_ratio": 0.64,
-      "reasons": [
-        "较前一交易日上涨 1.42%（+1.15 美元）。"
-      ]
-    },
-    "brent": {
-      "close": 88.59,
-      "prev": 87.07,
-      "chg_pct": 1.75,
-      "chg_abs": 1.52,
-      "drop_streak": 0,
-      "ma20_dev": 0.44,
-      "range_pos": 58.4,
-      "volume_ratio": 0.68,
-      "reasons": [
-        "较前一交易日上涨 1.75%（+1.52 美元）。"
-      ]
-    },
-    "news": [
-      {
-        "title": "Oil prices rally, US data dents chances of Fed rate hike",
-        "link": "https://finance.yahoo.com/news/asian-stocks-set-weekly-gain-023234921.html"
-      },
-      {
-        "title": "Stock Market Today: Nasdaq Slips On Retail Sales Gloom; Nvidia Eyes Robotics Wave",
-        "link": "https://finance.yahoo.com/m/00339b32-5e9a-331a-9223-dd02518723a7/stock-market-today%3A-nasdaq.html"
-      },
-      {
-        "title": "Energy & Utilities Roundup: Market Talk",
-        "link": "https://finance.yahoo.com/m/90285fc6-acc0-39ce-9b64-7b59b81772b6/energy-%26-utilities-roundup%3A.html"
-      },
-      {
-        "title": "Stocks slip in cautious trading after weak US retail sales data",
-        "link": "https://finance.yahoo.com/markets/world-indices/articles/most-asian-stocks-track-wall-024850728.html"
-      }
-    ]
-  },
-  {
     "date": "2026-08-15",
     "updated_at": "2026-08-15T22:50:52Z",
     "wti": {
@@ -246,6 +198,58 @@
       {
         "title": "Trading Day: Bonds slam stocks",
         "link": "https://finance.yahoo.com/markets/articles/trading-day-bonds-slam-stocks-210310149.html"
+      }
+    ]
+  },
+  {
+    "date": "2026-08-19",
+    "updated_at": "2026-08-19T22:53:09Z",
+    "wti": {
+      "close": 84.28,
+      "prev": 84.94,
+      "chg_pct": -0.78,
+      "chg_abs": -0.66,
+      "drop_streak": 1,
+      "ma20_dev": 2.23,
+      "range_pos": 66.5,
+      "volume_ratio": 0.0,
+      "reasons": [
+        "较前一交易日下跌 0.78%（-0.66 美元）。",
+        "当前价格高于 20 日均线约 2.2%，短线偏强。",
+        "成交量明显萎缩，市场观望情绪浓。"
+      ]
+    },
+    "brent": {
+      "close": 91.39,
+      "prev": 91.02,
+      "chg_pct": 0.41,
+      "chg_abs": 0.37,
+      "drop_streak": 0,
+      "ma20_dev": 3.68,
+      "range_pos": 68.1,
+      "volume_ratio": 0.0,
+      "reasons": [
+        "较前一交易日上涨 0.41%（+0.37 美元）。",
+        "当前价格高于 20 日均线约 3.7%，短线偏强。",
+        "成交量明显萎缩，市场观望情绪浓。"
+      ]
+    },
+    "news": [
+      {
+        "title": "Exxon Stock Rises as Oil Nears $92 on Hormuz Risk",
+        "link": "https://finance.yahoo.com/energy/articles/exxon-stock-rises-oil-nears-215435932.html"
+      },
+      {
+        "title": "SLB Prepares to Restart 15 Oil Rigs in Venezuela",
+        "link": "https://finance.yahoo.com/energy/articles/slb-prepares-restart-15-oil-210000686.html"
+      },
+      {
+        "title": "Energy & Utilities Roundup: Market Talk",
+        "link": "https://finance.yahoo.com/m/935141ff-d585-38e3-ac0e-5dfcc1bb405b/energy-%26-utilities-roundup%3A.html"
+      },
+      {
+        "title": "Stocks waver, dollar drops as US Treasury moves to lower bond yields",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/tech-leads-losses-asian-stocks-024127256.html"
       }
     ]
   }
