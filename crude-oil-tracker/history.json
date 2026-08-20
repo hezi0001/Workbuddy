@@ -1,53 +1,5 @@
 [
   {
-    "date": "2026-08-15",
-    "updated_at": "2026-08-15T22:50:52Z",
-    "wti": {
-      "close": 82.4,
-      "prev": 81.25,
-      "chg_pct": 1.42,
-      "chg_abs": 1.15,
-      "drop_streak": 0,
-      "ma20_dev": -0.13,
-      "range_pos": 58.6,
-      "volume_ratio": 0.95,
-      "reasons": [
-        "较前一交易日上涨 1.42%（+1.15 美元）。"
-      ]
-    },
-    "brent": {
-      "close": 88.52,
-      "prev": 87.07,
-      "chg_pct": 1.67,
-      "chg_abs": 1.45,
-      "drop_streak": 0,
-      "ma20_dev": 0.37,
-      "range_pos": 58.2,
-      "volume_ratio": 0.7,
-      "reasons": [
-        "较前一交易日上涨 1.67%（+1.45 美元）。"
-      ]
-    },
-    "news": [
-      {
-        "title": "The Top 5 Analyst Questions From ConocoPhillips’s Q2 Earnings Call",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/top-5-analyst-questions-conocophillips-145300867.html"
-      },
-      {
-        "title": "The 5 Most Interesting Analyst Questions From BKV’s Q2 Earnings Call",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/5-most-interesting-analyst-questions-141300653.html"
-      },
-      {
-        "title": "Larry Fink Says Oil Could Be Cut in Half. If So, This Tech Stock Could Explode Higher",
-        "link": "https://finance.yahoo.com/m/6565b8e8-2c85-3932-b981-90adc7a3eae4/larry-fink-says-oil-could-be.html"
-      },
-      {
-        "title": "The Top 5 Analyst Questions From Northern Oil and Gas’s Q2 Earnings Call",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/top-5-analyst-questions-northern-061300597.html"
-      }
-    ]
-  },
-  {
     "date": "2026-08-16",
     "updated_at": "2026-08-16T22:49:24Z",
     "wti": {
@@ -250,6 +202,59 @@
       {
         "title": "Stocks waver, dollar drops as US Treasury moves to lower bond yields",
         "link": "https://finance.yahoo.com/markets/stocks/articles/tech-leads-losses-asian-stocks-024127256.html"
+      }
+    ]
+  },
+  {
+    "date": "2026-08-20",
+    "updated_at": "2026-08-20T22:56:48Z",
+    "wti": {
+      "close": 86.3,
+      "prev": 85.83,
+      "chg_pct": 0.55,
+      "chg_abs": 0.47,
+      "drop_streak": 0,
+      "ma20_dev": 4.95,
+      "range_pos": 75.1,
+      "volume_ratio": 0.0,
+      "reasons": [
+        "较前一交易日上涨 0.55%（+0.47 美元）。",
+        "当前价格高于 20 日均线约 5.0%，短线偏强。",
+        "处于近两月价格区间高位，注意回落风险。",
+        "成交量明显萎缩，市场观望情绪浓。"
+      ]
+    },
+    "brent": {
+      "close": 93.24,
+      "prev": 91.62,
+      "chg_pct": 1.77,
+      "chg_abs": 1.62,
+      "drop_streak": 0,
+      "ma20_dev": 6.21,
+      "range_pos": 74.4,
+      "volume_ratio": 0.0,
+      "reasons": [
+        "较前一交易日上涨 1.77%（+1.62 美元）。",
+        "当前价格高于 20 日均线约 6.2%，短线偏强。",
+        "成交量明显萎缩，市场观望情绪浓。"
+      ]
+    },
+    "news": [
+      {
+        "title": "Curtiss-Wright, Redwire, Rocket Lab, Astronics, and Woodward Shares Are Falling, What You Need To Know",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/curtiss-wright-redwire-rocket-lab-224315943.html"
+      },
+      {
+        "title": "Dow Jones Futures: Market Triggers This Bearish Signal As Walmart, SpaceX, CrowdStrike Tumble",
+        "link": "https://finance.yahoo.com/m/91327cea-fed2-33ed-a182-385b27c0298f/dow-jones-futures%3A-market.html"
+      },
+      {
+        "title": "Hormuz Oil Crisis Accelerates Global EV Sales",
+        "link": "https://finance.yahoo.com/energy/articles/hormuz-oil-crisis-accelerates-global-220000391.html"
+      },
+      {
+        "title": "Stock Market Today, Aug. 20: Stocks Slide on Weak Retail Earnings, Rising Bond Yields",
+        "link": "https://finance.yahoo.com/m/904a8b6f-bdac-3d12-ace7-93b361c83083/stock-market-today%2C-aug.-20%3A.html"
       }
     ]
   }
