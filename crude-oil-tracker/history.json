@@ -1,57 +1,5 @@
 [
   {
-    "date": "2026-08-17",
-    "updated_at": "2026-08-17T22:52:06Z",
-    "wti": {
-      "close": 85.12,
-      "prev": 82.4,
-      "chg_pct": 3.3,
-      "chg_abs": 2.72,
-      "drop_streak": 0,
-      "ma20_dev": 3.05,
-      "range_pos": 70.1,
-      "volume_ratio": 0.0,
-      "reasons": [
-        "较前一交易日上涨 3.30%（+2.72 美元）。",
-        "当前价格高于 20 日均线约 3.1%，短线偏强。",
-        "成交量明显萎缩，市场观望情绪浓。"
-      ]
-    },
-    "brent": {
-      "close": 91.21,
-      "prev": 88.52,
-      "chg_pct": 3.04,
-      "chg_abs": 2.69,
-      "drop_streak": 0,
-      "ma20_dev": 3.3,
-      "range_pos": 67.4,
-      "volume_ratio": 0.0,
-      "reasons": [
-        "较前一交易日上涨 3.04%（+2.69 美元）。",
-        "当前价格高于 20 日均线约 3.3%，短线偏强。",
-        "成交量明显萎缩，市场观望情绪浓。"
-      ]
-    },
-    "news": [
-      {
-        "title": "Wall Street indexes slip as oil prices rise, retail results awaited",
-        "link": "https://finance.yahoo.com/video/wall-street-indexes-slip-oil-221542467.html"
-      },
-      {
-        "title": "S&P500, Dow, Nasdaq End Lower As Geopolitics And Oil Price Risk Take Center Stage — TSLA, PSKY, MSTR, BABA, NVDA In Focus",
-        "link": "https://finance.yahoo.com/m/a7037492-737a-33e6-9bfa-60dbe7964b56/s%26p500%2C-dow%2C-nasdaq-end-lower.html"
-      },
-      {
-        "title": "Update: US Equity Indexes Slide After Trump's Threats to Bomb Oman Lifts Crude Oil, 30-Year Treasury Yield Touches 19-Year High",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/us-equity-indexes-slide-trump-211106690.html"
-      },
-      {
-        "title": "Trading Day: Bonds play the blues",
-        "link": "https://finance.yahoo.com/markets/articles/trading-day-bonds-play-blues-210450520.html"
-      }
-    ]
-  },
-  {
     "date": "2026-08-18",
     "updated_at": "2026-08-18T22:53:25Z",
     "wti": {
@@ -258,6 +206,58 @@
       {
         "title": "TSX Closer: The Index Rises as Base Metals Rally, Oil and Gold Rise",
         "link": "https://finance.yahoo.com/markets/commodities/articles/tsx-closer-index-rises-metals-202334682.html"
+      }
+    ]
+  },
+  {
+    "date": "2026-08-22",
+    "updated_at": "2026-08-22T22:50:57Z",
+    "wti": {
+      "close": 87.06,
+      "prev": 87.83,
+      "chg_pct": -0.88,
+      "chg_abs": -0.77,
+      "drop_streak": 1,
+      "ma20_dev": 5.93,
+      "range_pos": 78.3,
+      "volume_ratio": 1.02,
+      "reasons": [
+        "较前一交易日下跌 0.88%（-0.77 美元）。",
+        "当前价格高于 20 日均线约 5.9%，短线偏强。",
+        "处于近两月价格区间高位，注意回落风险。"
+      ]
+    },
+    "brent": {
+      "close": 94.39,
+      "prev": 93.78,
+      "chg_pct": 0.65,
+      "chg_abs": 0.61,
+      "drop_streak": 0,
+      "ma20_dev": 7.64,
+      "range_pos": 78.4,
+      "volume_ratio": 0.68,
+      "reasons": [
+        "较前一交易日上涨 0.65%（+0.61 美元）。",
+        "当前价格高于 20 日均线约 7.6%，短线偏强。",
+        "处于近两月价格区间高位，注意回落风险。"
+      ]
+    },
+    "news": [
+      {
+        "title": "Can This 6.3% Yield Survive if Oil Crashes Again?",
+        "link": "https://finance.yahoo.com/m/b4c9c1ff-32c6-3ded-abb9-234642b0c2c1/can-this-6.3%25-yield-survive.html"
+      },
+      {
+        "title": "As Global Fuel Markets Whipsaw Through Historic Volatility, JSV Global's Jason Venturelli Calls for a New Playbook on Fuel Risk",
+        "link": "https://finance.yahoo.com/energy/articles/global-fuel-markets-whipsaw-historic-170000873.html"
+      },
+      {
+        "title": "Tallgrass Announces Open Season for the Pony Express Pipeline",
+        "link": "https://finance.yahoo.com/energy/articles/tallgrass-announces-open-season-pony-163300392.html"
+      },
+      {
+        "title": "Tallgrass Announces Open Season for the Seahorse Pipeline",
+        "link": "https://finance.yahoo.com/energy/articles/tallgrass-announces-open-season-seahorse-163100763.html"
       }
     ]
   }
