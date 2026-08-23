@@ -1,57 +1,5 @@
 [
   {
-    "date": "2026-08-18",
-    "updated_at": "2026-08-18T22:53:25Z",
-    "wti": {
-      "close": 84.48,
-      "prev": 84.5,
-      "chg_pct": -0.02,
-      "chg_abs": -0.02,
-      "drop_streak": 1,
-      "ma20_dev": 2.34,
-      "range_pos": 67.4,
-      "volume_ratio": 0.01,
-      "reasons": [
-        "较前一交易日下跌 0.02%（-0.02 美元）。",
-        "当前价格高于 20 日均线约 2.3%，短线偏强。",
-        "成交量明显萎缩，市场观望情绪浓。"
-      ]
-    },
-    "brent": {
-      "close": 91.31,
-      "prev": 90.87,
-      "chg_pct": 0.48,
-      "chg_abs": 0.44,
-      "drop_streak": 0,
-      "ma20_dev": 3.42,
-      "range_pos": 67.8,
-      "volume_ratio": 0.0,
-      "reasons": [
-        "较前一交易日上涨 0.48%（+0.44 美元）。",
-        "当前价格高于 20 日均线约 3.4%，短线偏强。",
-        "成交量明显萎缩，市场观望情绪浓。"
-      ]
-    },
-    "news": [
-      {
-        "title": "Dow Jones Futures: Sandisk, Micron, Credo Lead Painful AI Losses; Market Rally Near Key Test",
-        "link": "https://finance.yahoo.com/m/ae8bbbcf-7a5d-37db-bb3e-baf2ff1d28ef/dow-jones-futures%3A-sandisk%2C.html"
-      },
-      {
-        "title": "Epsilon Energy Maps Multi-Basin Growth Plan as Production Outlook Rises 18%",
-        "link": "https://finance.yahoo.com/m/7e2e9ad1-4b5b-345a-bcbb-16863ca84176/epsilon-energy-maps.html"
-      },
-      {
-        "title": "Peter Thiel Bets $76 Million on Argentina’s Vaca Muerta Shale",
-        "link": "https://finance.yahoo.com/energy/articles/peter-thiel-bets-76-million-220000241.html"
-      },
-      {
-        "title": "Trading Day: Bonds slam stocks",
-        "link": "https://finance.yahoo.com/markets/articles/trading-day-bonds-slam-stocks-210310149.html"
-      }
-    ]
-  },
-  {
     "date": "2026-08-19",
     "updated_at": "2026-08-19T22:53:09Z",
     "wti": {
@@ -258,6 +206,61 @@
       {
         "title": "Tallgrass Announces Open Season for the Seahorse Pipeline",
         "link": "https://finance.yahoo.com/energy/articles/tallgrass-announces-open-season-seahorse-163100763.html"
+      }
+    ]
+  },
+  {
+    "date": "2026-08-23",
+    "updated_at": "2026-08-23T22:51:02Z",
+    "wti": {
+      "close": 86.33,
+      "prev": 87.06,
+      "chg_pct": -0.84,
+      "chg_abs": -0.73,
+      "drop_streak": 2,
+      "ma20_dev": 4.8,
+      "range_pos": 75.2,
+      "volume_ratio": 0.01,
+      "reasons": [
+        "较前一交易日下跌 0.84%（-0.73 美元）。",
+        "已连续 2 个交易日走低，短期弱势延续。",
+        "当前价格高于 20 日均线约 4.8%，短线偏强。",
+        "处于近两月价格区间高位，注意回落风险。",
+        "成交量明显萎缩，市场观望情绪浓。"
+      ]
+    },
+    "brent": {
+      "close": 93.64,
+      "prev": 94.39,
+      "chg_pct": -0.79,
+      "chg_abs": -0.75,
+      "drop_streak": 1,
+      "ma20_dev": 6.46,
+      "range_pos": 75.8,
+      "volume_ratio": 0.0,
+      "reasons": [
+        "较前一交易日下跌 0.79%（-0.75 美元）。",
+        "当前价格高于 20 日均线约 6.5%，短线偏强。",
+        "处于近两月价格区间高位，注意回落风险。",
+        "成交量明显萎缩，市场观望情绪浓。"
+      ]
+    },
+    "news": [
+      {
+        "title": "The next big oil trade may have nothing to do with oil stocks",
+        "link": "https://finance.yahoo.com/m/c7d3539c-0098-30e4-8581-d955ae8d11e6/the-next-big-oil-trade-may.html"
+      },
+      {
+        "title": "Jim Cramer Says Stocks and the Economy Are Telling Two Very Different Stories: ‘Jarring Gulf’",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-says-stocks-economy-203116548.html"
+      },
+      {
+        "title": "Sinopec reports 19% profit jump in H1 2026 despite Middle East crisis",
+        "link": "https://finance.yahoo.com/energy/articles/sinopec-reports-19-profit-jump-113126453.html"
+      },
+      {
+        "title": "Is Brookfield Renewable a Better Buy Now Than It Was 6 Months Ago?",
+        "link": "https://finance.yahoo.com/m/92c3c94c-985f-39cf-a412-da7ecb86cc68/is-brookfield-renewable-a.html"
       }
     ]
   }
