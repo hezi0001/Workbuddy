@@ -1,58 +1,5 @@
 [
   {
-    "date": "2026-08-20",
-    "updated_at": "2026-08-20T22:56:48Z",
-    "wti": {
-      "close": 86.3,
-      "prev": 85.83,
-      "chg_pct": 0.55,
-      "chg_abs": 0.47,
-      "drop_streak": 0,
-      "ma20_dev": 4.95,
-      "range_pos": 75.1,
-      "volume_ratio": 0.0,
-      "reasons": [
-        "较前一交易日上涨 0.55%（+0.47 美元）。",
-        "当前价格高于 20 日均线约 5.0%，短线偏强。",
-        "处于近两月价格区间高位，注意回落风险。",
-        "成交量明显萎缩，市场观望情绪浓。"
-      ]
-    },
-    "brent": {
-      "close": 93.24,
-      "prev": 91.62,
-      "chg_pct": 1.77,
-      "chg_abs": 1.62,
-      "drop_streak": 0,
-      "ma20_dev": 6.21,
-      "range_pos": 74.4,
-      "volume_ratio": 0.0,
-      "reasons": [
-        "较前一交易日上涨 1.77%（+1.62 美元）。",
-        "当前价格高于 20 日均线约 6.2%，短线偏强。",
-        "成交量明显萎缩，市场观望情绪浓。"
-      ]
-    },
-    "news": [
-      {
-        "title": "Curtiss-Wright, Redwire, Rocket Lab, Astronics, and Woodward Shares Are Falling, What You Need To Know",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/curtiss-wright-redwire-rocket-lab-224315943.html"
-      },
-      {
-        "title": "Dow Jones Futures: Market Triggers This Bearish Signal As Walmart, SpaceX, CrowdStrike Tumble",
-        "link": "https://finance.yahoo.com/m/91327cea-fed2-33ed-a182-385b27c0298f/dow-jones-futures%3A-market.html"
-      },
-      {
-        "title": "Hormuz Oil Crisis Accelerates Global EV Sales",
-        "link": "https://finance.yahoo.com/energy/articles/hormuz-oil-crisis-accelerates-global-220000391.html"
-      },
-      {
-        "title": "Stock Market Today, Aug. 20: Stocks Slide on Weak Retail Earnings, Rising Bond Yields",
-        "link": "https://finance.yahoo.com/m/904a8b6f-bdac-3d12-ace7-93b361c83083/stock-market-today%2C-aug.-20%3A.html"
-      }
-    ]
-  },
-  {
     "date": "2026-08-21",
     "updated_at": "2026-08-21T22:53:09Z",
     "wti": {
@@ -262,6 +209,59 @@
       {
         "title": "TotalEnergies (ENXTPA:TTE) CEO Reaffirms All Energy Plan As Hormuz Flows Hold Steady",
         "link": "https://finance.yahoo.com/energy/articles/totalenergies-enxtpa-tte-ceo-reaffirms-211038284.html"
+      }
+    ]
+  },
+  {
+    "date": "2026-08-25",
+    "updated_at": "2026-08-25T22:57:22Z",
+    "wti": {
+      "close": 80.98,
+      "prev": 85.01,
+      "chg_pct": -4.74,
+      "chg_abs": -4.03,
+      "drop_streak": 3,
+      "ma20_dev": -1.72,
+      "range_pos": 52.6,
+      "volume_ratio": 0.01,
+      "reasons": [
+        "较前一交易日下跌 4.74%（-4.03 美元）。",
+        "已连续 3 个交易日走低，短期弱势延续。",
+        "成交量明显萎缩，市场观望情绪浓。"
+      ]
+    },
+    "brent": {
+      "close": 86.15,
+      "prev": 92.17,
+      "chg_pct": -6.53,
+      "chg_abs": -6.02,
+      "drop_streak": 2,
+      "ma20_dev": -2.09,
+      "range_pos": 50.1,
+      "volume_ratio": 0.0,
+      "reasons": [
+        "较前一交易日下跌 6.53%（-6.02 美元）。",
+        "已连续 2 个交易日走低，短期弱势延续。",
+        "当前价格低于 20 日均线约 2.1%，短线偏弱。",
+        "成交量明显萎缩，市场观望情绪浓。"
+      ]
+    },
+    "news": [
+      {
+        "title": "Dow Jones Futures: Stocks Rise Cautiously Into Fed Inflation Data, Nvidia Earnings; Robinhood In Buy Area",
+        "link": "https://finance.yahoo.com/m/a1a5cb94-36b5-3bbd-869f-362442258823/dow-jones-futures%3A-stocks.html"
+      },
+      {
+        "title": "Bessent's Iran complex strategy, requires time",
+        "link": "https://finance.yahoo.com/m/c902040d-d9da-349d-ac0b-54136d9008c9/bessent%27s-iran-complex.html"
+      },
+      {
+        "title": "Trading Day: Oil, yields slide   ",
+        "link": "https://finance.yahoo.com/markets/commodities/articles/trading-day-oil-yields-slide-212425569.html"
+      },
+      {
+        "title": "Update: US Equity Indexes Rise With Tech While Treasury Yields, Crude Oil Slide as Process to Tighten Noose Around Iran Begins",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/us-equity-indexes-rise-tech-211306671.html"
       }
     ]
   }
