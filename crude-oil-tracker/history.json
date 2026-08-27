@@ -1,58 +1,5 @@
 [
   {
-    "date": "2026-08-21",
-    "updated_at": "2026-08-21T22:53:09Z",
-    "wti": {
-      "close": 86.64,
-      "prev": 87.83,
-      "chg_pct": -1.35,
-      "chg_abs": -1.19,
-      "drop_streak": 1,
-      "ma20_dev": 5.44,
-      "range_pos": 76.5,
-      "volume_ratio": 0.83,
-      "reasons": [
-        "较前一交易日下跌 1.35%（-1.19 美元）。",
-        "当前价格高于 20 日均线约 5.4%，短线偏强。",
-        "处于近两月价格区间高位，注意回落风险。"
-      ]
-    },
-    "brent": {
-      "close": 93.87,
-      "prev": 93.78,
-      "chg_pct": 0.1,
-      "chg_abs": 0.09,
-      "drop_streak": 0,
-      "ma20_dev": 7.08,
-      "range_pos": 76.6,
-      "volume_ratio": 0.39,
-      "reasons": [
-        "较前一交易日上涨 0.10%（+0.09 美元）。",
-        "当前价格高于 20 日均线约 7.1%，短线偏强。",
-        "处于近两月价格区间高位，注意回落风险。",
-        "成交量明显萎缩，市场观望情绪浓。"
-      ]
-    },
-    "news": [
-      {
-        "title": "China's New Five-Year Plan Preps the Nation for Peak Oil",
-        "link": "https://finance.yahoo.com/energy/articles/chinas-five-plan-preps-nation-220000847.html"
-      },
-      {
-        "title": "Bitcoin jumps, stocks bounce as traders weigh US Treasury action",
-        "link": "https://finance.yahoo.com/markets/world-indices/articles/asian-markets-extend-rally-traders-023442615.html"
-      },
-      {
-        "title": "US Equity Markets End Higher After Iran Hints at Desire to End War Soon, Crude Oil Prices Halt",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/us-equity-markets-end-higher-203610880.html"
-      },
-      {
-        "title": "TSX Closer: The Index Rises as Base Metals Rally, Oil and Gold Rise",
-        "link": "https://finance.yahoo.com/markets/commodities/articles/tsx-closer-index-rises-metals-202334682.html"
-      }
-    ]
-  },
-  {
     "date": "2026-08-22",
     "updated_at": "2026-08-22T22:50:57Z",
     "wti": {
@@ -262,6 +209,58 @@
       {
         "title": "Update: US Equity Indexes Rise With Tech While Treasury Yields, Crude Oil Slide as Process to Tighten Noose Around Iran Begins",
         "link": "https://finance.yahoo.com/markets/stocks/articles/us-equity-indexes-rise-tech-211306671.html"
+      }
+    ]
+  },
+  {
+    "date": "2026-08-27",
+    "updated_at": "2026-08-27T03:30:12Z",
+    "wti": {
+      "close": 81.71,
+      "prev": 82.23,
+      "chg_pct": -0.63,
+      "chg_abs": -0.52,
+      "drop_streak": 5,
+      "ma20_dev": -0.67,
+      "range_pos": 55.7,
+      "volume_ratio": 0.04,
+      "reasons": [
+        "较前一交易日下跌 0.63%（-0.52 美元）。",
+        "已连续 5 个交易日走低，短期弱势延续。",
+        "成交量明显萎缩，市场观望情绪浓。"
+      ]
+    },
+    "brent": {
+      "close": 86.39,
+      "prev": 87.84,
+      "chg_pct": -1.65,
+      "chg_abs": -1.45,
+      "drop_streak": 4,
+      "ma20_dev": -1.64,
+      "range_pos": 50.9,
+      "volume_ratio": 0.06,
+      "reasons": [
+        "较前一交易日下跌 1.65%（-1.45 美元）。",
+        "已连续 4 个交易日走低，短期弱势延续。",
+        "成交量明显萎缩，市场观望情绪浓。"
+      ]
+    },
+    "news": [
+      {
+        "title": "Dow Jones Futures Rise; Nvidia, CrowdStrike, Okta, Salesforce Lead Earnings Movers",
+        "link": "https://finance.yahoo.com/m/c03ae35d-d27e-3caf-a89c-0c33467ec9c9/dow-jones-futures-rise%3B.html"
+      },
+      {
+        "title": "Qantas says profits slump as fuel costs surge",
+        "link": "https://finance.yahoo.com/energy/articles/qantas-says-profits-slump-fuel-020447085.html"
+      },
+      {
+        "title": "Oil prices extend losses on expectations talks to ease Middle East supply woes",
+        "link": "https://finance.yahoo.com/energy/articles/oil-prices-extend-losses-expectations-012012665.html"
+      },
+      {
+        "title": "Qantas Profit Falls as Fuel Costs Surge on Iran Conflict",
+        "link": "https://finance.yahoo.com/m/54fc4bfe-540c-3099-9bfe-6d33ed2f484c/qantas-profit-falls-as-fuel.html"
       }
     ]
   }
