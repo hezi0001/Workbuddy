@@ -1,57 +1,5 @@
 [
   {
-    "date": "2026-08-22",
-    "updated_at": "2026-08-22T22:50:57Z",
-    "wti": {
-      "close": 87.06,
-      "prev": 87.83,
-      "chg_pct": -0.88,
-      "chg_abs": -0.77,
-      "drop_streak": 1,
-      "ma20_dev": 5.93,
-      "range_pos": 78.3,
-      "volume_ratio": 1.02,
-      "reasons": [
-        "较前一交易日下跌 0.88%（-0.77 美元）。",
-        "当前价格高于 20 日均线约 5.9%，短线偏强。",
-        "处于近两月价格区间高位，注意回落风险。"
-      ]
-    },
-    "brent": {
-      "close": 94.39,
-      "prev": 93.78,
-      "chg_pct": 0.65,
-      "chg_abs": 0.61,
-      "drop_streak": 0,
-      "ma20_dev": 7.64,
-      "range_pos": 78.4,
-      "volume_ratio": 0.68,
-      "reasons": [
-        "较前一交易日上涨 0.65%（+0.61 美元）。",
-        "当前价格高于 20 日均线约 7.6%，短线偏强。",
-        "处于近两月价格区间高位，注意回落风险。"
-      ]
-    },
-    "news": [
-      {
-        "title": "Can This 6.3% Yield Survive if Oil Crashes Again?",
-        "link": "https://finance.yahoo.com/m/b4c9c1ff-32c6-3ded-abb9-234642b0c2c1/can-this-6.3%25-yield-survive.html"
-      },
-      {
-        "title": "As Global Fuel Markets Whipsaw Through Historic Volatility, JSV Global's Jason Venturelli Calls for a New Playbook on Fuel Risk",
-        "link": "https://finance.yahoo.com/energy/articles/global-fuel-markets-whipsaw-historic-170000873.html"
-      },
-      {
-        "title": "Tallgrass Announces Open Season for the Pony Express Pipeline",
-        "link": "https://finance.yahoo.com/energy/articles/tallgrass-announces-open-season-pony-163300392.html"
-      },
-      {
-        "title": "Tallgrass Announces Open Season for the Seahorse Pipeline",
-        "link": "https://finance.yahoo.com/energy/articles/tallgrass-announces-open-season-seahorse-163100763.html"
-      }
-    ]
-  },
-  {
     "date": "2026-08-23",
     "updated_at": "2026-08-23T22:51:02Z",
     "wti": {
@@ -261,6 +209,56 @@
       {
         "title": "Qantas Profit Falls as Fuel Costs Surge on Iran Conflict",
         "link": "https://finance.yahoo.com/m/54fc4bfe-540c-3099-9bfe-6d33ed2f484c/qantas-profit-falls-as-fuel.html"
+      }
+    ]
+  },
+  {
+    "date": "2026-08-28",
+    "updated_at": "2026-08-28T06:15:14Z",
+    "wti": {
+      "close": 83.16,
+      "prev": 83.53,
+      "chg_pct": -0.44,
+      "chg_abs": -0.37,
+      "drop_streak": 1,
+      "ma20_dev": 1.08,
+      "range_pos": 61.8,
+      "volume_ratio": 0.05,
+      "reasons": [
+        "较前一交易日下跌 0.44%（-0.37 美元）。",
+        "成交量明显萎缩，市场观望情绪浓。"
+      ]
+    },
+    "brent": {
+      "close": 88.28,
+      "prev": 89.7,
+      "chg_pct": -1.58,
+      "chg_abs": -1.42,
+      "drop_streak": 1,
+      "ma20_dev": 0.43,
+      "range_pos": 57.4,
+      "volume_ratio": 0.04,
+      "reasons": [
+        "较前一交易日下跌 1.58%（-1.42 美元）。",
+        "成交量明显萎缩，市场观望情绪浓。"
+      ]
+    },
+    "news": [
+      {
+        "title": "Persian Gulf Oil Exports Recover, Centcom Says Hormuz Is Mine Free",
+        "link": "https://finance.yahoo.com/video/persian-gulf-oil-exports-recover-054422673.html"
+      },
+      {
+        "title": "Shares turn cautious ahead of Warsh's Jackson Hole debut; FX, bonds hold breath",
+        "link": "https://finance.yahoo.com/markets/currencies/articles/shares-turn-cautious-ahead-warsh-015638766.html"
+      },
+      {
+        "title": "Asian shares mostly gain after upbeat results for Nvidia and others lift US stocks",
+        "link": "https://finance.yahoo.com/markets/world-indices/articles/asian-shares-mostly-gain-upbeat-040450628.html"
+      },
+      {
+        "title": "‘Big questions’ and few easy answers for Trump’s Fed chair at annual retreat",
+        "link": "https://finance.yahoo.com/m/c6ee6ff1-989e-39db-988b-0fb2e374760d/%E2%80%98big-questions%E2%80%99-and-few-easy.html"
       }
     ]
   }
