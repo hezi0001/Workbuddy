@@ -1,60 +1,5 @@
 [
   {
-    "date": "2026-08-23",
-    "updated_at": "2026-08-23T22:51:02Z",
-    "wti": {
-      "close": 86.33,
-      "prev": 87.06,
-      "chg_pct": -0.84,
-      "chg_abs": -0.73,
-      "drop_streak": 2,
-      "ma20_dev": 4.8,
-      "range_pos": 75.2,
-      "volume_ratio": 0.01,
-      "reasons": [
-        "较前一交易日下跌 0.84%（-0.73 美元）。",
-        "已连续 2 个交易日走低，短期弱势延续。",
-        "当前价格高于 20 日均线约 4.8%，短线偏强。",
-        "处于近两月价格区间高位，注意回落风险。",
-        "成交量明显萎缩，市场观望情绪浓。"
-      ]
-    },
-    "brent": {
-      "close": 93.64,
-      "prev": 94.39,
-      "chg_pct": -0.79,
-      "chg_abs": -0.75,
-      "drop_streak": 1,
-      "ma20_dev": 6.46,
-      "range_pos": 75.8,
-      "volume_ratio": 0.0,
-      "reasons": [
-        "较前一交易日下跌 0.79%（-0.75 美元）。",
-        "当前价格高于 20 日均线约 6.5%，短线偏强。",
-        "处于近两月价格区间高位，注意回落风险。",
-        "成交量明显萎缩，市场观望情绪浓。"
-      ]
-    },
-    "news": [
-      {
-        "title": "The next big oil trade may have nothing to do with oil stocks",
-        "link": "https://finance.yahoo.com/m/c7d3539c-0098-30e4-8581-d955ae8d11e6/the-next-big-oil-trade-may.html"
-      },
-      {
-        "title": "Jim Cramer Says Stocks and the Economy Are Telling Two Very Different Stories: ‘Jarring Gulf’",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-says-stocks-economy-203116548.html"
-      },
-      {
-        "title": "Sinopec reports 19% profit jump in H1 2026 despite Middle East crisis",
-        "link": "https://finance.yahoo.com/energy/articles/sinopec-reports-19-profit-jump-113126453.html"
-      },
-      {
-        "title": "Is Brookfield Renewable a Better Buy Now Than It Was 6 Months Ago?",
-        "link": "https://finance.yahoo.com/m/92c3c94c-985f-39cf-a412-da7ecb86cc68/is-brookfield-renewable-a.html"
-      }
-    ]
-  },
-  {
     "date": "2026-08-24",
     "updated_at": "2026-08-24T22:55:14Z",
     "wti": {
@@ -259,6 +204,55 @@
       {
         "title": "‘Big questions’ and few easy answers for Trump’s Fed chair at annual retreat",
         "link": "https://finance.yahoo.com/m/c6ee6ff1-989e-39db-988b-0fb2e374760d/%E2%80%98big-questions%E2%80%99-and-few-easy.html"
+      }
+    ]
+  },
+  {
+    "date": "2026-08-29",
+    "updated_at": "2026-08-29T03:49:42Z",
+    "wti": {
+      "close": 83.44,
+      "prev": 83.53,
+      "chg_pct": -0.11,
+      "chg_abs": -0.09,
+      "drop_streak": 1,
+      "ma20_dev": 1.4,
+      "range_pos": 63.0,
+      "volume_ratio": 0.56,
+      "reasons": [
+        "较前一交易日下跌 0.11%（-0.09 美元）。",
+        "成交量明显萎缩，市场观望情绪浓。"
+      ]
+    },
+    "brent": {
+      "close": 88.29,
+      "prev": 89.7,
+      "chg_pct": -1.57,
+      "chg_abs": -1.41,
+      "drop_streak": 1,
+      "ma20_dev": 0.44,
+      "range_pos": 57.4,
+      "volume_ratio": 0.67,
+      "reasons": [
+        "较前一交易日下跌 1.57%（-1.41 美元）。"
+      ]
+    },
+    "news": [
+      {
+        "title": "Exxon (XOM) is Betting on Robots to Unlock a New Permian Oil Boom",
+        "link": "https://finance.yahoo.com/energy/articles/exxon-xom-betting-robots-unlock-022225076.html"
+      },
+      {
+        "title": "SLB’s Venezuela Bet: Massive Opportunity or Risky Gamble?",
+        "link": "https://finance.yahoo.com/energy/articles/slb-venezuela-bet-massive-opportunity-021536077.html"
+      },
+      {
+        "title": "Cenovus (CVE) Enters the Ranks of the World’s Largest Oil and Gas Producers",
+        "link": "https://finance.yahoo.com/energy/articles/cenovus-cve-enters-ranks-world-021429265.html"
+      },
+      {
+        "title": "Chevron (CVX) Nears Major Venezuela Oil Deal: Is a New Growth Engine Emerging?",
+        "link": "https://finance.yahoo.com/energy/articles/chevron-cvx-nears-major-venezuela-020912972.html"
       }
     ]
   }
