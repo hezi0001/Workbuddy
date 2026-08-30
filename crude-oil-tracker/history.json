@@ -1,58 +1,5 @@
 [
   {
-    "date": "2026-08-24",
-    "updated_at": "2026-08-24T22:55:14Z",
-    "wti": {
-      "close": 85.11,
-      "prev": 87.06,
-      "chg_pct": -2.24,
-      "chg_abs": -1.95,
-      "drop_streak": 2,
-      "ma20_dev": 3.4,
-      "range_pos": 70.1,
-      "volume_ratio": 0.0,
-      "reasons": [
-        "较前一交易日下跌 2.24%（-1.95 美元）。",
-        "已连续 2 个交易日走低，短期弱势延续。",
-        "当前价格高于 20 日均线约 3.4%，短线偏强。",
-        "成交量明显萎缩，市场观望情绪浓。"
-      ]
-    },
-    "brent": {
-      "close": 92.07,
-      "prev": 94.39,
-      "chg_pct": -2.46,
-      "chg_abs": -2.32,
-      "drop_streak": 1,
-      "ma20_dev": 4.77,
-      "range_pos": 70.4,
-      "volume_ratio": 0.0,
-      "reasons": [
-        "较前一交易日下跌 2.46%（-2.32 美元）。",
-        "当前价格高于 20 日均线约 4.8%，短线偏强。",
-        "成交量明显萎缩，市场观望情绪浓。"
-      ]
-    },
-    "news": [
-      {
-        "title": "Shares dip with pressure from technology, yields and oil fall",
-        "link": "https://finance.yahoo.com/news/shares-flat-asia-iran-sanctions-004936320.html"
-      },
-      {
-        "title": "Hartree's Morse: 3 Things Define Hormuz Strait's Future",
-        "link": "https://finance.yahoo.com/video/hartrees-morse-3-things-define-214200307.html"
-      },
-      {
-        "title": "Tethys Petroleum Press Release (TPL): Interim Results and Corporate Update",
-        "link": "https://finance.yahoo.com/energy/articles/tethys-petroleum-press-release-tpl-212300196.html"
-      },
-      {
-        "title": "TotalEnergies (ENXTPA:TTE) CEO Reaffirms All Energy Plan As Hormuz Flows Hold Steady",
-        "link": "https://finance.yahoo.com/energy/articles/totalenergies-enxtpa-tte-ceo-reaffirms-211038284.html"
-      }
-    ]
-  },
-  {
     "date": "2026-08-25",
     "updated_at": "2026-08-25T22:57:22Z",
     "wti": {
@@ -253,6 +200,55 @@
       {
         "title": "Chevron (CVX) Nears Major Venezuela Oil Deal: Is a New Growth Engine Emerging?",
         "link": "https://finance.yahoo.com/energy/articles/chevron-cvx-nears-major-venezuela-020912972.html"
+      }
+    ]
+  },
+  {
+    "date": "2026-08-30",
+    "updated_at": "2026-08-30T00:36:24Z",
+    "wti": {
+      "close": 83.4,
+      "prev": 83.53,
+      "chg_pct": -0.16,
+      "chg_abs": -0.13,
+      "drop_streak": 1,
+      "ma20_dev": 1.35,
+      "range_pos": 62.8,
+      "volume_ratio": 0.86,
+      "reasons": [
+        "较前一交易日下跌 0.16%（-0.13 美元）。"
+      ]
+    },
+    "brent": {
+      "close": 89.31,
+      "prev": 89.7,
+      "chg_pct": -0.43,
+      "chg_abs": -0.39,
+      "drop_streak": 1,
+      "ma20_dev": 1.54,
+      "range_pos": 60.9,
+      "volume_ratio": 0.25,
+      "reasons": [
+        "较前一交易日下跌 0.43%（-0.39 美元）。",
+        "成交量明显萎缩，市场观望情绪浓。"
+      ]
+    },
+    "news": [
+      {
+        "title": "Iran War Adds $330 Billion to Global Energy Import Bill",
+        "link": "https://finance.yahoo.com/energy/articles/iran-war-adds-330-billion-230000013.html"
+      },
+      {
+        "title": "Chevron vs. Occidental: Which Oil Major's Dividend Is Actually Safer?",
+        "link": "https://finance.yahoo.com/m/ad1d28a6-6dc5-3790-9ee6-6bbb176953b2/chevron-vs.-occidental%3A-which.html"
+      },
+      {
+        "title": "Mexico’s Green Energy Push Is Finally Gaining Momentum",
+        "link": "https://finance.yahoo.com/energy/articles/mexico-green-energy-push-finally-190000334.html"
+      },
+      {
+        "title": "The U.S. doesn’t have a state-owned oil giant. But in Venezuela, the federal government will control a company with the world’s 2nd largest reserves",
+        "link": "https://finance.yahoo.com/energy/articles/u-doesn-t-state-owned-173125070.html"
       }
     ]
   }
