@@ -1,58 +1,5 @@
 [
   {
-    "date": "2026-08-25",
-    "updated_at": "2026-08-25T22:57:22Z",
-    "wti": {
-      "close": 80.98,
-      "prev": 85.01,
-      "chg_pct": -4.74,
-      "chg_abs": -4.03,
-      "drop_streak": 3,
-      "ma20_dev": -1.72,
-      "range_pos": 52.6,
-      "volume_ratio": 0.01,
-      "reasons": [
-        "较前一交易日下跌 4.74%（-4.03 美元）。",
-        "已连续 3 个交易日走低，短期弱势延续。",
-        "成交量明显萎缩，市场观望情绪浓。"
-      ]
-    },
-    "brent": {
-      "close": 86.15,
-      "prev": 92.17,
-      "chg_pct": -6.53,
-      "chg_abs": -6.02,
-      "drop_streak": 2,
-      "ma20_dev": -2.09,
-      "range_pos": 50.1,
-      "volume_ratio": 0.0,
-      "reasons": [
-        "较前一交易日下跌 6.53%（-6.02 美元）。",
-        "已连续 2 个交易日走低，短期弱势延续。",
-        "当前价格低于 20 日均线约 2.1%，短线偏弱。",
-        "成交量明显萎缩，市场观望情绪浓。"
-      ]
-    },
-    "news": [
-      {
-        "title": "Dow Jones Futures: Stocks Rise Cautiously Into Fed Inflation Data, Nvidia Earnings; Robinhood In Buy Area",
-        "link": "https://finance.yahoo.com/m/a1a5cb94-36b5-3bbd-869f-362442258823/dow-jones-futures%3A-stocks.html"
-      },
-      {
-        "title": "Bessent's Iran complex strategy, requires time",
-        "link": "https://finance.yahoo.com/m/c902040d-d9da-349d-ac0b-54136d9008c9/bessent%27s-iran-complex.html"
-      },
-      {
-        "title": "Trading Day: Oil, yields slide   ",
-        "link": "https://finance.yahoo.com/markets/commodities/articles/trading-day-oil-yields-slide-212425569.html"
-      },
-      {
-        "title": "Update: US Equity Indexes Rise With Tech While Treasury Yields, Crude Oil Slide as Process to Tighten Noose Around Iran Begins",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/us-equity-indexes-rise-tech-211306671.html"
-      }
-    ]
-  },
-  {
     "date": "2026-08-27",
     "updated_at": "2026-08-27T03:30:12Z",
     "wti": {
@@ -249,6 +196,58 @@
       {
         "title": "The U.S. doesn’t have a state-owned oil giant. But in Venezuela, the federal government will control a company with the world’s 2nd largest reserves",
         "link": "https://finance.yahoo.com/energy/articles/u-doesn-t-state-owned-173125070.html"
+      }
+    ]
+  },
+  {
+    "date": "2026-08-31",
+    "updated_at": "2026-08-31T00:47:10Z",
+    "wti": {
+      "close": 84.17,
+      "prev": 83.4,
+      "chg_pct": 0.92,
+      "chg_abs": 0.77,
+      "drop_streak": 0,
+      "ma20_dev": 2.05,
+      "range_pos": 66.1,
+      "volume_ratio": 0.06,
+      "reasons": [
+        "较前一交易日上涨 0.92%（+0.77 美元）。",
+        "当前价格高于 20 日均线约 2.1%，短线偏强。",
+        "成交量明显萎缩，市场观望情绪浓。"
+      ]
+    },
+    "brent": {
+      "close": 89.06,
+      "prev": 89.31,
+      "chg_pct": -0.28,
+      "chg_abs": -0.25,
+      "drop_streak": 2,
+      "ma20_dev": 0.95,
+      "range_pos": 60.1,
+      "volume_ratio": 0.06,
+      "reasons": [
+        "较前一交易日下跌 0.28%（-0.25 美元）。",
+        "已连续 2 个交易日走低，短期弱势延续。",
+        "成交量明显萎缩，市场观望情绪浓。"
+      ]
+    },
+    "news": [
+      {
+        "title": "Dow Jones Futures Fall, Oil Prices Pop As U.S. Strikes Iran",
+        "link": "https://finance.yahoo.com/m/5851be5e-4456-36df-acc2-e391c82c51f8/dow-jones-futures-fall%2C-oil.html"
+      },
+      {
+        "title": "Oil Rises Amid Renewed Fighting in Middle East",
+        "link": "https://finance.yahoo.com/m/57a5b973-1e8b-3407-a14e-17f2ff9b19f3/oil-rises-amid-renewed.html"
+      },
+      {
+        "title": "Trump Says Venezuelan Oil Will Refill the U.S.’s Strategic Reserves. Reality Says Don’t Count On It",
+        "link": "https://finance.yahoo.com/m/f9696caa-6251-3fcd-98cb-83cfb929a06f/trump-says-venezuelan-oil.html"
+      },
+      {
+        "title": "President Trump Says Venezuela Oil Will Refill US Strategic Reserves Day After ‘Biggest Oil Deal In World History’",
+        "link": "https://finance.yahoo.com/m/94f68cdb-434e-32a4-9785-9f30656b4c38/president-trump-says.html"
       }
     ]
   }
