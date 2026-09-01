@@ -1,57 +1,5 @@
 [
   {
-    "date": "2026-08-27",
-    "updated_at": "2026-08-27T03:30:12Z",
-    "wti": {
-      "close": 81.71,
-      "prev": 82.23,
-      "chg_pct": -0.63,
-      "chg_abs": -0.52,
-      "drop_streak": 5,
-      "ma20_dev": -0.67,
-      "range_pos": 55.7,
-      "volume_ratio": 0.04,
-      "reasons": [
-        "较前一交易日下跌 0.63%（-0.52 美元）。",
-        "已连续 5 个交易日走低，短期弱势延续。",
-        "成交量明显萎缩，市场观望情绪浓。"
-      ]
-    },
-    "brent": {
-      "close": 86.39,
-      "prev": 87.84,
-      "chg_pct": -1.65,
-      "chg_abs": -1.45,
-      "drop_streak": 4,
-      "ma20_dev": -1.64,
-      "range_pos": 50.9,
-      "volume_ratio": 0.06,
-      "reasons": [
-        "较前一交易日下跌 1.65%（-1.45 美元）。",
-        "已连续 4 个交易日走低，短期弱势延续。",
-        "成交量明显萎缩，市场观望情绪浓。"
-      ]
-    },
-    "news": [
-      {
-        "title": "Dow Jones Futures Rise; Nvidia, CrowdStrike, Okta, Salesforce Lead Earnings Movers",
-        "link": "https://finance.yahoo.com/m/c03ae35d-d27e-3caf-a89c-0c33467ec9c9/dow-jones-futures-rise%3B.html"
-      },
-      {
-        "title": "Qantas says profits slump as fuel costs surge",
-        "link": "https://finance.yahoo.com/energy/articles/qantas-says-profits-slump-fuel-020447085.html"
-      },
-      {
-        "title": "Oil prices extend losses on expectations talks to ease Middle East supply woes",
-        "link": "https://finance.yahoo.com/energy/articles/oil-prices-extend-losses-expectations-012012665.html"
-      },
-      {
-        "title": "Qantas Profit Falls as Fuel Costs Surge on Iran Conflict",
-        "link": "https://finance.yahoo.com/m/54fc4bfe-540c-3099-9bfe-6d33ed2f484c/qantas-profit-falls-as-fuel.html"
-      }
-    ]
-  },
-  {
     "date": "2026-08-28",
     "updated_at": "2026-08-28T06:15:14Z",
     "wti": {
@@ -248,6 +196,59 @@
       {
         "title": "President Trump Says Venezuela Oil Will Refill US Strategic Reserves Day After ‘Biggest Oil Deal In World History’",
         "link": "https://finance.yahoo.com/m/94f68cdb-434e-32a4-9785-9f30656b4c38/president-trump-says.html"
+      }
+    ]
+  },
+  {
+    "date": "2026-09-01",
+    "updated_at": "2026-09-01T01:22:11Z",
+    "wti": {
+      "close": 86.47,
+      "prev": 83.4,
+      "chg_pct": 3.68,
+      "chg_abs": 3.07,
+      "drop_streak": 0,
+      "ma20_dev": 4.69,
+      "range_pos": 75.8,
+      "volume_ratio": 0.02,
+      "reasons": [
+        "较前一交易日上涨 3.68%（+3.07 美元）。",
+        "当前价格高于 20 日均线约 4.7%，短线偏强。",
+        "处于近两月价格区间高位，注意回落风险。",
+        "成交量明显萎缩，市场观望情绪浓。"
+      ]
+    },
+    "brent": {
+      "close": 88.78,
+      "prev": 89.31,
+      "chg_pct": -0.59,
+      "chg_abs": -0.53,
+      "drop_streak": 2,
+      "ma20_dev": 0.65,
+      "range_pos": 59.1,
+      "volume_ratio": 0.01,
+      "reasons": [
+        "较前一交易日下跌 0.59%（-0.53 美元）。",
+        "已连续 2 个交易日走低，短期弱势延续。",
+        "成交量明显萎缩，市场观望情绪浓。"
+      ]
+    },
+    "news": [
+      {
+        "title": "Gold Rises; Jackson Hole Speech May Limit Near-Term Upside",
+        "link": "https://finance.yahoo.com/m/32e1cf37-1a83-3b3b-a43d-1f6a9f3db309/gold-rises%3B-jackson-hole.html"
+      },
+      {
+        "title": "Oil Rises on Prospect for Prolonged Supply Disruptions in Middle East",
+        "link": "https://finance.yahoo.com/m/85d679f1-f75e-3f0f-b67c-e209aacccc61/oil-rises-on-prospect-for.html"
+      },
+      {
+        "title": "Nikkei Falls 1.0%, Dragged by Chip Stocks",
+        "link": "https://finance.yahoo.com/m/c0b70fe4-01f1-3907-b66a-1f3d7426c9a8/nikkei-falls-1.0%25%2C-dragged-by.html"
+      },
+      {
+        "title": "Trump Says Exxon Will Enter Venezuela as Oil Investment Ramps Up",
+        "link": "https://finance.yahoo.com/energy/articles/trump-says-exxon-enter-venezuela-235447576.html"
       }
     ]
   }
