@@ -1,55 +1,5 @@
 [
   {
-    "date": "2026-08-28",
-    "updated_at": "2026-08-28T06:15:14Z",
-    "wti": {
-      "close": 83.16,
-      "prev": 83.53,
-      "chg_pct": -0.44,
-      "chg_abs": -0.37,
-      "drop_streak": 1,
-      "ma20_dev": 1.08,
-      "range_pos": 61.8,
-      "volume_ratio": 0.05,
-      "reasons": [
-        "较前一交易日下跌 0.44%（-0.37 美元）。",
-        "成交量明显萎缩，市场观望情绪浓。"
-      ]
-    },
-    "brent": {
-      "close": 88.28,
-      "prev": 89.7,
-      "chg_pct": -1.58,
-      "chg_abs": -1.42,
-      "drop_streak": 1,
-      "ma20_dev": 0.43,
-      "range_pos": 57.4,
-      "volume_ratio": 0.04,
-      "reasons": [
-        "较前一交易日下跌 1.58%（-1.42 美元）。",
-        "成交量明显萎缩，市场观望情绪浓。"
-      ]
-    },
-    "news": [
-      {
-        "title": "Persian Gulf Oil Exports Recover, Centcom Says Hormuz Is Mine Free",
-        "link": "https://finance.yahoo.com/video/persian-gulf-oil-exports-recover-054422673.html"
-      },
-      {
-        "title": "Shares turn cautious ahead of Warsh's Jackson Hole debut; FX, bonds hold breath",
-        "link": "https://finance.yahoo.com/markets/currencies/articles/shares-turn-cautious-ahead-warsh-015638766.html"
-      },
-      {
-        "title": "Asian shares mostly gain after upbeat results for Nvidia and others lift US stocks",
-        "link": "https://finance.yahoo.com/markets/world-indices/articles/asian-shares-mostly-gain-upbeat-040450628.html"
-      },
-      {
-        "title": "‘Big questions’ and few easy answers for Trump’s Fed chair at annual retreat",
-        "link": "https://finance.yahoo.com/m/c6ee6ff1-989e-39db-988b-0fb2e374760d/%E2%80%98big-questions%E2%80%99-and-few-easy.html"
-      }
-    ]
-  },
-  {
     "date": "2026-08-29",
     "updated_at": "2026-08-29T03:49:42Z",
     "wti": {
@@ -249,6 +199,60 @@
       {
         "title": "Trump Says Exxon Will Enter Venezuela as Oil Investment Ramps Up",
         "link": "https://finance.yahoo.com/energy/articles/trump-says-exxon-enter-venezuela-235447576.html"
+      }
+    ]
+  },
+  {
+    "date": "2026-09-02",
+    "updated_at": "2026-09-02T00:26:38Z",
+    "wti": {
+      "close": 90.92,
+      "prev": 85.76,
+      "chg_pct": 6.02,
+      "chg_abs": 5.16,
+      "drop_streak": 0,
+      "ma20_dev": 9.13,
+      "range_pos": 94.6,
+      "volume_ratio": 0.02,
+      "reasons": [
+        "较前一交易日上涨 6.02%（+5.16 美元）。",
+        "当前价格高于 20 日均线约 9.1%，短线偏强。",
+        "处于近两月价格区间高位，注意回落风险。",
+        "成交量明显萎缩，市场观望情绪浓。"
+      ]
+    },
+    "brent": {
+      "close": 95.41,
+      "prev": 90.49,
+      "chg_pct": 5.44,
+      "chg_abs": 4.92,
+      "drop_streak": 0,
+      "ma20_dev": 7.09,
+      "range_pos": 81.9,
+      "volume_ratio": 0.01,
+      "reasons": [
+        "较前一交易日上涨 5.44%（+4.92 美元）。",
+        "当前价格高于 20 日均线约 7.1%，短线偏强。",
+        "处于近两月价格区间高位，注意回落风险。",
+        "成交量明显萎缩，市场观望情绪浓。"
+      ]
+    },
+    "news": [
+      {
+        "title": "Dow Jones Futures: Market Breaks Key Levels As Oil Prices Jump; Dell, Credo, Palo Alto Are Earnings Movers",
+        "link": "https://finance.yahoo.com/m/3c8f786a-671c-3fb9-bb03-81fc8be4d3f0/dow-jones-futures%3A-market.html"
+      },
+      {
+        "title": "S&P 500, Dow, Nasdaq Futures Flat After Indices End Lower On US-Iran Stalemate — DELL, PANW, FRVO, AAPL, TTWO In Focus",
+        "link": "https://finance.yahoo.com/m/93bef32b-9d1a-3e5b-bc8f-2be81929b623/s%26p-500%2C-dow%2C-nasdaq-futures.html"
+      },
+      {
+        "title": "Market Chatter: Coinbase Co-Founder in Talks for Venezuela Oil Fields",
+        "link": "https://finance.yahoo.com/energy/articles/market-chatter-coinbase-co-founder-235457116.html"
+      },
+      {
+        "title": "Global bonds extend selloff, oil prices surge on renewed US-Iran strikes",
+        "link": "https://finance.yahoo.com/markets/articles/bond-selloff-pressures-stocks-oil-014547216.html"
       }
     ]
   }
