@@ -1,54 +1,5 @@
 [
   {
-    "date": "2026-08-29",
-    "updated_at": "2026-08-29T03:49:42Z",
-    "wti": {
-      "close": 83.44,
-      "prev": 83.53,
-      "chg_pct": -0.11,
-      "chg_abs": -0.09,
-      "drop_streak": 1,
-      "ma20_dev": 1.4,
-      "range_pos": 63.0,
-      "volume_ratio": 0.56,
-      "reasons": [
-        "较前一交易日下跌 0.11%（-0.09 美元）。",
-        "成交量明显萎缩，市场观望情绪浓。"
-      ]
-    },
-    "brent": {
-      "close": 88.29,
-      "prev": 89.7,
-      "chg_pct": -1.57,
-      "chg_abs": -1.41,
-      "drop_streak": 1,
-      "ma20_dev": 0.44,
-      "range_pos": 57.4,
-      "volume_ratio": 0.67,
-      "reasons": [
-        "较前一交易日下跌 1.57%（-1.41 美元）。"
-      ]
-    },
-    "news": [
-      {
-        "title": "Exxon (XOM) is Betting on Robots to Unlock a New Permian Oil Boom",
-        "link": "https://finance.yahoo.com/energy/articles/exxon-xom-betting-robots-unlock-022225076.html"
-      },
-      {
-        "title": "SLB’s Venezuela Bet: Massive Opportunity or Risky Gamble?",
-        "link": "https://finance.yahoo.com/energy/articles/slb-venezuela-bet-massive-opportunity-021536077.html"
-      },
-      {
-        "title": "Cenovus (CVE) Enters the Ranks of the World’s Largest Oil and Gas Producers",
-        "link": "https://finance.yahoo.com/energy/articles/cenovus-cve-enters-ranks-world-021429265.html"
-      },
-      {
-        "title": "Chevron (CVX) Nears Major Venezuela Oil Deal: Is a New Growth Engine Emerging?",
-        "link": "https://finance.yahoo.com/energy/articles/chevron-cvx-nears-major-venezuela-020912972.html"
-      }
-    ]
-  },
-  {
     "date": "2026-08-30",
     "updated_at": "2026-08-30T00:36:24Z",
     "wti": {
@@ -253,6 +204,60 @@
       {
         "title": "Global bonds extend selloff, oil prices surge on renewed US-Iran strikes",
         "link": "https://finance.yahoo.com/markets/articles/bond-selloff-pressures-stocks-oil-014547216.html"
+      }
+    ]
+  },
+  {
+    "date": "2026-09-03",
+    "updated_at": "2026-09-03T00:32:47Z",
+    "wti": {
+      "close": 90.75,
+      "prev": 90.22,
+      "chg_pct": 0.59,
+      "chg_abs": 0.53,
+      "drop_streak": 0,
+      "ma20_dev": 7.96,
+      "range_pos": 93.9,
+      "volume_ratio": 0.01,
+      "reasons": [
+        "较前一交易日上涨 0.59%（+0.53 美元）。",
+        "当前价格高于 20 日均线约 8.0%，短线偏强。",
+        "处于近两月价格区间高位，注意回落风险。",
+        "成交量明显萎缩，市场观望情绪浓。"
+      ]
+    },
+    "brent": {
+      "close": 95.16,
+      "prev": 94.65,
+      "chg_pct": 0.54,
+      "chg_abs": 0.51,
+      "drop_streak": 0,
+      "ma20_dev": 5.92,
+      "range_pos": 80.9,
+      "volume_ratio": 0.01,
+      "reasons": [
+        "较前一交易日上涨 0.54%（+0.51 美元）。",
+        "当前价格高于 20 日均线约 5.9%，短线偏强。",
+        "处于近两月价格区间高位，注意回落风险。",
+        "成交量明显萎缩，市场观望情绪浓。"
+      ]
+    },
+    "news": [
+      {
+        "title": "Dow Jones Futures: Snowflake, Broadcom, HPE Are Big Earnings Movers; Tesla Cybercab Event Due",
+        "link": "https://finance.yahoo.com/m/1d7123ac-a008-32ff-9bbd-f00beb6c5dbf/dow-jones-futures%3A-snowflake%2C.html"
+      },
+      {
+        "title": "US Stock Futures Rangebound After S&P 500, Dow Snap Three-Day Losing Streak As Oil Steadies — MSFT, DELL, UBER, ASTS, AVGO In Focus",
+        "link": "https://finance.yahoo.com/m/700a1403-7c58-3851-af10-3eec336f2c6f/us-stock-futures-rangebound.html"
+      },
+      {
+        "title": "The Best-Performing Commodity ETFs of 2026: Oil and Broad Baskets Lead the Pack",
+        "link": "https://finance.yahoo.com/m/249a0e56-94dc-38c4-855d-4735473e9da5/the-best-performing-commodity.html"
+      },
+      {
+        "title": "Texas Instruments (TXN), Why Is The Chipmaker Back In The Spotlight?",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/texas-instruments-txn-why-chipmaker-230626229.html"
       }
     ]
   }
