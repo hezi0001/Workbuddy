@@ -1,54 +1,5 @@
 [
   {
-    "date": "2026-08-30",
-    "updated_at": "2026-08-30T00:36:24Z",
-    "wti": {
-      "close": 83.4,
-      "prev": 83.53,
-      "chg_pct": -0.16,
-      "chg_abs": -0.13,
-      "drop_streak": 1,
-      "ma20_dev": 1.35,
-      "range_pos": 62.8,
-      "volume_ratio": 0.86,
-      "reasons": [
-        "较前一交易日下跌 0.16%（-0.13 美元）。"
-      ]
-    },
-    "brent": {
-      "close": 89.31,
-      "prev": 89.7,
-      "chg_pct": -0.43,
-      "chg_abs": -0.39,
-      "drop_streak": 1,
-      "ma20_dev": 1.54,
-      "range_pos": 60.9,
-      "volume_ratio": 0.25,
-      "reasons": [
-        "较前一交易日下跌 0.43%（-0.39 美元）。",
-        "成交量明显萎缩，市场观望情绪浓。"
-      ]
-    },
-    "news": [
-      {
-        "title": "Iran War Adds $330 Billion to Global Energy Import Bill",
-        "link": "https://finance.yahoo.com/energy/articles/iran-war-adds-330-billion-230000013.html"
-      },
-      {
-        "title": "Chevron vs. Occidental: Which Oil Major's Dividend Is Actually Safer?",
-        "link": "https://finance.yahoo.com/m/ad1d28a6-6dc5-3790-9ee6-6bbb176953b2/chevron-vs.-occidental%3A-which.html"
-      },
-      {
-        "title": "Mexico’s Green Energy Push Is Finally Gaining Momentum",
-        "link": "https://finance.yahoo.com/energy/articles/mexico-green-energy-push-finally-190000334.html"
-      },
-      {
-        "title": "The U.S. doesn’t have a state-owned oil giant. But in Venezuela, the federal government will control a company with the world’s 2nd largest reserves",
-        "link": "https://finance.yahoo.com/energy/articles/u-doesn-t-state-owned-173125070.html"
-      }
-    ]
-  },
-  {
     "date": "2026-08-31",
     "updated_at": "2026-08-31T00:47:10Z",
     "wti": {
@@ -258,6 +209,60 @@
       {
         "title": "Texas Instruments (TXN), Why Is The Chipmaker Back In The Spotlight?",
         "link": "https://finance.yahoo.com/markets/stocks/articles/texas-instruments-txn-why-chipmaker-230626229.html"
+      }
+    ]
+  },
+  {
+    "date": "2026-09-04",
+    "updated_at": "2026-09-04T00:18:01Z",
+    "wti": {
+      "close": 91.69,
+      "prev": 91.01,
+      "chg_pct": 0.75,
+      "chg_abs": 0.68,
+      "drop_streak": 0,
+      "ma20_dev": 8.14,
+      "range_pos": 97.9,
+      "volume_ratio": 0.01,
+      "reasons": [
+        "较前一交易日上涨 0.75%（+0.68 美元）。",
+        "当前价格高于 20 日均线约 8.1%，短线偏强。",
+        "处于近两月价格区间高位，注意回落风险。",
+        "成交量明显萎缩，市场观望情绪浓。"
+      ]
+    },
+    "brent": {
+      "close": 95.79,
+      "prev": 95.63,
+      "chg_pct": 0.17,
+      "chg_abs": 0.16,
+      "drop_streak": 0,
+      "ma20_dev": 5.81,
+      "range_pos": 82.9,
+      "volume_ratio": 0.01,
+      "reasons": [
+        "较前一交易日上涨 0.17%（+0.16 美元）。",
+        "当前价格高于 20 日均线约 5.8%，短线偏强。",
+        "处于近两月价格区间高位，注意回落风险。",
+        "成交量明显萎缩，市场观望情绪浓。"
+      ]
+    },
+    "news": [
+      {
+        "title": "Why Oil Majors Don’t Want to Build New U.S. Refineries",
+        "link": "https://finance.yahoo.com/energy/articles/why-oil-majors-don-t-230000574.html"
+      },
+      {
+        "title": "Hemisphere Energy Provides Further Update on Atlee Buffalo Operations",
+        "link": "https://finance.yahoo.com/energy/articles/hemisphere-energy-provides-further-atlee-221600636.html"
+      },
+      {
+        "title": "WSJ Dollar Index Falls 0.57% to 95.15",
+        "link": "https://finance.yahoo.com/m/7e31458d-3e8c-3e8c-8e35-5cbad4f22a9e/wsj-dollar-index-falls-0.57%25.html"
+      },
+      {
+        "title": "U.S. Stocks Rise as Waller Comments Weigh on Yields, Ease Rate Fears",
+        "link": "https://finance.yahoo.com/m/4d00f07b-89c5-3edd-a52b-2bc912eac3fc/u.s.-stocks-rise-as-waller.html"
       }
     ]
   }
