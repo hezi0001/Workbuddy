@@ -1,57 +1,5 @@
 [
   {
-    "date": "2026-08-31",
-    "updated_at": "2026-08-31T00:47:10Z",
-    "wti": {
-      "close": 84.17,
-      "prev": 83.4,
-      "chg_pct": 0.92,
-      "chg_abs": 0.77,
-      "drop_streak": 0,
-      "ma20_dev": 2.05,
-      "range_pos": 66.1,
-      "volume_ratio": 0.06,
-      "reasons": [
-        "较前一交易日上涨 0.92%（+0.77 美元）。",
-        "当前价格高于 20 日均线约 2.1%，短线偏强。",
-        "成交量明显萎缩，市场观望情绪浓。"
-      ]
-    },
-    "brent": {
-      "close": 89.06,
-      "prev": 89.31,
-      "chg_pct": -0.28,
-      "chg_abs": -0.25,
-      "drop_streak": 2,
-      "ma20_dev": 0.95,
-      "range_pos": 60.1,
-      "volume_ratio": 0.06,
-      "reasons": [
-        "较前一交易日下跌 0.28%（-0.25 美元）。",
-        "已连续 2 个交易日走低，短期弱势延续。",
-        "成交量明显萎缩，市场观望情绪浓。"
-      ]
-    },
-    "news": [
-      {
-        "title": "Dow Jones Futures Fall, Oil Prices Pop As U.S. Strikes Iran",
-        "link": "https://finance.yahoo.com/m/5851be5e-4456-36df-acc2-e391c82c51f8/dow-jones-futures-fall%2C-oil.html"
-      },
-      {
-        "title": "Oil Rises Amid Renewed Fighting in Middle East",
-        "link": "https://finance.yahoo.com/m/57a5b973-1e8b-3407-a14e-17f2ff9b19f3/oil-rises-amid-renewed.html"
-      },
-      {
-        "title": "Trump Says Venezuelan Oil Will Refill the U.S.’s Strategic Reserves. Reality Says Don’t Count On It",
-        "link": "https://finance.yahoo.com/m/f9696caa-6251-3fcd-98cb-83cfb929a06f/trump-says-venezuelan-oil.html"
-      },
-      {
-        "title": "President Trump Says Venezuela Oil Will Refill US Strategic Reserves Day After ‘Biggest Oil Deal In World History’",
-        "link": "https://finance.yahoo.com/m/94f68cdb-434e-32a4-9785-9f30656b4c38/president-trump-says.html"
-      }
-    ]
-  },
-  {
     "date": "2026-09-01",
     "updated_at": "2026-09-01T01:22:11Z",
     "wti": {
@@ -263,6 +211,58 @@
       {
         "title": "U.S. Stocks Rise as Waller Comments Weigh on Yields, Ease Rate Fears",
         "link": "https://finance.yahoo.com/m/4d00f07b-89c5-3edd-a52b-2bc912eac3fc/u.s.-stocks-rise-as-waller.html"
+      }
+    ]
+  },
+  {
+    "date": "2026-09-05",
+    "updated_at": "2026-09-05T00:18:46Z",
+    "wti": {
+      "close": 91.22,
+      "prev": 91.3,
+      "chg_pct": -0.09,
+      "chg_abs": -0.08,
+      "drop_streak": 1,
+      "ma20_dev": 6.79,
+      "range_pos": 95.9,
+      "volume_ratio": 0.95,
+      "reasons": [
+        "较前一交易日下跌 0.09%（-0.08 美元）。",
+        "当前价格高于 20 日均线约 6.8%，短线偏强。",
+        "处于近两月价格区间高位，注意回落风险。"
+      ]
+    },
+    "brent": {
+      "close": 95.83,
+      "prev": 95.52,
+      "chg_pct": 0.32,
+      "chg_abs": 0.31,
+      "drop_streak": 0,
+      "ma20_dev": 5.16,
+      "range_pos": 83.1,
+      "volume_ratio": 0.89,
+      "reasons": [
+        "较前一交易日上涨 0.32%（+0.31 美元）。",
+        "当前价格高于 20 日均线约 5.2%，短线偏强。",
+        "处于近两月价格区间高位，注意回落风险。"
+      ]
+    },
+    "news": [
+      {
+        "title": "U.S. just secured control of Venezuela's vast oil reserves",
+        "link": "https://finance.yahoo.com/m/7aff820f-1cc9-3498-ab02-d0c6c438ada1/u.s.-just-secured-control-of.html"
+      },
+      {
+        "title": "Basin rig count up one as prices surge",
+        "link": "https://finance.yahoo.com/m/1f0d0e85-64a1-35e1-97d0-18a889e3c690/basin-rig-count-up-one-as.html"
+      },
+      {
+        "title": "Treasury Chief Bessent Predicts Oil Price Drop To $40 Following End Of Iran Conflict",
+        "link": "https://finance.yahoo.com/m/7fd87e7e-0c83-35a5-8b7d-f4645de56c0f/treasury-chief-bessent.html"
+      },
+      {
+        "title": "Dow Jones Futures: Nvidia, Micron, Sandisk Flash Buy Signals; Apple, Inflation Reports Ahead",
+        "link": "https://finance.yahoo.com/m/d5001ca0-1c20-3379-83c3-ddca4526f9c2/dow-jones-futures%3A-nvidia%2C.html"
       }
     ]
   }
