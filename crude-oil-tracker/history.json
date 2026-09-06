@@ -1,58 +1,5 @@
 [
   {
-    "date": "2026-09-01",
-    "updated_at": "2026-09-01T01:22:11Z",
-    "wti": {
-      "close": 86.47,
-      "prev": 83.4,
-      "chg_pct": 3.68,
-      "chg_abs": 3.07,
-      "drop_streak": 0,
-      "ma20_dev": 4.69,
-      "range_pos": 75.8,
-      "volume_ratio": 0.02,
-      "reasons": [
-        "较前一交易日上涨 3.68%（+3.07 美元）。",
-        "当前价格高于 20 日均线约 4.7%，短线偏强。",
-        "处于近两月价格区间高位，注意回落风险。",
-        "成交量明显萎缩，市场观望情绪浓。"
-      ]
-    },
-    "brent": {
-      "close": 88.78,
-      "prev": 89.31,
-      "chg_pct": -0.59,
-      "chg_abs": -0.53,
-      "drop_streak": 2,
-      "ma20_dev": 0.65,
-      "range_pos": 59.1,
-      "volume_ratio": 0.01,
-      "reasons": [
-        "较前一交易日下跌 0.59%（-0.53 美元）。",
-        "已连续 2 个交易日走低，短期弱势延续。",
-        "成交量明显萎缩，市场观望情绪浓。"
-      ]
-    },
-    "news": [
-      {
-        "title": "Gold Rises; Jackson Hole Speech May Limit Near-Term Upside",
-        "link": "https://finance.yahoo.com/m/32e1cf37-1a83-3b3b-a43d-1f6a9f3db309/gold-rises%3B-jackson-hole.html"
-      },
-      {
-        "title": "Oil Rises on Prospect for Prolonged Supply Disruptions in Middle East",
-        "link": "https://finance.yahoo.com/m/85d679f1-f75e-3f0f-b67c-e209aacccc61/oil-rises-on-prospect-for.html"
-      },
-      {
-        "title": "Nikkei Falls 1.0%, Dragged by Chip Stocks",
-        "link": "https://finance.yahoo.com/m/c0b70fe4-01f1-3907-b66a-1f3d7426c9a8/nikkei-falls-1.0%25%2C-dragged-by.html"
-      },
-      {
-        "title": "Trump Says Exxon Will Enter Venezuela as Oil Investment Ramps Up",
-        "link": "https://finance.yahoo.com/energy/articles/trump-says-exxon-enter-venezuela-235447576.html"
-      }
-    ]
-  },
-  {
     "date": "2026-09-02",
     "updated_at": "2026-09-02T00:26:38Z",
     "wti": {
@@ -263,6 +210,58 @@
       {
         "title": "Dow Jones Futures: Nvidia, Micron, Sandisk Flash Buy Signals; Apple, Inflation Reports Ahead",
         "link": "https://finance.yahoo.com/m/d5001ca0-1c20-3379-83c3-ddca4526f9c2/dow-jones-futures%3A-nvidia%2C.html"
+      }
+    ]
+  },
+  {
+    "date": "2026-09-06",
+    "updated_at": "2026-09-06T00:10:00Z",
+    "wti": {
+      "close": 91.48,
+      "prev": 91.3,
+      "chg_pct": 0.2,
+      "chg_abs": 0.18,
+      "drop_streak": 0,
+      "ma20_dev": 7.07,
+      "range_pos": 97.0,
+      "volume_ratio": 1.23,
+      "reasons": [
+        "较前一交易日上涨 0.20%（+0.18 美元）。",
+        "当前价格高于 20 日均线约 7.1%，短线偏强。",
+        "处于近两月价格区间高位，注意回落风险。"
+      ]
+    },
+    "brent": {
+      "close": 96.28,
+      "prev": 95.52,
+      "chg_pct": 0.8,
+      "chg_abs": 0.76,
+      "drop_streak": 0,
+      "ma20_dev": 5.63,
+      "range_pos": 84.6,
+      "volume_ratio": 1.24,
+      "reasons": [
+        "较前一交易日上涨 0.80%（+0.76 美元）。",
+        "当前价格高于 20 日均线约 5.6%，短线偏强。",
+        "处于近两月价格区间高位，注意回落风险。"
+      ]
+    },
+    "news": [
+      {
+        "title": "Iran War Forces a Rewrite of Global Oil Trade Routes",
+        "link": "https://finance.yahoo.com/energy/articles/iran-war-forces-rewrite-global-230000749.html"
+      },
+      {
+        "title": "Dow Jones Futures: U.S., Iran Exchange Attacks; Nvidia, Micron, Sandisk Flash Buy Signals",
+        "link": "https://finance.yahoo.com/m/d5001ca0-1c20-3379-83c3-ddca4526f9c2/dow-jones-futures%3A-u.s.%2C-iran.html"
+      },
+      {
+        "title": "Why I Just Added to My Chevron Position Despite Trump Criticism",
+        "link": "https://finance.yahoo.com/m/ce43487f-b5e7-352f-abd0-9296ac78ea0b/why-i-just-added-to-my.html"
+      },
+      {
+        "title": "Why Gabelli’s Global Content & Connectivity Fund Likes Rogers Communications (RCI)",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/why-gabelli-global-content-connectivity-154610296.html"
       }
     ]
   }
