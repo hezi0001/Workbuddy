@@ -1,57 +1,5 @@
 [
   {
-    "date": "2026-09-05",
-    "updated_at": "2026-09-05T00:18:46Z",
-    "wti": {
-      "close": 91.22,
-      "prev": 91.3,
-      "chg_pct": -0.09,
-      "chg_abs": -0.08,
-      "drop_streak": 1,
-      "ma20_dev": 6.79,
-      "range_pos": 95.9,
-      "volume_ratio": 0.95,
-      "reasons": [
-        "较前一交易日下跌 0.09%（-0.08 美元）。",
-        "当前价格高于 20 日均线约 6.8%，短线偏强。",
-        "处于近两月价格区间高位，注意回落风险。"
-      ]
-    },
-    "brent": {
-      "close": 95.83,
-      "prev": 95.52,
-      "chg_pct": 0.32,
-      "chg_abs": 0.31,
-      "drop_streak": 0,
-      "ma20_dev": 5.16,
-      "range_pos": 83.1,
-      "volume_ratio": 0.89,
-      "reasons": [
-        "较前一交易日上涨 0.32%（+0.31 美元）。",
-        "当前价格高于 20 日均线约 5.2%，短线偏强。",
-        "处于近两月价格区间高位，注意回落风险。"
-      ]
-    },
-    "news": [
-      {
-        "title": "U.S. just secured control of Venezuela's vast oil reserves",
-        "link": "https://finance.yahoo.com/m/7aff820f-1cc9-3498-ab02-d0c6c438ada1/u.s.-just-secured-control-of.html"
-      },
-      {
-        "title": "Basin rig count up one as prices surge",
-        "link": "https://finance.yahoo.com/m/1f0d0e85-64a1-35e1-97d0-18a889e3c690/basin-rig-count-up-one-as.html"
-      },
-      {
-        "title": "Treasury Chief Bessent Predicts Oil Price Drop To $40 Following End Of Iran Conflict",
-        "link": "https://finance.yahoo.com/m/7fd87e7e-0c83-35a5-8b7d-f4645de56c0f/treasury-chief-bessent.html"
-      },
-      {
-        "title": "Dow Jones Futures: Nvidia, Micron, Sandisk Flash Buy Signals; Apple, Inflation Reports Ahead",
-        "link": "https://finance.yahoo.com/m/d5001ca0-1c20-3379-83c3-ddca4526f9c2/dow-jones-futures%3A-nvidia%2C.html"
-      }
-    ]
-  },
-  {
     "date": "2026-09-06",
     "updated_at": "2026-09-06T00:10:00Z",
     "wti": {
@@ -262,6 +210,60 @@
       {
         "title": "S&P 500, Dow End Lower As Middle East Tensions Spur Oil Rally Ahead Of Key Inflation Data — META, QCOM, BE, AMZN, AVGO In Focus",
         "link": "https://finance.yahoo.com/m/3bed56b4-2f7e-38b8-908a-a80cb7e000b0/s%26p-500%2C-dow-end-lower-as.html"
+      }
+    ]
+  },
+  {
+    "date": "2026-09-10",
+    "updated_at": "2026-09-10T00:29:17Z",
+    "wti": {
+      "close": 96.63,
+      "prev": 93.03,
+      "chg_pct": 3.87,
+      "chg_abs": 3.6,
+      "drop_streak": 0,
+      "ma20_dev": 11.52,
+      "range_pos": 100.0,
+      "volume_ratio": 0.03,
+      "reasons": [
+        "较前一交易日上涨 3.87%（+3.60 美元）。",
+        "当前价格高于 20 日均线约 11.5%，短线偏强。",
+        "处于近两月价格区间高位，注意回落风险。",
+        "成交量明显萎缩，市场观望情绪浓。"
+      ]
+    },
+    "brent": {
+      "close": 101.41,
+      "prev": 97.92,
+      "chg_pct": 3.56,
+      "chg_abs": 3.49,
+      "drop_streak": 0,
+      "ma20_dev": 9.88,
+      "range_pos": 100.0,
+      "volume_ratio": 0.01,
+      "reasons": [
+        "较前一交易日上涨 3.56%（+3.49 美元）。",
+        "当前价格高于 20 日均线约 9.9%，短线偏强。",
+        "处于近两月价格区间高位，注意回落风险。",
+        "成交量明显萎缩，市场观望情绪浓。"
+      ]
+    },
+    "news": [
+      {
+        "title": "Dow Jones Futures Rise: Oil Prices Keep Climbing But Market Hasn't Broken Yet. Inflation Data Due.",
+        "link": "https://finance.yahoo.com/m/59de9715-6649-3bb7-ab2a-645a0715c752/dow-jones-futures-rise%3A-oil.html"
+      },
+      {
+        "title": "Canada Says Oil Sands Have Policy Support Needed To Boost Output",
+        "link": "https://finance.yahoo.com/energy/articles/canada-says-oil-sands-policy-235923769.html"
+      },
+      {
+        "title": "Trump Reportedly Says Oil Prices Won’t Tumble Until After Midterms, While Iran Signals More Intense War — USO, UCO Rise",
+        "link": "https://finance.yahoo.com/m/364fb6a7-9249-31d1-9545-f2176a94aac0/trump-reportedly-says-oil.html"
+      },
+      {
+        "title": "Market Chatter: Carney To Pitch Investors On Data Centers, Mines, LNG Projects",
+        "link": "https://finance.yahoo.com/energy/articles/market-chatter-carney-pitch-investors-230226430.html"
       }
     ]
   }
