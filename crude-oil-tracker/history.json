@@ -1,57 +1,5 @@
 [
   {
-    "date": "2026-09-06",
-    "updated_at": "2026-09-06T00:10:00Z",
-    "wti": {
-      "close": 91.48,
-      "prev": 91.3,
-      "chg_pct": 0.2,
-      "chg_abs": 0.18,
-      "drop_streak": 0,
-      "ma20_dev": 7.07,
-      "range_pos": 97.0,
-      "volume_ratio": 1.23,
-      "reasons": [
-        "较前一交易日上涨 0.20%（+0.18 美元）。",
-        "当前价格高于 20 日均线约 7.1%，短线偏强。",
-        "处于近两月价格区间高位，注意回落风险。"
-      ]
-    },
-    "brent": {
-      "close": 96.28,
-      "prev": 95.52,
-      "chg_pct": 0.8,
-      "chg_abs": 0.76,
-      "drop_streak": 0,
-      "ma20_dev": 5.63,
-      "range_pos": 84.6,
-      "volume_ratio": 1.24,
-      "reasons": [
-        "较前一交易日上涨 0.80%（+0.76 美元）。",
-        "当前价格高于 20 日均线约 5.6%，短线偏强。",
-        "处于近两月价格区间高位，注意回落风险。"
-      ]
-    },
-    "news": [
-      {
-        "title": "Iran War Forces a Rewrite of Global Oil Trade Routes",
-        "link": "https://finance.yahoo.com/energy/articles/iran-war-forces-rewrite-global-230000749.html"
-      },
-      {
-        "title": "Dow Jones Futures: U.S., Iran Exchange Attacks; Nvidia, Micron, Sandisk Flash Buy Signals",
-        "link": "https://finance.yahoo.com/m/d5001ca0-1c20-3379-83c3-ddca4526f9c2/dow-jones-futures%3A-u.s.%2C-iran.html"
-      },
-      {
-        "title": "Why I Just Added to My Chevron Position Despite Trump Criticism",
-        "link": "https://finance.yahoo.com/m/ce43487f-b5e7-352f-abd0-9296ac78ea0b/why-i-just-added-to-my.html"
-      },
-      {
-        "title": "Why Gabelli’s Global Content & Connectivity Fund Likes Rogers Communications (RCI)",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/why-gabelli-global-content-connectivity-154610296.html"
-      }
-    ]
-  },
-  {
     "date": "2026-09-07",
     "updated_at": "2026-09-07T00:15:41Z",
     "wti": {
@@ -264,6 +212,60 @@
       {
         "title": "Market Chatter: Carney To Pitch Investors On Data Centers, Mines, LNG Projects",
         "link": "https://finance.yahoo.com/energy/articles/market-chatter-carney-pitch-investors-230226430.html"
+      }
+    ]
+  },
+  {
+    "date": "2026-09-11",
+    "updated_at": "2026-09-11T00:26:59Z",
+    "wti": {
+      "close": 103.1,
+      "prev": 96.05,
+      "chg_pct": 7.34,
+      "chg_abs": 7.05,
+      "drop_streak": 0,
+      "ma20_dev": 17.67,
+      "range_pos": 100.0,
+      "volume_ratio": 0.06,
+      "reasons": [
+        "较前一交易日上涨 7.34%（+7.05 美元）。",
+        "当前价格高于 20 日均线约 17.7%，短线偏强。",
+        "处于近两月价格区间高位，注意回落风险。",
+        "成交量明显萎缩，市场观望情绪浓。"
+      ]
+    },
+    "brent": {
+      "close": 108.15,
+      "prev": 101.21,
+      "chg_pct": 6.86,
+      "chg_abs": 6.94,
+      "drop_streak": 0,
+      "ma20_dev": 16.0,
+      "range_pos": 100.0,
+      "volume_ratio": 0.08,
+      "reasons": [
+        "较前一交易日上涨 6.86%（+6.94 美元）。",
+        "当前价格高于 20 日均线约 16.0%，短线偏强。",
+        "处于近两月价格区间高位，注意回落风险。",
+        "成交量明显萎缩，市场观望情绪浓。"
+      ]
+    },
+    "news": [
+      {
+        "title": "Dow Jones Futures: S&P 500 Breaks Support As Oil Prices, Yields Surge; Oracle Jumps Late With CPI Inflation Due",
+        "link": "https://finance.yahoo.com/m/c29e8241-4bb8-3a14-aa17-d5e2fa2c38f6/dow-jones-futures%3A-s%26p-500.html"
+      },
+      {
+        "title": "Small CPI surprise could trigger big Fed rate decision",
+        "link": "https://finance.yahoo.com/m/96925e91-d9d9-31ee-8cbc-c6d5d081b207/small-cpi-surprise-could.html"
+      },
+      {
+        "title": "Trump Reportedly Says He Has No Regrets Over Iran War Even As Oil Tops $100 — USO And UCO Jump While Midterm Stakes Get Higher",
+        "link": "https://finance.yahoo.com/m/cd5bb673-4b1b-3627-935d-2872558b4fb8/trump-reportedly-says-he-has.html"
+      },
+      {
+        "title": "The Unrelenting Bond Selloff Puts the 10-Year Yield on the Cusp of 5%",
+        "link": "https://finance.yahoo.com/m/15114c70-94a7-3502-978c-738e8d4efd3f/the-unrelenting-bond-selloff.html"
       }
     ]
   }
