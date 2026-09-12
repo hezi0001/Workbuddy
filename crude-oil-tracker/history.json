@@ -1,59 +1,5 @@
 [
   {
-    "date": "2026-09-07",
-    "updated_at": "2026-09-07T00:15:41Z",
-    "wti": {
-      "close": 91.48,
-      "prev": 91.48,
-      "chg_pct": 0.0,
-      "chg_abs": 0.0,
-      "drop_streak": 0,
-      "ma20_dev": 6.49,
-      "range_pos": 97.0,
-      "volume_ratio": 0.02,
-      "reasons": [
-        "较前一交易日持平 0.00%（+0.00 美元）。",
-        "当前价格高于 20 日均线约 6.5%，短线偏强。",
-        "处于近两月价格区间高位，注意回落风险。",
-        "成交量明显萎缩，市场观望情绪浓。"
-      ]
-    },
-    "brent": {
-      "close": 96.28,
-      "prev": 96.28,
-      "chg_pct": 0.0,
-      "chg_abs": 0.0,
-      "drop_streak": 0,
-      "ma20_dev": 5.13,
-      "range_pos": 84.6,
-      "volume_ratio": 0.01,
-      "reasons": [
-        "较前一交易日持平 0.00%（+0.00 美元）。",
-        "当前价格高于 20 日均线约 5.1%，短线偏强。",
-        "处于近两月价格区间高位，注意回落风险。",
-        "成交量明显萎缩，市场观望情绪浓。"
-      ]
-    },
-    "news": [
-      {
-        "title": "Dow Jones Futures Fall With Iran, Apple, Inflation In Focus; Nvidia, Micron, Sandisk Flash Buy Signals",
-        "link": "https://finance.yahoo.com/m/d5001ca0-1c20-3379-83c3-ddca4526f9c2/dow-jones-futures-fall-with.html"
-      },
-      {
-        "title": "Chevron Stayed in Venezuela for 20 Years While Rivals Left. Here's Why Its CEO Says Patience Pays Off.",
-        "link": "https://finance.yahoo.com/m/fdb80ad8-a404-3a48-9f1c-a32653cc426d/chevron-stayed-in-venezuela.html"
-      },
-      {
-        "title": "3 Indian Growth Stocks To Watch With At Least 24% Revenue Growth",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/3-indian-growth-stocks-watch-181248021.html"
-      },
-      {
-        "title": "Short Trading Week, CPI and Other Key Things to Watch this Week",
-        "link": "https://finance.yahoo.com/m/89ce145d-abcb-3e33-aa7a-e779fe6970b7/short-trading-week%2C-cpi-and.html"
-      }
-    ]
-  },
-  {
     "date": "2026-09-08",
     "updated_at": "2026-09-08T00:38:00Z",
     "wti": {
@@ -266,6 +212,59 @@
       {
         "title": "The Unrelenting Bond Selloff Puts the 10-Year Yield on the Cusp of 5%",
         "link": "https://finance.yahoo.com/m/15114c70-94a7-3502-978c-738e8d4efd3f/the-unrelenting-bond-selloff.html"
+      }
+    ]
+  },
+  {
+    "date": "2026-09-12",
+    "updated_at": "2026-09-12T00:32:04Z",
+    "wti": {
+      "close": 99.99,
+      "prev": 102.48,
+      "chg_pct": -2.43,
+      "chg_abs": -2.49,
+      "drop_streak": 1,
+      "ma20_dev": 12.96,
+      "range_pos": 90.9,
+      "volume_ratio": 1.39,
+      "reasons": [
+        "较前一交易日下跌 2.43%（-2.49 美元）。",
+        "当前价格高于 20 日均线约 13.0%，短线偏强。",
+        "处于近两月价格区间高位，注意回落风险。"
+      ]
+    },
+    "brent": {
+      "close": 104.42,
+      "prev": 107.63,
+      "chg_pct": -2.98,
+      "chg_abs": -3.21,
+      "drop_streak": 1,
+      "ma20_dev": 10.99,
+      "range_pos": 88.6,
+      "volume_ratio": 1.56,
+      "reasons": [
+        "较前一交易日下跌 2.98%（-3.21 美元）。",
+        "当前价格高于 20 日均线约 11.0%，短线偏强。",
+        "处于近两月价格区间高位，注意回落风险。",
+        "成交量放大至均量的 1.6 倍，多空博弈加剧。"
+      ]
+    },
+    "news": [
+      {
+        "title": "US rig count up three as prices soar",
+        "link": "https://finance.yahoo.com/m/f0e3adf6-21bb-31a4-a255-23fa01c56c5b/us-rig-count-up-three-as.html"
+      },
+      {
+        "title": "Dow Jones Futures: $100 Oil, Surging Yields Pressure Stocks With Fed Rate Hike Seen. Apple, Moderna Are New Buys.",
+        "link": "https://finance.yahoo.com/m/ff3ebbcf-fe39-3ccd-b655-37522db9df46/dow-jones-futures%3A-%24100-oil%2C.html"
+      },
+      {
+        "title": "S&P 500, Dow Break Past Four-Day Loss To End Higher As Investors Eye Fed Meeting Next Week — DELL, HPE, EL, WMT In Focus",
+        "link": "https://finance.yahoo.com/m/e32f6917-9db1-3546-90cf-dee3ca9ff621/s%26p-500%2C-dow-break-past.html"
+      },
+      {
+        "title": "The Saudi Arabia Pipeline Attacks Just Redefined Middle East Oil Risk",
+        "link": "https://finance.yahoo.com/m/b0949e8b-4fba-3e88-b896-6763ba806a45/the-saudi-arabia-pipeline.html"
       }
     ]
   }
