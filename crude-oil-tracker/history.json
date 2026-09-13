@@ -1,59 +1,5 @@
 [
   {
-    "date": "2026-09-08",
-    "updated_at": "2026-09-08T00:38:00Z",
-    "wti": {
-      "close": 92.35,
-      "prev": 91.48,
-      "chg_pct": 0.95,
-      "chg_abs": 0.87,
-      "drop_streak": 0,
-      "ma20_dev": 7.45,
-      "range_pos": 100.0,
-      "volume_ratio": 0.38,
-      "reasons": [
-        "较前一交易日上涨 0.95%（+0.87 美元）。",
-        "当前价格高于 20 日均线约 7.5%，短线偏强。",
-        "处于近两月价格区间高位，注意回落风险。",
-        "成交量明显萎缩，市场观望情绪浓。"
-      ]
-    },
-    "brent": {
-      "close": 97.03,
-      "prev": 96.28,
-      "chg_pct": 0.78,
-      "chg_abs": 0.75,
-      "drop_streak": 0,
-      "ma20_dev": 5.91,
-      "range_pos": 86.2,
-      "volume_ratio": 0.53,
-      "reasons": [
-        "较前一交易日上涨 0.78%（+0.75 美元）。",
-        "当前价格高于 20 日均线约 5.9%，短线偏强。",
-        "处于近两月价格区间高位，注意回落风险。",
-        "成交量明显萎缩，市场观望情绪浓。"
-      ]
-    },
-    "news": [
-      {
-        "title": "Piper Sandles Sees ExxonMobil (XOM) Heading Toward New Highs",
-        "link": "https://finance.yahoo.com/energy/articles/piper-sandles-sees-exxonmobil-xom-234156306.html"
-      },
-      {
-        "title": "Chevron (CVX) Doubles Down on Venezuela with a $7 Billion Oil Bet",
-        "link": "https://finance.yahoo.com/energy/articles/chevron-cvx-doubles-down-venezuela-231939575.html"
-      },
-      {
-        "title": "GeoPark’s Venezuela Deal: Massive Opportunity or Risky Bet?",
-        "link": "https://finance.yahoo.com/energy/articles/geopark-venezuela-deal-massive-opportunity-231758960.html"
-      },
-      {
-        "title": "Oil trading surges on Labor Day as price nears $100",
-        "link": "https://finance.yahoo.com/m/660b0e15-d57e-33b3-9ded-96651ac35fec/oil-trading-surges-on-labor.html"
-      }
-    ]
-  },
-  {
     "date": "2026-09-09",
     "updated_at": "2026-09-09T00:29:15Z",
     "wti": {
@@ -265,6 +211,60 @@
       {
         "title": "The Saudi Arabia Pipeline Attacks Just Redefined Middle East Oil Risk",
         "link": "https://finance.yahoo.com/m/b0949e8b-4fba-3e88-b896-6763ba806a45/the-saudi-arabia-pipeline.html"
+      }
+    ]
+  },
+  {
+    "date": "2026-09-13",
+    "updated_at": "2026-09-13T00:11:02Z",
+    "wti": {
+      "close": 100.05,
+      "prev": 102.48,
+      "chg_pct": -2.37,
+      "chg_abs": -2.43,
+      "drop_streak": 1,
+      "ma20_dev": 13.02,
+      "range_pos": 91.1,
+      "volume_ratio": 1.62,
+      "reasons": [
+        "较前一交易日下跌 2.37%（-2.43 美元）。",
+        "当前价格高于 20 日均线约 13.0%，短线偏强。",
+        "处于近两月价格区间高位，注意回落风险。",
+        "成交量放大至均量的 1.6 倍，多空博弈加剧。"
+      ]
+    },
+    "brent": {
+      "close": 104.61,
+      "prev": 107.63,
+      "chg_pct": -2.81,
+      "chg_abs": -3.02,
+      "drop_streak": 1,
+      "ma20_dev": 11.18,
+      "range_pos": 89.3,
+      "volume_ratio": 1.88,
+      "reasons": [
+        "较前一交易日下跌 2.81%（-3.02 美元）。",
+        "当前价格高于 20 日均线约 11.2%，短线偏强。",
+        "处于近两月价格区间高位，注意回落风险。",
+        "成交量放大至均量的 1.9 倍，多空博弈加剧。"
+      ]
+    },
+    "news": [
+      {
+        "title": "Dow Jones Futures: Fed Rate Hike Seen As Oil, Yields Pressure Stocks; Apple, Moderna Are New Buys",
+        "link": "https://finance.yahoo.com/m/ff3ebbcf-fe39-3ccd-b655-37522db9df46/dow-jones-futures%3A-fed-rate.html"
+      },
+      {
+        "title": "d OECD commercial oil inventories have “barely drawn since the war began,” reflecting a smaller-than-expected supply deficit and the concentration of inventory declines in strategic reserves, oil stored on water and China.",
+        "link": "https://finance.yahoo.com/m/7894e6e6-0216-3ce5-bf6f-f26e9beb22f0/d-oecd-commercial-oil.html"
+      },
+      {
+        "title": "Iran Says It’s No Longer Bound by the Nuclear Treaty. What That Does to Oil, Gold, and Bitcoin",
+        "link": "https://finance.yahoo.com/m/1dc15eb3-1f28-37fa-966c-b6600fe39d04/iran-says-it%E2%80%99s-no-longer.html"
+      },
+      {
+        "title": "If a Stock Market Crash Is Coming, History Says This 1 Move Protects Investors Every Single Time",
+        "link": "https://finance.yahoo.com/m/85ffe769-c004-355f-b027-a5924eb0e6ae/if-a-stock-market-crash-is.html"
       }
     ]
   }
