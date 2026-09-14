@@ -1,59 +1,5 @@
 [
   {
-    "date": "2026-09-09",
-    "updated_at": "2026-09-09T00:29:15Z",
-    "wti": {
-      "close": 94.52,
-      "prev": 91.48,
-      "chg_pct": 3.32,
-      "chg_abs": 3.04,
-      "drop_streak": 0,
-      "ma20_dev": 9.84,
-      "range_pos": 100.0,
-      "volume_ratio": 0.02,
-      "reasons": [
-        "较前一交易日上涨 3.32%（+3.04 美元）。",
-        "当前价格高于 20 日均线约 9.8%，短线偏强。",
-        "处于近两月价格区间高位，注意回落风险。",
-        "成交量明显萎缩，市场观望情绪浓。"
-      ]
-    },
-    "brent": {
-      "close": 99.36,
-      "prev": 96.28,
-      "chg_pct": 3.2,
-      "chg_abs": 3.08,
-      "drop_streak": 0,
-      "ma20_dev": 8.31,
-      "range_pos": 94.6,
-      "volume_ratio": 0.06,
-      "reasons": [
-        "较前一交易日上涨 3.20%（+3.08 美元）。",
-        "当前价格高于 20 日均线约 8.3%，短线偏强。",
-        "处于近两月价格区间高位，注意回落风险。",
-        "成交量明显萎缩，市场观望情绪浓。"
-      ]
-    },
-    "news": [
-      {
-        "title": "Dow Jones Futures: Dow Skids But AMD, HPE Are New Buys; Apple iPhone Event Due",
-        "link": "https://finance.yahoo.com/m/61edb329-2f31-3e10-8832-6860b7819ab2/dow-jones-futures%3A-dow-skids.html"
-      },
-      {
-        "title": "US Sanctions 27 Iranian Airlines Amid Escalating Regional Attacks",
-        "link": "https://finance.yahoo.com/economy/policy/articles/us-sanctions-27-iranian-airlines-231915499.html"
-      },
-      {
-        "title": "Hedge Funds Pile Into Fuels as U.S. Supply Squeeze Deepens",
-        "link": "https://finance.yahoo.com/energy/articles/hedge-funds-pile-fuels-u-230000787.html"
-      },
-      {
-        "title": "S&P 500, Dow End Lower As Middle East Tensions Spur Oil Rally Ahead Of Key Inflation Data — META, QCOM, BE, AMZN, AVGO In Focus",
-        "link": "https://finance.yahoo.com/m/3bed56b4-2f7e-38b8-908a-a80cb7e000b0/s%26p-500%2C-dow-end-lower-as.html"
-      }
-    ]
-  },
-  {
     "date": "2026-09-10",
     "updated_at": "2026-09-10T00:29:17Z",
     "wti": {
@@ -265,6 +211,60 @@
       {
         "title": "If a Stock Market Crash Is Coming, History Says This 1 Move Protects Investors Every Single Time",
         "link": "https://finance.yahoo.com/m/85ffe769-c004-355f-b027-a5924eb0e6ae/if-a-stock-market-crash-is.html"
+      }
+    ]
+  },
+  {
+    "date": "2026-09-14",
+    "updated_at": "2026-09-14T00:21:31Z",
+    "wti": {
+      "close": 102.47,
+      "prev": 100.05,
+      "chg_pct": 2.42,
+      "chg_abs": 2.42,
+      "drop_streak": 0,
+      "ma20_dev": 14.46,
+      "range_pos": 100.0,
+      "volume_ratio": 0.06,
+      "reasons": [
+        "较前一交易日上涨 2.42%（+2.42 美元）。",
+        "当前价格高于 20 日均线约 14.5%，短线偏强。",
+        "处于近两月价格区间高位，注意回落风险。",
+        "成交量明显萎缩，市场观望情绪浓。"
+      ]
+    },
+    "brent": {
+      "close": 107.37,
+      "prev": 104.61,
+      "chg_pct": 2.64,
+      "chg_abs": 2.76,
+      "drop_streak": 0,
+      "ma20_dev": 12.99,
+      "range_pos": 99.1,
+      "volume_ratio": 0.08,
+      "reasons": [
+        "较前一交易日上涨 2.64%（+2.76 美元）。",
+        "当前价格高于 20 日均线约 13.0%，短线偏强。",
+        "处于近两月价格区间高位，注意回落风险。",
+        "成交量明显萎缩，市场观望情绪浓。"
+      ]
+    },
+    "news": [
+      {
+        "title": "Dow Jones Futures Fall, Techs Tumble As Anthropic Leads Call For AI Slowdown; Fed Meeting Ahead",
+        "link": "https://finance.yahoo.com/m/75964091-0d57-3879-b55e-2c11b3225642/dow-jones-futures-fall%2C-techs.html"
+      },
+      {
+        "title": "Trump Urges Federal Reserve To Cut Rates As Market Bets On Warsh Hike",
+        "link": "https://finance.yahoo.com/m/a729002b-fde9-337b-938b-dbe92392e3e2/trump-urges-federal-reserve.html"
+      },
+      {
+        "title": "Oil prices jump more than 2% after new strikes on Saudi, Strait of Hormuz",
+        "link": "https://finance.yahoo.com/energy/articles/oil-prices-jump-more-3-224715375.html"
+      },
+      {
+        "title": "Shares slip in Asia as oil climbs, rate hikes loom",
+        "link": "https://finance.yahoo.com/markets/articles/shares-slip-asia-oil-climbs-231039187.html"
       }
     ]
   }
