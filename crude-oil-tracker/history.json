@@ -1,59 +1,5 @@
 [
   {
-    "date": "2026-09-10",
-    "updated_at": "2026-09-10T00:29:17Z",
-    "wti": {
-      "close": 96.63,
-      "prev": 93.03,
-      "chg_pct": 3.87,
-      "chg_abs": 3.6,
-      "drop_streak": 0,
-      "ma20_dev": 11.52,
-      "range_pos": 100.0,
-      "volume_ratio": 0.03,
-      "reasons": [
-        "较前一交易日上涨 3.87%（+3.60 美元）。",
-        "当前价格高于 20 日均线约 11.5%，短线偏强。",
-        "处于近两月价格区间高位，注意回落风险。",
-        "成交量明显萎缩，市场观望情绪浓。"
-      ]
-    },
-    "brent": {
-      "close": 101.41,
-      "prev": 97.92,
-      "chg_pct": 3.56,
-      "chg_abs": 3.49,
-      "drop_streak": 0,
-      "ma20_dev": 9.88,
-      "range_pos": 100.0,
-      "volume_ratio": 0.01,
-      "reasons": [
-        "较前一交易日上涨 3.56%（+3.49 美元）。",
-        "当前价格高于 20 日均线约 9.9%，短线偏强。",
-        "处于近两月价格区间高位，注意回落风险。",
-        "成交量明显萎缩，市场观望情绪浓。"
-      ]
-    },
-    "news": [
-      {
-        "title": "Dow Jones Futures Rise: Oil Prices Keep Climbing But Market Hasn't Broken Yet. Inflation Data Due.",
-        "link": "https://finance.yahoo.com/m/59de9715-6649-3bb7-ab2a-645a0715c752/dow-jones-futures-rise%3A-oil.html"
-      },
-      {
-        "title": "Canada Says Oil Sands Have Policy Support Needed To Boost Output",
-        "link": "https://finance.yahoo.com/energy/articles/canada-says-oil-sands-policy-235923769.html"
-      },
-      {
-        "title": "Trump Reportedly Says Oil Prices Won’t Tumble Until After Midterms, While Iran Signals More Intense War — USO, UCO Rise",
-        "link": "https://finance.yahoo.com/m/364fb6a7-9249-31d1-9545-f2176a94aac0/trump-reportedly-says-oil.html"
-      },
-      {
-        "title": "Market Chatter: Carney To Pitch Investors On Data Centers, Mines, LNG Projects",
-        "link": "https://finance.yahoo.com/energy/articles/market-chatter-carney-pitch-investors-230226430.html"
-      }
-    ]
-  },
-  {
     "date": "2026-09-11",
     "updated_at": "2026-09-11T00:26:59Z",
     "wti": {
@@ -265,6 +211,60 @@
       {
         "title": "Shares slip in Asia as oil climbs, rate hikes loom",
         "link": "https://finance.yahoo.com/markets/articles/shares-slip-asia-oil-climbs-231039187.html"
+      }
+    ]
+  },
+  {
+    "date": "2026-09-15",
+    "updated_at": "2026-09-15T00:50:48Z",
+    "wti": {
+      "close": 102.71,
+      "prev": 100.05,
+      "chg_pct": 2.66,
+      "chg_abs": 2.66,
+      "drop_streak": 0,
+      "ma20_dev": 14.71,
+      "range_pos": 100.0,
+      "volume_ratio": 0.02,
+      "reasons": [
+        "较前一交易日上涨 2.66%（+2.66 美元）。",
+        "当前价格高于 20 日均线约 14.7%，短线偏强。",
+        "处于近两月价格区间高位，注意回落风险。",
+        "成交量明显萎缩，市场观望情绪浓。"
+      ]
+    },
+    "brent": {
+      "close": 107.04,
+      "prev": 104.61,
+      "chg_pct": 2.32,
+      "chg_abs": 2.43,
+      "drop_streak": 0,
+      "ma20_dev": 12.66,
+      "range_pos": 97.9,
+      "volume_ratio": 0.02,
+      "reasons": [
+        "较前一交易日上涨 2.32%（+2.43 美元）。",
+        "当前价格高于 20 日均线约 12.7%，短线偏强。",
+        "处于近两月价格区间高位，注意回落风险。",
+        "成交量明显萎缩，市场观望情绪浓。"
+      ]
+    },
+    "news": [
+      {
+        "title": "Why a Saudi Arabia pipeline closure could drive up gas prices",
+        "link": "https://finance.yahoo.com/m/b3c9a0c8-543e-3dce-890c-b2953eaed014/why-a-saudi-arabia-pipeline.html"
+      },
+      {
+        "title": "Costco Wholesale Nearly Doubles Kirkland Motor Oil Price, Caps Purchases at Two Weekly",
+        "link": "https://finance.yahoo.com/markets/commodities/articles/costco-wholesale-nearly-doubles-kirkland-234029919.html"
+      },
+      {
+        "title": "Dow Jones Futures: Nvidia, Micron, Sandisk Dive On AI Fears; Fed Rate Hike Looms",
+        "link": "https://finance.yahoo.com/m/2084aecc-79ec-32d8-a4ee-0894a4e6a808/dow-jones-futures%3A-nvidia%2C.html"
+      },
+      {
+        "title": "Canada 10-year yield rises as inflation, oil prices keep bond markets on edge",
+        "link": "https://finance.yahoo.com/economy/policy/articles/canada-10-yield-rises-inflation-222408354.html"
       }
     ]
   }
