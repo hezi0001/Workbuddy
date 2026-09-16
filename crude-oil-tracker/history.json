@@ -1,59 +1,5 @@
 [
   {
-    "date": "2026-09-11",
-    "updated_at": "2026-09-11T00:26:59Z",
-    "wti": {
-      "close": 103.1,
-      "prev": 96.05,
-      "chg_pct": 7.34,
-      "chg_abs": 7.05,
-      "drop_streak": 0,
-      "ma20_dev": 17.67,
-      "range_pos": 100.0,
-      "volume_ratio": 0.06,
-      "reasons": [
-        "较前一交易日上涨 7.34%（+7.05 美元）。",
-        "当前价格高于 20 日均线约 17.7%，短线偏强。",
-        "处于近两月价格区间高位，注意回落风险。",
-        "成交量明显萎缩，市场观望情绪浓。"
-      ]
-    },
-    "brent": {
-      "close": 108.15,
-      "prev": 101.21,
-      "chg_pct": 6.86,
-      "chg_abs": 6.94,
-      "drop_streak": 0,
-      "ma20_dev": 16.0,
-      "range_pos": 100.0,
-      "volume_ratio": 0.08,
-      "reasons": [
-        "较前一交易日上涨 6.86%（+6.94 美元）。",
-        "当前价格高于 20 日均线约 16.0%，短线偏强。",
-        "处于近两月价格区间高位，注意回落风险。",
-        "成交量明显萎缩，市场观望情绪浓。"
-      ]
-    },
-    "news": [
-      {
-        "title": "Dow Jones Futures: S&P 500 Breaks Support As Oil Prices, Yields Surge; Oracle Jumps Late With CPI Inflation Due",
-        "link": "https://finance.yahoo.com/m/c29e8241-4bb8-3a14-aa17-d5e2fa2c38f6/dow-jones-futures%3A-s%26p-500.html"
-      },
-      {
-        "title": "Small CPI surprise could trigger big Fed rate decision",
-        "link": "https://finance.yahoo.com/m/96925e91-d9d9-31ee-8cbc-c6d5d081b207/small-cpi-surprise-could.html"
-      },
-      {
-        "title": "Trump Reportedly Says He Has No Regrets Over Iran War Even As Oil Tops $100 — USO And UCO Jump While Midterm Stakes Get Higher",
-        "link": "https://finance.yahoo.com/m/cd5bb673-4b1b-3627-935d-2872558b4fb8/trump-reportedly-says-he-has.html"
-      },
-      {
-        "title": "The Unrelenting Bond Selloff Puts the 10-Year Yield on the Cusp of 5%",
-        "link": "https://finance.yahoo.com/m/15114c70-94a7-3502-978c-738e8d4efd3f/the-unrelenting-bond-selloff.html"
-      }
-    ]
-  },
-  {
     "date": "2026-09-12",
     "updated_at": "2026-09-12T00:32:04Z",
     "wti": {
@@ -265,6 +211,60 @@
       {
         "title": "Canada 10-year yield rises as inflation, oil prices keep bond markets on edge",
         "link": "https://finance.yahoo.com/economy/policy/articles/canada-10-yield-rises-inflation-222408354.html"
+      }
+    ]
+  },
+  {
+    "date": "2026-09-16",
+    "updated_at": "2026-09-16T00:43:38Z",
+    "wti": {
+      "close": 104.81,
+      "prev": 101.39,
+      "chg_pct": 3.37,
+      "chg_abs": 3.42,
+      "drop_streak": 0,
+      "ma20_dev": 15.83,
+      "range_pos": 100.0,
+      "volume_ratio": 0.02,
+      "reasons": [
+        "较前一交易日上涨 3.37%（+3.42 美元）。",
+        "当前价格高于 20 日均线约 15.8%，短线偏强。",
+        "处于近两月价格区间高位，注意回落风险。",
+        "成交量明显萎缩，市场观望情绪浓。"
+      ]
+    },
+    "brent": {
+      "close": 107.79,
+      "prev": 105.68,
+      "chg_pct": 2.0,
+      "chg_abs": 2.11,
+      "drop_streak": 0,
+      "ma20_dev": 12.53,
+      "range_pos": 100.0,
+      "volume_ratio": 0.01,
+      "reasons": [
+        "较前一交易日上涨 2.00%（+2.11 美元）。",
+        "当前价格高于 20 日均线约 12.5%，短线偏强。",
+        "处于近两月价格区间高位，注意回落风险。",
+        "成交量明显萎缩，市场观望情绪浓。"
+      ]
+    },
+    "news": [
+      {
+        "title": "Dow Jones Futures Rise As ServiceNow, Twilio Lead 8 New Buys; How Will Bonds React To Fed Hike?",
+        "link": "https://finance.yahoo.com/m/10d3ce21-753d-3a1d-b088-1aa8059410a8/dow-jones-futures-rise-as.html"
+      },
+      {
+        "title": "Japan August imports jump as oil prices lift costs, exports stay firm",
+        "link": "https://finance.yahoo.com/economy/policy/articles/japan-august-imports-jump-oil-003304737.html"
+      },
+      {
+        "title": "Navigating the Market: Inflation, Yields, & the Fed",
+        "link": "https://finance.yahoo.com/economy/policy/articles/navigating-market-inflation-yields-fed-233300605.html"
+      },
+      {
+        "title": "Hormuz Risk Opens $40-Plus Price Gap Between Crude Grades",
+        "link": "https://finance.yahoo.com/energy/articles/hormuz-risk-opens-40-plus-220000152.html"
       }
     ]
   }
