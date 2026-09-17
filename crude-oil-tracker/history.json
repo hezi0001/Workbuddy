@@ -1,58 +1,5 @@
 [
   {
-    "date": "2026-09-12",
-    "updated_at": "2026-09-12T00:32:04Z",
-    "wti": {
-      "close": 99.99,
-      "prev": 102.48,
-      "chg_pct": -2.43,
-      "chg_abs": -2.49,
-      "drop_streak": 1,
-      "ma20_dev": 12.96,
-      "range_pos": 90.9,
-      "volume_ratio": 1.39,
-      "reasons": [
-        "较前一交易日下跌 2.43%（-2.49 美元）。",
-        "当前价格高于 20 日均线约 13.0%，短线偏强。",
-        "处于近两月价格区间高位，注意回落风险。"
-      ]
-    },
-    "brent": {
-      "close": 104.42,
-      "prev": 107.63,
-      "chg_pct": -2.98,
-      "chg_abs": -3.21,
-      "drop_streak": 1,
-      "ma20_dev": 10.99,
-      "range_pos": 88.6,
-      "volume_ratio": 1.56,
-      "reasons": [
-        "较前一交易日下跌 2.98%（-3.21 美元）。",
-        "当前价格高于 20 日均线约 11.0%，短线偏强。",
-        "处于近两月价格区间高位，注意回落风险。",
-        "成交量放大至均量的 1.6 倍，多空博弈加剧。"
-      ]
-    },
-    "news": [
-      {
-        "title": "US rig count up three as prices soar",
-        "link": "https://finance.yahoo.com/m/f0e3adf6-21bb-31a4-a255-23fa01c56c5b/us-rig-count-up-three-as.html"
-      },
-      {
-        "title": "Dow Jones Futures: $100 Oil, Surging Yields Pressure Stocks With Fed Rate Hike Seen. Apple, Moderna Are New Buys.",
-        "link": "https://finance.yahoo.com/m/ff3ebbcf-fe39-3ccd-b655-37522db9df46/dow-jones-futures%3A-%24100-oil%2C.html"
-      },
-      {
-        "title": "S&P 500, Dow Break Past Four-Day Loss To End Higher As Investors Eye Fed Meeting Next Week — DELL, HPE, EL, WMT In Focus",
-        "link": "https://finance.yahoo.com/m/e32f6917-9db1-3546-90cf-dee3ca9ff621/s%26p-500%2C-dow-break-past.html"
-      },
-      {
-        "title": "The Saudi Arabia Pipeline Attacks Just Redefined Middle East Oil Risk",
-        "link": "https://finance.yahoo.com/m/b0949e8b-4fba-3e88-b896-6763ba806a45/the-saudi-arabia-pipeline.html"
-      }
-    ]
-  },
-  {
     "date": "2026-09-13",
     "updated_at": "2026-09-13T00:11:02Z",
     "wti": {
@@ -265,6 +212,60 @@
       {
         "title": "Hormuz Risk Opens $40-Plus Price Gap Between Crude Grades",
         "link": "https://finance.yahoo.com/energy/articles/hormuz-risk-opens-40-plus-220000152.html"
+      }
+    ]
+  },
+  {
+    "date": "2026-09-17",
+    "updated_at": "2026-09-17T00:49:49Z",
+    "wti": {
+      "close": 101.39,
+      "prev": 105.83,
+      "chg_pct": -4.2,
+      "chg_abs": -4.44,
+      "drop_streak": 1,
+      "ma20_dev": 10.98,
+      "range_pos": 85.5,
+      "volume_ratio": 0.02,
+      "reasons": [
+        "较前一交易日下跌 4.20%（-4.44 美元）。",
+        "当前价格高于 20 日均线约 11.0%，短线偏强。",
+        "处于近两月价格区间高位，注意回落风险。",
+        "成交量明显萎缩，市场观望情绪浓。"
+      ]
+    },
+    "brent": {
+      "close": 104.86,
+      "prev": 108.75,
+      "chg_pct": -3.58,
+      "chg_abs": -3.89,
+      "drop_streak": 1,
+      "ma20_dev": 8.63,
+      "range_pos": 86.8,
+      "volume_ratio": 0.02,
+      "reasons": [
+        "较前一交易日下跌 3.58%（-3.89 美元）。",
+        "当前价格高于 20 日均线约 8.6%，短线偏强。",
+        "处于近两月价格区间高位，注意回落风险。",
+        "成交量明显萎缩，市场观望情绪浓。"
+      ]
+    },
+    "news": [
+      {
+        "title": "New refineries needed as Texas production maxes out",
+        "link": "https://finance.yahoo.com/energy/articles/refineries-needed-texas-production-maxes-000500628.html"
+      },
+      {
+        "title": "Tanker Rates Smash $1 Million a Day as Oil Shipping Crisis Deepens",
+        "link": "https://finance.yahoo.com/energy/articles/tanker-rates-smash-1-million-230000417.html"
+      },
+      {
+        "title": "Oil Above $100 Pushes U.S. Fuel Prices to New Records",
+        "link": "https://finance.yahoo.com/energy/articles/oil-above-100-pushes-u-220000372.html"
+      },
+      {
+        "title": "Exxonmobil in talks to return to Venezuela, Bloomberg reports",
+        "link": "https://finance.yahoo.com/energy/articles/exxonmobil-talks-return-venezuela-bloomberg-215635505.html"
       }
     ]
   }
