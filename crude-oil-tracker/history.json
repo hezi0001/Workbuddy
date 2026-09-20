@@ -1,59 +1,5 @@
 [
   {
-    "date": "2026-09-15",
-    "updated_at": "2026-09-15T00:50:48Z",
-    "wti": {
-      "close": 102.71,
-      "prev": 100.05,
-      "chg_pct": 2.66,
-      "chg_abs": 2.66,
-      "drop_streak": 0,
-      "ma20_dev": 14.71,
-      "range_pos": 100.0,
-      "volume_ratio": 0.02,
-      "reasons": [
-        "较前一交易日上涨 2.66%（+2.66 美元）。",
-        "当前价格高于 20 日均线约 14.7%，短线偏强。",
-        "处于近两月价格区间高位，注意回落风险。",
-        "成交量明显萎缩，市场观望情绪浓。"
-      ]
-    },
-    "brent": {
-      "close": 107.04,
-      "prev": 104.61,
-      "chg_pct": 2.32,
-      "chg_abs": 2.43,
-      "drop_streak": 0,
-      "ma20_dev": 12.66,
-      "range_pos": 97.9,
-      "volume_ratio": 0.02,
-      "reasons": [
-        "较前一交易日上涨 2.32%（+2.43 美元）。",
-        "当前价格高于 20 日均线约 12.7%，短线偏强。",
-        "处于近两月价格区间高位，注意回落风险。",
-        "成交量明显萎缩，市场观望情绪浓。"
-      ]
-    },
-    "news": [
-      {
-        "title": "Why a Saudi Arabia pipeline closure could drive up gas prices",
-        "link": "https://finance.yahoo.com/m/b3c9a0c8-543e-3dce-890c-b2953eaed014/why-a-saudi-arabia-pipeline.html"
-      },
-      {
-        "title": "Costco Wholesale Nearly Doubles Kirkland Motor Oil Price, Caps Purchases at Two Weekly",
-        "link": "https://finance.yahoo.com/markets/commodities/articles/costco-wholesale-nearly-doubles-kirkland-234029919.html"
-      },
-      {
-        "title": "Dow Jones Futures: Nvidia, Micron, Sandisk Dive On AI Fears; Fed Rate Hike Looms",
-        "link": "https://finance.yahoo.com/m/2084aecc-79ec-32d8-a4ee-0894a4e6a808/dow-jones-futures%3A-nvidia%2C.html"
-      },
-      {
-        "title": "Canada 10-year yield rises as inflation, oil prices keep bond markets on edge",
-        "link": "https://finance.yahoo.com/economy/policy/articles/canada-10-yield-rises-inflation-222408354.html"
-      }
-    ]
-  },
-  {
     "date": "2026-09-16",
     "updated_at": "2026-09-16T00:43:38Z",
     "wti": {
@@ -265,6 +211,60 @@
       {
         "title": "Jim Cramer Wished He’d Worked At This Firm Instead Of Goldman Sachs",
         "link": "https://finance.yahoo.com/energy/articles/jim-cramer-wished-d-worked-231818524.html"
+      }
+    ]
+  },
+  {
+    "date": "2026-09-20",
+    "updated_at": "2026-09-20T00:18:12Z",
+    "wti": {
+      "close": 100.3,
+      "prev": 101.91,
+      "chg_pct": -1.58,
+      "chg_abs": -1.61,
+      "drop_streak": 3,
+      "ma20_dev": 8.03,
+      "range_pos": 81.9,
+      "volume_ratio": 0.94,
+      "reasons": [
+        "较前一交易日下跌 1.58%（-1.61 美元）。",
+        "已连续 3 个交易日走低，短期弱势延续。",
+        "当前价格高于 20 日均线约 8.0%，短线偏强。",
+        "处于近两月价格区间高位，注意回落风险。"
+      ]
+    },
+    "brent": {
+      "close": 103.87,
+      "prev": 104.82,
+      "chg_pct": -0.91,
+      "chg_abs": -0.95,
+      "drop_streak": 3,
+      "ma20_dev": 6.27,
+      "range_pos": 83.4,
+      "volume_ratio": 1.31,
+      "reasons": [
+        "较前一交易日下跌 0.91%（-0.95 美元）。",
+        "已连续 3 个交易日走低，短期弱势延续。",
+        "当前价格高于 20 日均线约 6.3%，短线偏强。",
+        "处于近两月价格区间高位，注意回落风险。"
+      ]
+    },
+    "news": [
+      {
+        "title": "Fossil fuel emissions set to fall in after oil shock",
+        "link": "https://finance.yahoo.com/energy/articles/fossil-fuel-emissions-set-fall-210300941.html"
+      },
+      {
+        "title": "Treasury yields are already blowing up the CBO’s long-term forecasts, and experts who previously downplayed U.S. debt fears are now starting to worry",
+        "link": "https://finance.yahoo.com/economy/policy/articles/treasury-yields-already-blowing-cbo-193157579.html"
+      },
+      {
+        "title": "3 Oil Stocks For Investors Watching Recession Risk And Crude Prices",
+        "link": "https://finance.yahoo.com/energy/articles/3-oil-stocks-investors-watching-191300497.html"
+      },
+      {
+        "title": "Federal Reserve Inflation Outlook Signals a Critical Warning for Investors",
+        "link": "https://finance.yahoo.com/economy/policy/articles/federal-inflation-outlook-signals-critical-155700852.html"
       }
     ]
   }
