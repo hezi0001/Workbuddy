@@ -1,59 +1,5 @@
 [
   {
-    "date": "2026-09-16",
-    "updated_at": "2026-09-16T00:43:38Z",
-    "wti": {
-      "close": 104.81,
-      "prev": 101.39,
-      "chg_pct": 3.37,
-      "chg_abs": 3.42,
-      "drop_streak": 0,
-      "ma20_dev": 15.83,
-      "range_pos": 100.0,
-      "volume_ratio": 0.02,
-      "reasons": [
-        "较前一交易日上涨 3.37%（+3.42 美元）。",
-        "当前价格高于 20 日均线约 15.8%，短线偏强。",
-        "处于近两月价格区间高位，注意回落风险。",
-        "成交量明显萎缩，市场观望情绪浓。"
-      ]
-    },
-    "brent": {
-      "close": 107.79,
-      "prev": 105.68,
-      "chg_pct": 2.0,
-      "chg_abs": 2.11,
-      "drop_streak": 0,
-      "ma20_dev": 12.53,
-      "range_pos": 100.0,
-      "volume_ratio": 0.01,
-      "reasons": [
-        "较前一交易日上涨 2.00%（+2.11 美元）。",
-        "当前价格高于 20 日均线约 12.5%，短线偏强。",
-        "处于近两月价格区间高位，注意回落风险。",
-        "成交量明显萎缩，市场观望情绪浓。"
-      ]
-    },
-    "news": [
-      {
-        "title": "Dow Jones Futures Rise As ServiceNow, Twilio Lead 8 New Buys; How Will Bonds React To Fed Hike?",
-        "link": "https://finance.yahoo.com/m/10d3ce21-753d-3a1d-b088-1aa8059410a8/dow-jones-futures-rise-as.html"
-      },
-      {
-        "title": "Japan August imports jump as oil prices lift costs, exports stay firm",
-        "link": "https://finance.yahoo.com/economy/policy/articles/japan-august-imports-jump-oil-003304737.html"
-      },
-      {
-        "title": "Navigating the Market: Inflation, Yields, & the Fed",
-        "link": "https://finance.yahoo.com/economy/policy/articles/navigating-market-inflation-yields-fed-233300605.html"
-      },
-      {
-        "title": "Hormuz Risk Opens $40-Plus Price Gap Between Crude Grades",
-        "link": "https://finance.yahoo.com/energy/articles/hormuz-risk-opens-40-plus-220000152.html"
-      }
-    ]
-  },
-  {
     "date": "2026-09-17",
     "updated_at": "2026-09-17T00:49:49Z",
     "wti": {
@@ -265,6 +211,59 @@
       {
         "title": "Federal Reserve Inflation Outlook Signals a Critical Warning for Investors",
         "link": "https://finance.yahoo.com/economy/policy/articles/federal-inflation-outlook-signals-critical-155700852.html"
+      }
+    ]
+  },
+  {
+    "date": "2026-09-21",
+    "updated_at": "2026-09-21T00:26:13Z",
+    "wti": {
+      "close": 95.64,
+      "prev": 100.3,
+      "chg_pct": -4.65,
+      "chg_abs": -4.66,
+      "drop_streak": 4,
+      "ma20_dev": 2.54,
+      "range_pos": 66.7,
+      "volume_ratio": 0.04,
+      "reasons": [
+        "较前一交易日下跌 4.65%（-4.66 美元）。",
+        "已连续 4 个交易日走低，短期弱势延续。",
+        "当前价格高于 20 日均线约 2.5%，短线偏强。",
+        "成交量明显萎缩，市场观望情绪浓。"
+      ]
+    },
+    "brent": {
+      "close": 99.08,
+      "prev": 103.87,
+      "chg_pct": -4.61,
+      "chg_abs": -4.79,
+      "drop_streak": 4,
+      "ma20_dev": 1.12,
+      "range_pos": 67.1,
+      "volume_ratio": 0.03,
+      "reasons": [
+        "较前一交易日下跌 4.61%（-4.79 美元）。",
+        "已连续 4 个交易日走低，短期弱势延续。",
+        "成交量明显萎缩，市场观望情绪浓。"
+      ]
+    },
+    "news": [
+      {
+        "title": "Big Oil’s Production Keeps Soaring Despite Deep Spending Cuts",
+        "link": "https://finance.yahoo.com/energy/articles/big-oil-production-keeps-soaring-230000062.html"
+      },
+      {
+        "title": "Jefferies stays bullish on S&P 500, sees 9,000 by end-2027",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/jefferies-stays-bullish-p-500-223344444.html"
+      },
+      {
+        "title": "Baird Pulls the Plug on Its Sportswear Recovery Thesis, Downgrading NIKE and Dick’s All at Once",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/baird-pulls-plug-sportswear-recovery-200209282.html"
+      },
+      {
+        "title": "Fed's Kashkari says inflation is still too high in 'all aspects' of US economy, in Fox News interview",
+        "link": "https://finance.yahoo.com/economy/policy/articles/feds-kashkari-says-inflation-goes-150738609.html"
       }
     ]
   }
