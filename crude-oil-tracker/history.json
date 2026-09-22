@@ -1,59 +1,5 @@
 [
   {
-    "date": "2026-09-17",
-    "updated_at": "2026-09-17T00:49:49Z",
-    "wti": {
-      "close": 101.39,
-      "prev": 105.83,
-      "chg_pct": -4.2,
-      "chg_abs": -4.44,
-      "drop_streak": 1,
-      "ma20_dev": 10.98,
-      "range_pos": 85.5,
-      "volume_ratio": 0.02,
-      "reasons": [
-        "较前一交易日下跌 4.20%（-4.44 美元）。",
-        "当前价格高于 20 日均线约 11.0%，短线偏强。",
-        "处于近两月价格区间高位，注意回落风险。",
-        "成交量明显萎缩，市场观望情绪浓。"
-      ]
-    },
-    "brent": {
-      "close": 104.86,
-      "prev": 108.75,
-      "chg_pct": -3.58,
-      "chg_abs": -3.89,
-      "drop_streak": 1,
-      "ma20_dev": 8.63,
-      "range_pos": 86.8,
-      "volume_ratio": 0.02,
-      "reasons": [
-        "较前一交易日下跌 3.58%（-3.89 美元）。",
-        "当前价格高于 20 日均线约 8.6%，短线偏强。",
-        "处于近两月价格区间高位，注意回落风险。",
-        "成交量明显萎缩，市场观望情绪浓。"
-      ]
-    },
-    "news": [
-      {
-        "title": "New refineries needed as Texas production maxes out",
-        "link": "https://finance.yahoo.com/energy/articles/refineries-needed-texas-production-maxes-000500628.html"
-      },
-      {
-        "title": "Tanker Rates Smash $1 Million a Day as Oil Shipping Crisis Deepens",
-        "link": "https://finance.yahoo.com/energy/articles/tanker-rates-smash-1-million-230000417.html"
-      },
-      {
-        "title": "Oil Above $100 Pushes U.S. Fuel Prices to New Records",
-        "link": "https://finance.yahoo.com/energy/articles/oil-above-100-pushes-u-220000372.html"
-      },
-      {
-        "title": "Exxonmobil in talks to return to Venezuela, Bloomberg reports",
-        "link": "https://finance.yahoo.com/energy/articles/exxonmobil-talks-return-venezuela-bloomberg-215635505.html"
-      }
-    ]
-  },
-  {
     "date": "2026-09-18",
     "updated_at": "2026-09-18T00:43:18Z",
     "wti": {
@@ -264,6 +210,58 @@
       {
         "title": "Fed's Kashkari says inflation is still too high in 'all aspects' of US economy, in Fox News interview",
         "link": "https://finance.yahoo.com/economy/policy/articles/feds-kashkari-says-inflation-goes-150738609.html"
+      }
+    ]
+  },
+  {
+    "date": "2026-09-22",
+    "updated_at": "2026-09-22T01:03:53Z",
+    "wti": {
+      "close": 92.75,
+      "prev": 100.3,
+      "chg_pct": -7.53,
+      "chg_abs": -7.55,
+      "drop_streak": 4,
+      "ma20_dev": -0.4,
+      "range_pos": 57.3,
+      "volume_ratio": 0.02,
+      "reasons": [
+        "较前一交易日下跌 7.53%（-7.55 美元）。",
+        "已连续 4 个交易日走低，短期弱势延续。",
+        "成交量明显萎缩，市场观望情绪浓。"
+      ]
+    },
+    "brent": {
+      "close": 96.71,
+      "prev": 103.87,
+      "chg_pct": -6.89,
+      "chg_abs": -7.16,
+      "drop_streak": 4,
+      "ma20_dev": -1.18,
+      "range_pos": 59.0,
+      "volume_ratio": 0.01,
+      "reasons": [
+        "较前一交易日下跌 6.89%（-7.16 美元）。",
+        "已连续 4 个交易日走低，短期弱势延续。",
+        "成交量明显萎缩，市场观望情绪浓。"
+      ]
+    },
+    "news": [
+      {
+        "title": "Oil rises slightly ahead of potential US-Iran talks",
+        "link": "https://finance.yahoo.com/energy/articles/oil-rises-slightly-ahead-potential-003404571.html"
+      },
+      {
+        "title": "AMD, Intel, and Qualcomm Shares Skyrocket, What You Need To Know",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/amd-intel-qualcomm-shares-skyrocket-002225901.html"
+      },
+      {
+        "title": "DigitalOcean (DOCN) Shares Skyrocket, What You Need To Know",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/digitalocean-docn-shares-skyrocket-know-001425595.html"
+      },
+      {
+        "title": "Dow Jones Futures: Falling Oil Prices, Yields Spark Market Rally; AMD, Intel, Micron, Nvidia, Sandisk Are Key Movers",
+        "link": "https://finance.yahoo.com/m/bc32a5e1-f207-3311-ba0b-143bb01bd032/dow-jones-futures%3A-falling.html"
       }
     ]
   }
