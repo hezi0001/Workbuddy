@@ -1,61 +1,5 @@
 [
   {
-    "date": "2026-09-18",
-    "updated_at": "2026-09-18T00:43:18Z",
-    "wti": {
-      "close": 100.91,
-      "prev": 102.43,
-      "chg_pct": -1.48,
-      "chg_abs": -1.52,
-      "drop_streak": 2,
-      "ma20_dev": 9.48,
-      "range_pos": 83.9,
-      "volume_ratio": 0.0,
-      "reasons": [
-        "较前一交易日下跌 1.48%（-1.52 美元）。",
-        "已连续 2 个交易日走低，短期弱势延续。",
-        "当前价格高于 20 日均线约 9.5%，短线偏强。",
-        "处于近两月价格区间高位，注意回落风险。",
-        "成交量明显萎缩，市场观望情绪浓。"
-      ]
-    },
-    "brent": {
-      "close": 103.8,
-      "prev": 105.83,
-      "chg_pct": -1.92,
-      "chg_abs": -2.03,
-      "drop_streak": 2,
-      "ma20_dev": 6.8,
-      "range_pos": 83.2,
-      "volume_ratio": 0.01,
-      "reasons": [
-        "较前一交易日下跌 1.92%（-2.03 美元）。",
-        "已连续 2 个交易日走低，短期弱势延续。",
-        "当前价格高于 20 日均线约 6.8%，短线偏强。",
-        "处于近两月价格区间高位，注意回落风险。",
-        "成交量明显萎缩，市场观望情绪浓。"
-      ]
-    },
-    "news": [
-      {
-        "title": "Dow Jones Futures Fall After S&P 500, Nasdaq Rebound Above Key Level; Moderna, AMD, SpaceX Flash Buy Signals",
-        "link": "https://finance.yahoo.com/m/1921e6e5-7c6c-3cc6-ae73-750d397323c3/dow-jones-futures-fall-after.html"
-      },
-      {
-        "title": "Nikkei Rises 0.8%, Led by Chip-Related Stocks",
-        "link": "https://finance.yahoo.com/m/361f3081-8b42-3037-a1d8-b72a48890215/nikkei-rises-0.8%25%2C-led-by.html"
-      },
-      {
-        "title": "Energean PLC (EERGF) (H1 2026) Earnings Call Highlights: Profit Jumps 45% as Production ...",
-        "link": "https://finance.yahoo.com/energy/articles/energean-plc-eergf-h1-2026-230024491.html"
-      },
-      {
-        "title": "Ross Gerber’s defensive plan for inflationary markets",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/ross-gerber-defensive-plan-inflationary-225017481.html"
-      }
-    ]
-  },
-  {
     "date": "2026-09-19",
     "updated_at": "2026-09-19T00:32:00Z",
     "wti": {
@@ -262,6 +206,59 @@
       {
         "title": "Dow Jones Futures: Falling Oil Prices, Yields Spark Market Rally; AMD, Intel, Micron, Nvidia, Sandisk Are Key Movers",
         "link": "https://finance.yahoo.com/m/bc32a5e1-f207-3311-ba0b-143bb01bd032/dow-jones-futures%3A-falling.html"
+      }
+    ]
+  },
+  {
+    "date": "2026-09-23",
+    "updated_at": "2026-09-23T00:52:23Z",
+    "wti": {
+      "close": 90.06,
+      "prev": 95.78,
+      "chg_pct": -5.97,
+      "chg_abs": -5.72,
+      "drop_streak": 5,
+      "ma20_dev": -3.71,
+      "range_pos": 48.5,
+      "volume_ratio": 0.02,
+      "reasons": [
+        "较前一交易日下跌 5.97%（-5.72 美元）。",
+        "已连续 5 个交易日走低，短期弱势延续。",
+        "当前价格低于 20 日均线约 3.7%，短线偏弱。",
+        "成交量明显萎缩，市场观望情绪浓。"
+      ]
+    },
+    "brent": {
+      "close": 99.11,
+      "prev": 100.34,
+      "chg_pct": -1.23,
+      "chg_abs": -1.23,
+      "drop_streak": 5,
+      "ma20_dev": 0.73,
+      "range_pos": 67.2,
+      "volume_ratio": 0.02,
+      "reasons": [
+        "较前一交易日下跌 1.23%（-1.23 美元）。",
+        "已连续 5 个交易日走低，短期弱势延续。",
+        "成交量明显萎缩，市场观望情绪浓。"
+      ]
+    },
+    "news": [
+      {
+        "title": "Dow Jones Futures: Nasdaq Hits New High; Sandisk, Micron Trigger Buy Signals",
+        "link": "https://finance.yahoo.com/m/280f5dd6-365f-3a6a-91c9-2a9551e64657/dow-jones-futures%3A-nasdaq.html"
+      },
+      {
+        "title": "Diversified Energy Company PLC (DEC) Stock Moves 1.39%: What You Should Know",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/diversified-energy-company-plc-dec-215005850.html"
+      },
+      {
+        "title": "WSJ Dollar Index Rises 0.04% to 96.23",
+        "link": "https://finance.yahoo.com/m/a287d33f-cdfa-3989-b068-ce3c4d614154/wsj-dollar-index-rises-0.04%25.html"
+      },
+      {
+        "title": "Nasdaq Jumps To Close At Record As Chipmakers Climb, Oil Prices Cool — AAPL, META, SPCX, MSFT, VKTX In Focus",
+        "link": "https://finance.yahoo.com/m/e59fc4ec-18c2-366a-ae39-5881feb805de/nasdaq-jumps-to-close-at.html"
       }
     ]
   }
