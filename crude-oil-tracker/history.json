@@ -1,56 +1,5 @@
 [
   {
-    "date": "2026-09-19",
-    "updated_at": "2026-09-19T00:32:00Z",
-    "wti": {
-      "close": 95.47,
-      "prev": 101.91,
-      "chg_pct": -6.32,
-      "chg_abs": -6.44,
-      "drop_streak": 3,
-      "ma20_dev": 3.1,
-      "range_pos": 66.2,
-      "volume_ratio": 1.06,
-      "reasons": [
-        "较前一交易日下跌 6.32%（-6.44 美元）。",
-        "已连续 3 个交易日走低，短期弱势延续。",
-        "当前价格高于 20 日均线约 3.1%，短线偏强。"
-      ]
-    },
-    "brent": {
-      "close": 98.77,
-      "prev": 104.82,
-      "chg_pct": -5.77,
-      "chg_abs": -6.05,
-      "drop_streak": 3,
-      "ma20_dev": 1.31,
-      "range_pos": 66.0,
-      "volume_ratio": 1.15,
-      "reasons": [
-        "较前一交易日下跌 5.77%（-6.05 美元）。",
-        "已连续 3 个交易日走低，短期弱势延续。"
-      ]
-    },
-    "news": [
-      {
-        "title": "US rig count up four as prices tick up",
-        "link": "https://finance.yahoo.com/energy/articles/us-rig-count-four-prices-000100800.html"
-      },
-      {
-        "title": "Time for Cyclical Sector ETFs?",
-        "link": "https://finance.yahoo.com/economy/policy/articles/time-cyclical-sector-etfs-000000886.html"
-      },
-      {
-        "title": "Dow Drops To Record Worst Week In Six Months Amid Elevated Yields, Oil — NVDA, TSLA, SPCX, ONON In Focus",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/dow-drops-record-worst-week-233558682.html"
-      },
-      {
-        "title": "Jim Cramer Wished He’d Worked At This Firm Instead Of Goldman Sachs",
-        "link": "https://finance.yahoo.com/energy/articles/jim-cramer-wished-d-worked-231818524.html"
-      }
-    ]
-  },
-  {
     "date": "2026-09-20",
     "updated_at": "2026-09-20T00:18:12Z",
     "wti": {
@@ -259,6 +208,59 @@
       {
         "title": "Nasdaq Jumps To Close At Record As Chipmakers Climb, Oil Prices Cool — AAPL, META, SPCX, MSFT, VKTX In Focus",
         "link": "https://finance.yahoo.com/m/e59fc4ec-18c2-366a-ae39-5881feb805de/nasdaq-jumps-to-close-at.html"
+      }
+    ]
+  },
+  {
+    "date": "2026-09-24",
+    "updated_at": "2026-09-24T00:48:36Z",
+    "wti": {
+      "close": 91.47,
+      "prev": 94.59,
+      "chg_pct": -3.3,
+      "chg_abs": -3.12,
+      "drop_streak": 6,
+      "ma20_dev": -2.91,
+      "range_pos": 53.1,
+      "volume_ratio": 0.02,
+      "reasons": [
+        "较前一交易日下跌 3.30%（-3.12 美元）。",
+        "已连续 6 个交易日走低，短期弱势延续。",
+        "当前价格低于 20 日均线约 2.9%，短线偏弱。",
+        "成交量明显萎缩，市场观望情绪浓。"
+      ]
+    },
+    "brent": {
+      "close": 97.35,
+      "prev": 99.25,
+      "chg_pct": -1.91,
+      "chg_abs": -1.9,
+      "drop_streak": 6,
+      "ma20_dev": -1.5,
+      "range_pos": 61.2,
+      "volume_ratio": 0.02,
+      "reasons": [
+        "较前一交易日下跌 1.91%（-1.90 美元）。",
+        "已连续 6 个交易日走低，短期弱势延续。",
+        "成交量明显萎缩，市场观望情绪浓。"
+      ]
+    },
+    "news": [
+      {
+        "title": "Dow Jones Futures: Stocks Fall As Yields Soar, But Palantir Flashes Buy Signal; Trump-Xi On Tap",
+        "link": "https://finance.yahoo.com/m/d54436eb-45f8-3808-b582-09ab7590f21b/dow-jones-futures%3A-stocks.html"
+      },
+      {
+        "title": "Market Chatter: Venezuelan Oil Sales Stall as Shipping Costs Surge",
+        "link": "https://finance.yahoo.com/energy/articles/market-chatter-venezuelan-oil-sales-235527253.html"
+      },
+      {
+        "title": "3 Companies With a Strong History of Dividend Growth",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/3-companies-strong-history-dividend-231500498.html"
+      },
+      {
+        "title": "Washington’s oil lever is depleted, John Divine says the next move is in the VIX and natural gas",
+        "link": "https://finance.yahoo.com/energy/articles/washington-oil-lever-depleted-john-230042347.html"
       }
     ]
   }
