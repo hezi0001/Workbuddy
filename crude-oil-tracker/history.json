@@ -1,59 +1,5 @@
 [
   {
-    "date": "2026-09-20",
-    "updated_at": "2026-09-20T00:18:12Z",
-    "wti": {
-      "close": 100.3,
-      "prev": 101.91,
-      "chg_pct": -1.58,
-      "chg_abs": -1.61,
-      "drop_streak": 3,
-      "ma20_dev": 8.03,
-      "range_pos": 81.9,
-      "volume_ratio": 0.94,
-      "reasons": [
-        "较前一交易日下跌 1.58%（-1.61 美元）。",
-        "已连续 3 个交易日走低，短期弱势延续。",
-        "当前价格高于 20 日均线约 8.0%，短线偏强。",
-        "处于近两月价格区间高位，注意回落风险。"
-      ]
-    },
-    "brent": {
-      "close": 103.87,
-      "prev": 104.82,
-      "chg_pct": -0.91,
-      "chg_abs": -0.95,
-      "drop_streak": 3,
-      "ma20_dev": 6.27,
-      "range_pos": 83.4,
-      "volume_ratio": 1.31,
-      "reasons": [
-        "较前一交易日下跌 0.91%（-0.95 美元）。",
-        "已连续 3 个交易日走低，短期弱势延续。",
-        "当前价格高于 20 日均线约 6.3%，短线偏强。",
-        "处于近两月价格区间高位，注意回落风险。"
-      ]
-    },
-    "news": [
-      {
-        "title": "Fossil fuel emissions set to fall in after oil shock",
-        "link": "https://finance.yahoo.com/energy/articles/fossil-fuel-emissions-set-fall-210300941.html"
-      },
-      {
-        "title": "Treasury yields are already blowing up the CBO’s long-term forecasts, and experts who previously downplayed U.S. debt fears are now starting to worry",
-        "link": "https://finance.yahoo.com/economy/policy/articles/treasury-yields-already-blowing-cbo-193157579.html"
-      },
-      {
-        "title": "3 Oil Stocks For Investors Watching Recession Risk And Crude Prices",
-        "link": "https://finance.yahoo.com/energy/articles/3-oil-stocks-investors-watching-191300497.html"
-      },
-      {
-        "title": "Federal Reserve Inflation Outlook Signals a Critical Warning for Investors",
-        "link": "https://finance.yahoo.com/economy/policy/articles/federal-inflation-outlook-signals-critical-155700852.html"
-      }
-    ]
-  },
-  {
     "date": "2026-09-21",
     "updated_at": "2026-09-21T00:26:13Z",
     "wti": {
@@ -261,6 +207,58 @@
       {
         "title": "Washington’s oil lever is depleted, John Divine says the next move is in the VIX and natural gas",
         "link": "https://finance.yahoo.com/energy/articles/washington-oil-lever-depleted-john-230042347.html"
+      }
+    ]
+  },
+  {
+    "date": "2026-09-25",
+    "updated_at": "2026-09-25T00:43:27Z",
+    "wti": {
+      "close": 93.78,
+      "prev": 92.16,
+      "chg_pct": 1.76,
+      "chg_abs": 1.62,
+      "drop_streak": 0,
+      "ma20_dev": -1.1,
+      "range_pos": 60.6,
+      "volume_ratio": 0.03,
+      "reasons": [
+        "较前一交易日上涨 1.76%（+1.62 美元）。",
+        "成交量明显萎缩，市场观望情绪浓。"
+      ]
+    },
+    "brent": {
+      "close": 105.92,
+      "prev": 103.08,
+      "chg_pct": 2.76,
+      "chg_abs": 2.84,
+      "drop_streak": 0,
+      "ma20_dev": 5.89,
+      "range_pos": 90.4,
+      "volume_ratio": 0.01,
+      "reasons": [
+        "较前一交易日上涨 2.76%（+2.84 美元）。",
+        "当前价格高于 20 日均线约 5.9%，短线偏强。",
+        "处于近两月价格区间高位，注意回落风险。",
+        "成交量明显萎缩，市场观望情绪浓。"
+      ]
+    },
+    "news": [
+      {
+        "title": "Talos Energy (TALO) Stock Trades Up, Here Is Why",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/talos-energy-talo-stock-trades-003258287.html"
+      },
+      {
+        "title": "Dow Jones Futures: Market Rally Resilient As Yields, Oil Prices Keep Rising; Tesla Event On Deck",
+        "link": "https://finance.yahoo.com/m/f20152d5-c38c-3d1c-80ad-574b31be1248/dow-jones-futures%3A-market.html"
+      },
+      {
+        "title": "S&P 500, Dow, Nasdaq Futures Ease As Treasury Yields Continue To Spike — ORCL, META, AKAM, GOOGL, MGM In Focus",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/p-500-dow-nasdaq-futures-001254918.html"
+      },
+      {
+        "title": "Review & Preview: It’s All About the Yields",
+        "link": "https://finance.yahoo.com/m/fa5d64bd-0841-37f2-b203-297c5407f915/review-%26-preview%3A-it%E2%80%99s-all.html"
       }
     ]
   }
