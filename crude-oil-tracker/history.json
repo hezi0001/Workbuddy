@@ -1,58 +1,5 @@
 [
   {
-    "date": "2026-09-21",
-    "updated_at": "2026-09-21T00:26:13Z",
-    "wti": {
-      "close": 95.64,
-      "prev": 100.3,
-      "chg_pct": -4.65,
-      "chg_abs": -4.66,
-      "drop_streak": 4,
-      "ma20_dev": 2.54,
-      "range_pos": 66.7,
-      "volume_ratio": 0.04,
-      "reasons": [
-        "较前一交易日下跌 4.65%（-4.66 美元）。",
-        "已连续 4 个交易日走低，短期弱势延续。",
-        "当前价格高于 20 日均线约 2.5%，短线偏强。",
-        "成交量明显萎缩，市场观望情绪浓。"
-      ]
-    },
-    "brent": {
-      "close": 99.08,
-      "prev": 103.87,
-      "chg_pct": -4.61,
-      "chg_abs": -4.79,
-      "drop_streak": 4,
-      "ma20_dev": 1.12,
-      "range_pos": 67.1,
-      "volume_ratio": 0.03,
-      "reasons": [
-        "较前一交易日下跌 4.61%（-4.79 美元）。",
-        "已连续 4 个交易日走低，短期弱势延续。",
-        "成交量明显萎缩，市场观望情绪浓。"
-      ]
-    },
-    "news": [
-      {
-        "title": "Big Oil’s Production Keeps Soaring Despite Deep Spending Cuts",
-        "link": "https://finance.yahoo.com/energy/articles/big-oil-production-keeps-soaring-230000062.html"
-      },
-      {
-        "title": "Jefferies stays bullish on S&P 500, sees 9,000 by end-2027",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/jefferies-stays-bullish-p-500-223344444.html"
-      },
-      {
-        "title": "Baird Pulls the Plug on Its Sportswear Recovery Thesis, Downgrading NIKE and Dick’s All at Once",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/baird-pulls-plug-sportswear-recovery-200209282.html"
-      },
-      {
-        "title": "Fed's Kashkari says inflation is still too high in 'all aspects' of US economy, in Fox News interview",
-        "link": "https://finance.yahoo.com/economy/policy/articles/feds-kashkari-says-inflation-goes-150738609.html"
-      }
-    ]
-  },
-  {
     "date": "2026-09-22",
     "updated_at": "2026-09-22T01:03:53Z",
     "wti": {
@@ -259,6 +206,57 @@
       {
         "title": "Review & Preview: It’s All About the Yields",
         "link": "https://finance.yahoo.com/m/fa5d64bd-0841-37f2-b203-297c5407f915/review-%26-preview%3A-it%E2%80%99s-all.html"
+      }
+    ]
+  },
+  {
+    "date": "2026-09-26",
+    "updated_at": "2026-09-26T00:48:30Z",
+    "wti": {
+      "close": 92.44,
+      "prev": 94.61,
+      "chg_pct": -2.29,
+      "chg_abs": -2.17,
+      "drop_streak": 1,
+      "ma20_dev": -3.01,
+      "range_pos": 56.3,
+      "volume_ratio": 1.17,
+      "reasons": [
+        "较前一交易日下跌 2.29%（-2.17 美元）。",
+        "当前价格低于 20 日均线约 3.0%，短线偏弱。"
+      ]
+    },
+    "brent": {
+      "close": 97.47,
+      "prev": 106.6,
+      "chg_pct": -8.56,
+      "chg_abs": -9.13,
+      "drop_streak": 1,
+      "ma20_dev": -2.96,
+      "range_pos": 61.6,
+      "volume_ratio": 1.68,
+      "reasons": [
+        "较前一交易日下跌 8.56%（-9.13 美元）。",
+        "当前价格低于 20 日均线约 3.0%，短线偏弱。",
+        "成交量放大至均量的 1.7 倍，多空博弈加剧。"
+      ]
+    },
+    "news": [
+      {
+        "title": "US rig count up four as prices decline",
+        "link": "https://finance.yahoo.com/energy/articles/us-rig-count-four-prices-000100627.html"
+      },
+      {
+        "title": "Stocks making big moves this week: TD SYNNEX, Talos Energy, The Toro Company, Dropbox, and Xponential Fitness",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/stocks-making-big-moves-week-234437472.html"
+      },
+      {
+        "title": "S&P 500, Dow, Nasdaq End Week Higher On Chipmaker Strength, Easing Oil Amid Signs Of Easing US-Iran Conflict — META, COST, MSFT, CRWD, SKHY In Focus",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/p-500-dow-nasdaq-end-225148025.html"
+      },
+      {
+        "title": "Nigeria Joins IEA As Crude Output Hits Six-Year High",
+        "link": "https://finance.yahoo.com/energy/articles/nigeria-joins-iea-crude-output-220000262.html"
       }
     ]
   }
