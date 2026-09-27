@@ -1,57 +1,5 @@
 [
   {
-    "date": "2026-09-22",
-    "updated_at": "2026-09-22T01:03:53Z",
-    "wti": {
-      "close": 92.75,
-      "prev": 100.3,
-      "chg_pct": -7.53,
-      "chg_abs": -7.55,
-      "drop_streak": 4,
-      "ma20_dev": -0.4,
-      "range_pos": 57.3,
-      "volume_ratio": 0.02,
-      "reasons": [
-        "较前一交易日下跌 7.53%（-7.55 美元）。",
-        "已连续 4 个交易日走低，短期弱势延续。",
-        "成交量明显萎缩，市场观望情绪浓。"
-      ]
-    },
-    "brent": {
-      "close": 96.71,
-      "prev": 103.87,
-      "chg_pct": -6.89,
-      "chg_abs": -7.16,
-      "drop_streak": 4,
-      "ma20_dev": -1.18,
-      "range_pos": 59.0,
-      "volume_ratio": 0.01,
-      "reasons": [
-        "较前一交易日下跌 6.89%（-7.16 美元）。",
-        "已连续 4 个交易日走低，短期弱势延续。",
-        "成交量明显萎缩，市场观望情绪浓。"
-      ]
-    },
-    "news": [
-      {
-        "title": "Oil rises slightly ahead of potential US-Iran talks",
-        "link": "https://finance.yahoo.com/energy/articles/oil-rises-slightly-ahead-potential-003404571.html"
-      },
-      {
-        "title": "AMD, Intel, and Qualcomm Shares Skyrocket, What You Need To Know",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/amd-intel-qualcomm-shares-skyrocket-002225901.html"
-      },
-      {
-        "title": "DigitalOcean (DOCN) Shares Skyrocket, What You Need To Know",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/digitalocean-docn-shares-skyrocket-know-001425595.html"
-      },
-      {
-        "title": "Dow Jones Futures: Falling Oil Prices, Yields Spark Market Rally; AMD, Intel, Micron, Nvidia, Sandisk Are Key Movers",
-        "link": "https://finance.yahoo.com/m/bc32a5e1-f207-3311-ba0b-143bb01bd032/dow-jones-futures%3A-falling.html"
-      }
-    ]
-  },
-  {
     "date": "2026-09-23",
     "updated_at": "2026-09-23T00:52:23Z",
     "wti": {
@@ -257,6 +205,57 @@
       {
         "title": "Nigeria Joins IEA As Crude Output Hits Six-Year High",
         "link": "https://finance.yahoo.com/energy/articles/nigeria-joins-iea-crude-output-220000262.html"
+      }
+    ]
+  },
+  {
+    "date": "2026-09-27",
+    "updated_at": "2026-09-27T00:48:30Z",
+    "wti": {
+      "close": 92.41,
+      "prev": 94.61,
+      "chg_pct": -2.33,
+      "chg_abs": -2.2,
+      "drop_streak": 1,
+      "ma20_dev": -3.04,
+      "range_pos": 56.2,
+      "volume_ratio": 1.47,
+      "reasons": [
+        "较前一交易日下跌 2.33%（-2.20 美元）。",
+        "当前价格低于 20 日均线约 3.0%，短线偏弱。"
+      ]
+    },
+    "brent": {
+      "close": 104.32,
+      "prev": 106.6,
+      "chg_pct": -2.14,
+      "chg_abs": -2.28,
+      "drop_streak": 1,
+      "ma20_dev": 3.5,
+      "range_pos": 84.9,
+      "volume_ratio": 1.5,
+      "reasons": [
+        "较前一交易日下跌 2.14%（-2.28 美元）。",
+        "当前价格高于 20 日均线约 3.5%，短线偏强。",
+        "处于近两月价格区间高位，注意回落风险。"
+      ]
+    },
+    "news": [
+      {
+        "title": "3 UK Financial Stocks Where Higher Gilt Yields Could Reshape Fee And Lending Income",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/3-uk-financial-stocks-where-001254602.html"
+      },
+      {
+        "title": "By 1932, The Dow Had Lost 90% Of Its Value. J. Paul Getty Called It ‘The Opportunity Of A Lifetime’ And Scooped Up Shares Of American Oil Companies. 25 Years Later, Fortune Named Him ‘The Wealthiest Living American.’",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/1932-dow-had-lost-90-213110076.html"
+      },
+      {
+        "title": "Brazil's Energy Mix Goes Green Even As Oil Production Climbs",
+        "link": "https://finance.yahoo.com/energy/articles/brazils-energy-mix-goes-green-190000959.html"
+      },
+      {
+        "title": "No Matter What Happens to the Market, These 3 Dividend Stocks Belong in Your Portfolio",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/no-matter-happens-market-3-180500098.html"
       }
     ]
   }
