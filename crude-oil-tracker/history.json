@@ -1,58 +1,5 @@
 [
   {
-    "date": "2026-09-23",
-    "updated_at": "2026-09-23T00:52:23Z",
-    "wti": {
-      "close": 90.06,
-      "prev": 95.78,
-      "chg_pct": -5.97,
-      "chg_abs": -5.72,
-      "drop_streak": 5,
-      "ma20_dev": -3.71,
-      "range_pos": 48.5,
-      "volume_ratio": 0.02,
-      "reasons": [
-        "较前一交易日下跌 5.97%（-5.72 美元）。",
-        "已连续 5 个交易日走低，短期弱势延续。",
-        "当前价格低于 20 日均线约 3.7%，短线偏弱。",
-        "成交量明显萎缩，市场观望情绪浓。"
-      ]
-    },
-    "brent": {
-      "close": 99.11,
-      "prev": 100.34,
-      "chg_pct": -1.23,
-      "chg_abs": -1.23,
-      "drop_streak": 5,
-      "ma20_dev": 0.73,
-      "range_pos": 67.2,
-      "volume_ratio": 0.02,
-      "reasons": [
-        "较前一交易日下跌 1.23%（-1.23 美元）。",
-        "已连续 5 个交易日走低，短期弱势延续。",
-        "成交量明显萎缩，市场观望情绪浓。"
-      ]
-    },
-    "news": [
-      {
-        "title": "Dow Jones Futures: Nasdaq Hits New High; Sandisk, Micron Trigger Buy Signals",
-        "link": "https://finance.yahoo.com/m/280f5dd6-365f-3a6a-91c9-2a9551e64657/dow-jones-futures%3A-nasdaq.html"
-      },
-      {
-        "title": "Diversified Energy Company PLC (DEC) Stock Moves 1.39%: What You Should Know",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/diversified-energy-company-plc-dec-215005850.html"
-      },
-      {
-        "title": "WSJ Dollar Index Rises 0.04% to 96.23",
-        "link": "https://finance.yahoo.com/m/a287d33f-cdfa-3989-b068-ce3c4d614154/wsj-dollar-index-rises-0.04%25.html"
-      },
-      {
-        "title": "Nasdaq Jumps To Close At Record As Chipmakers Climb, Oil Prices Cool — AAPL, META, SPCX, MSFT, VKTX In Focus",
-        "link": "https://finance.yahoo.com/m/e59fc4ec-18c2-366a-ae39-5881feb805de/nasdaq-jumps-to-close-at.html"
-      }
-    ]
-  },
-  {
     "date": "2026-09-24",
     "updated_at": "2026-09-24T00:48:36Z",
     "wti": {
@@ -256,6 +203,59 @@
       {
         "title": "No Matter What Happens to the Market, These 3 Dividend Stocks Belong in Your Portfolio",
         "link": "https://finance.yahoo.com/markets/stocks/articles/no-matter-happens-market-3-180500098.html"
+      }
+    ]
+  },
+  {
+    "date": "2026-09-28",
+    "updated_at": "2026-09-28T01:05:06Z",
+    "wti": {
+      "close": 93.03,
+      "prev": 92.41,
+      "chg_pct": 0.67,
+      "chg_abs": 0.62,
+      "drop_streak": 0,
+      "ma20_dev": -2.88,
+      "range_pos": 58.2,
+      "volume_ratio": 0.05,
+      "reasons": [
+        "较前一交易日上涨 0.67%（+0.62 美元）。",
+        "当前价格低于 20 日均线约 2.9%，短线偏弱。",
+        "成交量明显萎缩，市场观望情绪浓。"
+      ]
+    },
+    "brent": {
+      "close": 98.13,
+      "prev": 104.32,
+      "chg_pct": -5.93,
+      "chg_abs": -6.19,
+      "drop_streak": 2,
+      "ma20_dev": -3.06,
+      "range_pos": 63.9,
+      "volume_ratio": 0.05,
+      "reasons": [
+        "较前一交易日下跌 5.93%（-6.19 美元）。",
+        "已连续 2 个交易日走低，短期弱势延续。",
+        "当前价格低于 20 日均线约 3.1%，短线偏弱。",
+        "成交量明显萎缩，市场观望情绪浓。"
+      ]
+    },
+    "news": [
+      {
+        "title": "Stocks cautious in Asia as oil gains, yields rise",
+        "link": "https://finance.yahoo.com/markets/articles/stocks-cautious-asia-oil-gains-005009179.html"
+      },
+      {
+        "title": "Dow Jones Futures Fall, Oil Prices Rise Amid Trump Iran Comments; Micron, SpaceX, Tesla Eye Buy Points",
+        "link": "https://finance.yahoo.com/m/473106f6-6763-38d5-b898-3f7ff08d4b61/dow-jones-futures-fall%2C-oil.html"
+      },
+      {
+        "title": "Falling Oil Could Trigger a 10% Stock Market Rally, Says Wall Street Strategist",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/falling-oil-could-trigger-10-002542396.html"
+      },
+      {
+        "title": "Permian Resources (PR): Is Its Record Free Cash Flow Sustainable?",
+        "link": "https://finance.yahoo.com/energy/articles/permian-resources-pr-record-free-001110930.html"
       }
     ]
   }
