@@ -1,58 +1,5 @@
 [
   {
-    "date": "2026-09-24",
-    "updated_at": "2026-09-24T00:48:36Z",
-    "wti": {
-      "close": 91.47,
-      "prev": 94.59,
-      "chg_pct": -3.3,
-      "chg_abs": -3.12,
-      "drop_streak": 6,
-      "ma20_dev": -2.91,
-      "range_pos": 53.1,
-      "volume_ratio": 0.02,
-      "reasons": [
-        "较前一交易日下跌 3.30%（-3.12 美元）。",
-        "已连续 6 个交易日走低，短期弱势延续。",
-        "当前价格低于 20 日均线约 2.9%，短线偏弱。",
-        "成交量明显萎缩，市场观望情绪浓。"
-      ]
-    },
-    "brent": {
-      "close": 97.35,
-      "prev": 99.25,
-      "chg_pct": -1.91,
-      "chg_abs": -1.9,
-      "drop_streak": 6,
-      "ma20_dev": -1.5,
-      "range_pos": 61.2,
-      "volume_ratio": 0.02,
-      "reasons": [
-        "较前一交易日下跌 1.91%（-1.90 美元）。",
-        "已连续 6 个交易日走低，短期弱势延续。",
-        "成交量明显萎缩，市场观望情绪浓。"
-      ]
-    },
-    "news": [
-      {
-        "title": "Dow Jones Futures: Stocks Fall As Yields Soar, But Palantir Flashes Buy Signal; Trump-Xi On Tap",
-        "link": "https://finance.yahoo.com/m/d54436eb-45f8-3808-b582-09ab7590f21b/dow-jones-futures%3A-stocks.html"
-      },
-      {
-        "title": "Market Chatter: Venezuelan Oil Sales Stall as Shipping Costs Surge",
-        "link": "https://finance.yahoo.com/energy/articles/market-chatter-venezuelan-oil-sales-235527253.html"
-      },
-      {
-        "title": "3 Companies With a Strong History of Dividend Growth",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/3-companies-strong-history-dividend-231500498.html"
-      },
-      {
-        "title": "Washington’s oil lever is depleted, John Divine says the next move is in the VIX and natural gas",
-        "link": "https://finance.yahoo.com/energy/articles/washington-oil-lever-depleted-john-230042347.html"
-      }
-    ]
-  },
-  {
     "date": "2026-09-25",
     "updated_at": "2026-09-25T00:43:27Z",
     "wti": {
@@ -256,6 +203,58 @@
       {
         "title": "Permian Resources (PR): Is Its Record Free Cash Flow Sustainable?",
         "link": "https://finance.yahoo.com/energy/articles/permian-resources-pr-record-free-001110930.html"
+      }
+    ]
+  },
+  {
+    "date": "2026-09-29",
+    "updated_at": "2026-09-29T02:13:38Z",
+    "wti": {
+      "close": 93.71,
+      "prev": 92.6,
+      "chg_pct": 1.2,
+      "chg_abs": 1.11,
+      "drop_streak": 0,
+      "ma20_dev": -2.55,
+      "range_pos": 60.4,
+      "volume_ratio": 0.04,
+      "reasons": [
+        "较前一交易日上涨 1.20%（+1.11 美元）。",
+        "当前价格低于 20 日均线约 2.6%，短线偏弱。",
+        "成交量明显萎缩，市场观望情绪浓。"
+      ]
+    },
+    "brent": {
+      "close": 99.32,
+      "prev": 104.32,
+      "chg_pct": -4.79,
+      "chg_abs": -5.0,
+      "drop_streak": 2,
+      "ma20_dev": -1.94,
+      "range_pos": 67.9,
+      "volume_ratio": 0.06,
+      "reasons": [
+        "较前一交易日下跌 4.79%（-5.00 美元）。",
+        "已连续 2 个交易日走低，短期弱势延续。",
+        "成交量明显萎缩，市场观望情绪浓。"
+      ]
+    },
+    "news": [
+      {
+        "title": "Gold steadies near seven-week low after 4% plunge as Fed hike bets rise",
+        "link": "https://finance.yahoo.com/markets/commodities/articles/gold-steadies-near-seven-week-015133051.html"
+      },
+      {
+        "title": "Dow Jones Futures: Trump Sparks Stock Market Losses; Elon Musk-Led SpaceX, Tesla In Focus",
+        "link": "https://finance.yahoo.com/m/35969249-b51b-3ba3-8c6c-a06251d1d0ec/dow-jones-futures%3A-trump.html"
+      },
+      {
+        "title": "Major gold holder suffers $2.65 billion paper loss on bullion hitting 7-week low",
+        "link": "https://finance.yahoo.com/markets/commodities/articles/major-gold-holder-suffers-2-005000807.html"
+      },
+      {
+        "title": "These airlines have the highest fares",
+        "link": "https://finance.yahoo.com/energy/articles/airlines-highest-fares-003700276.html"
       }
     ]
   }
