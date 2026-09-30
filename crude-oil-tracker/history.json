@@ -1,57 +1,5 @@
 [
   {
-    "date": "2026-09-25",
-    "updated_at": "2026-09-25T00:43:27Z",
-    "wti": {
-      "close": 93.78,
-      "prev": 92.16,
-      "chg_pct": 1.76,
-      "chg_abs": 1.62,
-      "drop_streak": 0,
-      "ma20_dev": -1.1,
-      "range_pos": 60.6,
-      "volume_ratio": 0.03,
-      "reasons": [
-        "较前一交易日上涨 1.76%（+1.62 美元）。",
-        "成交量明显萎缩，市场观望情绪浓。"
-      ]
-    },
-    "brent": {
-      "close": 105.92,
-      "prev": 103.08,
-      "chg_pct": 2.76,
-      "chg_abs": 2.84,
-      "drop_streak": 0,
-      "ma20_dev": 5.89,
-      "range_pos": 90.4,
-      "volume_ratio": 0.01,
-      "reasons": [
-        "较前一交易日上涨 2.76%（+2.84 美元）。",
-        "当前价格高于 20 日均线约 5.9%，短线偏强。",
-        "处于近两月价格区间高位，注意回落风险。",
-        "成交量明显萎缩，市场观望情绪浓。"
-      ]
-    },
-    "news": [
-      {
-        "title": "Talos Energy (TALO) Stock Trades Up, Here Is Why",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/talos-energy-talo-stock-trades-003258287.html"
-      },
-      {
-        "title": "Dow Jones Futures: Market Rally Resilient As Yields, Oil Prices Keep Rising; Tesla Event On Deck",
-        "link": "https://finance.yahoo.com/m/f20152d5-c38c-3d1c-80ad-574b31be1248/dow-jones-futures%3A-market.html"
-      },
-      {
-        "title": "S&P 500, Dow, Nasdaq Futures Ease As Treasury Yields Continue To Spike — ORCL, META, AKAM, GOOGL, MGM In Focus",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/p-500-dow-nasdaq-futures-001254918.html"
-      },
-      {
-        "title": "Review & Preview: It’s All About the Yields",
-        "link": "https://finance.yahoo.com/m/fa5d64bd-0841-37f2-b203-297c5407f915/review-%26-preview%3A-it%E2%80%99s-all.html"
-      }
-    ]
-  },
-  {
     "date": "2026-09-26",
     "updated_at": "2026-09-26T00:48:30Z",
     "wti": {
@@ -255,6 +203,58 @@
       {
         "title": "These airlines have the highest fares",
         "link": "https://finance.yahoo.com/energy/articles/airlines-highest-fares-003700276.html"
+      }
+    ]
+  },
+  {
+    "date": "2026-09-30",
+    "updated_at": "2026-09-30T01:28:10Z",
+    "wti": {
+      "close": 89.86,
+      "prev": 92.6,
+      "chg_pct": -2.96,
+      "chg_abs": -2.74,
+      "drop_streak": 1,
+      "ma20_dev": -6.37,
+      "range_pos": 47.8,
+      "volume_ratio": 0.04,
+      "reasons": [
+        "较前一交易日下跌 2.96%（-2.74 美元）。",
+        "当前价格低于 20 日均线约 6.4%，短线偏弱。",
+        "成交量明显萎缩，市场观望情绪浓。"
+      ]
+    },
+    "brent": {
+      "close": 96.73,
+      "prev": 105.28,
+      "chg_pct": -8.12,
+      "chg_abs": -8.55,
+      "drop_streak": 1,
+      "ma20_dev": -5.07,
+      "range_pos": 59.1,
+      "volume_ratio": 0.03,
+      "reasons": [
+        "较前一交易日下跌 8.12%（-8.55 美元）。",
+        "当前价格低于 20 日均线约 5.1%，短线偏弱。",
+        "成交量明显萎缩，市场观望情绪浓。"
+      ]
+    },
+    "news": [
+      {
+        "title": "Dow Jones Futures Rise With Micron, Inflation Data Due; Yields Pressure Stocks But Bloom Energy Soars",
+        "link": "https://finance.yahoo.com/m/0f05df74-8e19-37cc-8a3a-5b6885fbc760/dow-jones-futures-rise-with.html"
+      },
+      {
+        "title": "Nikkei Rises 1.5%, Led by Chip, Bank Stocks",
+        "link": "https://finance.yahoo.com/m/50c3e932-fb9b-3409-9093-f85c2f8ac75f/nikkei-rises-1.5%25%2C-led-by.html"
+      },
+      {
+        "title": "Oil's New Normal Is Higher Prices",
+        "link": "https://finance.yahoo.com/energy/articles/oils-normal-higher-prices-000000333.html"
+      },
+      {
+        "title": "Review & Preview: Yields Beat Doves",
+        "link": "https://finance.yahoo.com/m/dab15f88-c8fc-3d86-ad85-dd86743d84e6/review-%26-preview%3A-yields-beat.html"
       }
     ]
   }
