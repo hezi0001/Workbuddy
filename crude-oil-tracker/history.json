@@ -1,56 +1,5 @@
 [
   {
-    "date": "2026-09-26",
-    "updated_at": "2026-09-26T00:48:30Z",
-    "wti": {
-      "close": 92.44,
-      "prev": 94.61,
-      "chg_pct": -2.29,
-      "chg_abs": -2.17,
-      "drop_streak": 1,
-      "ma20_dev": -3.01,
-      "range_pos": 56.3,
-      "volume_ratio": 1.17,
-      "reasons": [
-        "较前一交易日下跌 2.29%（-2.17 美元）。",
-        "当前价格低于 20 日均线约 3.0%，短线偏弱。"
-      ]
-    },
-    "brent": {
-      "close": 97.47,
-      "prev": 106.6,
-      "chg_pct": -8.56,
-      "chg_abs": -9.13,
-      "drop_streak": 1,
-      "ma20_dev": -2.96,
-      "range_pos": 61.6,
-      "volume_ratio": 1.68,
-      "reasons": [
-        "较前一交易日下跌 8.56%（-9.13 美元）。",
-        "当前价格低于 20 日均线约 3.0%，短线偏弱。",
-        "成交量放大至均量的 1.7 倍，多空博弈加剧。"
-      ]
-    },
-    "news": [
-      {
-        "title": "US rig count up four as prices decline",
-        "link": "https://finance.yahoo.com/energy/articles/us-rig-count-four-prices-000100627.html"
-      },
-      {
-        "title": "Stocks making big moves this week: TD SYNNEX, Talos Energy, The Toro Company, Dropbox, and Xponential Fitness",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/stocks-making-big-moves-week-234437472.html"
-      },
-      {
-        "title": "S&P 500, Dow, Nasdaq End Week Higher On Chipmaker Strength, Easing Oil Amid Signs Of Easing US-Iran Conflict — META, COST, MSFT, CRWD, SKHY In Focus",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/p-500-dow-nasdaq-end-225148025.html"
-      },
-      {
-        "title": "Nigeria Joins IEA As Crude Output Hits Six-Year High",
-        "link": "https://finance.yahoo.com/energy/articles/nigeria-joins-iea-crude-output-220000262.html"
-      }
-    ]
-  },
-  {
     "date": "2026-09-27",
     "updated_at": "2026-09-27T00:48:30Z",
     "wti": {
@@ -255,6 +204,59 @@
       {
         "title": "Review & Preview: Yields Beat Doves",
         "link": "https://finance.yahoo.com/m/dab15f88-c8fc-3d86-ad85-dd86743d84e6/review-%26-preview%3A-yields-beat.html"
+      }
+    ]
+  },
+  {
+    "date": "2026-10-01",
+    "updated_at": "2026-10-01T01:27:23Z",
+    "wti": {
+      "close": 90.08,
+      "prev": 89.38,
+      "chg_pct": 0.78,
+      "chg_abs": 0.7,
+      "drop_streak": 0,
+      "ma20_dev": -6.11,
+      "range_pos": 48.5,
+      "volume_ratio": 0.03,
+      "reasons": [
+        "较前一交易日上涨 0.78%（+0.70 美元）。",
+        "当前价格低于 20 日均线约 6.1%，短线偏弱。",
+        "成交量明显萎缩，市场观望情绪浓。"
+      ]
+    },
+    "brent": {
+      "close": 97.83,
+      "prev": 102.59,
+      "chg_pct": -4.64,
+      "chg_abs": -4.76,
+      "drop_streak": 2,
+      "ma20_dev": -4.42,
+      "range_pos": 62.8,
+      "volume_ratio": 0.04,
+      "reasons": [
+        "较前一交易日下跌 4.64%（-4.76 美元）。",
+        "已连续 2 个交易日走低，短期弱势延续。",
+        "当前价格低于 20 日均线约 4.4%，短线偏弱。",
+        "成交量明显萎缩，市场观望情绪浓。"
+      ]
+    },
+    "news": [
+      {
+        "title": "Dow Jones Futures: Micron Earnings Crush Views, S&P 500 At Critical Level As Treasury Yields Rise",
+        "link": "https://finance.yahoo.com/m/958fb542-74b3-3d16-bde8-baba1e31461e/dow-jones-futures%3A-micron.html"
+      },
+      {
+        "title": "Iran’s Disappearing Oil Is Becoming Everyone’s Problem",
+        "link": "https://finance.yahoo.com/energy/articles/iran-disappearing-oil-becoming-everyone-000000839.html"
+      },
+      {
+        "title": "The war with Iran upended markets this month. There were losers — and winners",
+        "link": "https://finance.yahoo.com/markets/articles/war-iran-upended-markets-month-192804914.html"
+      },
+      {
+        "title": "A Tech-Fueled Stock Market Powers Through, but Limps Into the Fourth Quarter",
+        "link": "https://finance.yahoo.com/m/39c33298-f2a7-373d-a538-2ab63c3be697/a-tech-fueled-stock-market.html"
       }
     ]
   }
