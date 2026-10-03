@@ -1,58 +1,5 @@
 [
   {
-    "date": "2026-09-28",
-    "updated_at": "2026-09-28T01:05:06Z",
-    "wti": {
-      "close": 93.03,
-      "prev": 92.41,
-      "chg_pct": 0.67,
-      "chg_abs": 0.62,
-      "drop_streak": 0,
-      "ma20_dev": -2.88,
-      "range_pos": 58.2,
-      "volume_ratio": 0.05,
-      "reasons": [
-        "较前一交易日上涨 0.67%（+0.62 美元）。",
-        "当前价格低于 20 日均线约 2.9%，短线偏弱。",
-        "成交量明显萎缩，市场观望情绪浓。"
-      ]
-    },
-    "brent": {
-      "close": 98.13,
-      "prev": 104.32,
-      "chg_pct": -5.93,
-      "chg_abs": -6.19,
-      "drop_streak": 2,
-      "ma20_dev": -3.06,
-      "range_pos": 63.9,
-      "volume_ratio": 0.05,
-      "reasons": [
-        "较前一交易日下跌 5.93%（-6.19 美元）。",
-        "已连续 2 个交易日走低，短期弱势延续。",
-        "当前价格低于 20 日均线约 3.1%，短线偏弱。",
-        "成交量明显萎缩，市场观望情绪浓。"
-      ]
-    },
-    "news": [
-      {
-        "title": "Stocks cautious in Asia as oil gains, yields rise",
-        "link": "https://finance.yahoo.com/markets/articles/stocks-cautious-asia-oil-gains-005009179.html"
-      },
-      {
-        "title": "Dow Jones Futures Fall, Oil Prices Rise Amid Trump Iran Comments; Micron, SpaceX, Tesla Eye Buy Points",
-        "link": "https://finance.yahoo.com/m/473106f6-6763-38d5-b898-3f7ff08d4b61/dow-jones-futures-fall%2C-oil.html"
-      },
-      {
-        "title": "Falling Oil Could Trigger a 10% Stock Market Rally, Says Wall Street Strategist",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/falling-oil-could-trigger-10-002542396.html"
-      },
-      {
-        "title": "Permian Resources (PR): Is Its Record Free Cash Flow Sustainable?",
-        "link": "https://finance.yahoo.com/energy/articles/permian-resources-pr-record-free-001110930.html"
-      }
-    ]
-  },
-  {
     "date": "2026-09-29",
     "updated_at": "2026-09-29T02:13:38Z",
     "wti": {
@@ -258,6 +205,56 @@
       {
         "title": "Guidewire Software, HubSpot, Asana, nCino, and Atlassian Shares Skyrocket, What You Need To Know",
         "link": "https://finance.yahoo.com/markets/stocks/articles/guidewire-software-hubspot-asana-ncino-234907218.html"
+      }
+    ]
+  },
+  {
+    "date": "2026-10-03",
+    "updated_at": "2026-10-03T01:20:56Z",
+    "wti": {
+      "close": 91.26,
+      "prev": 92.87,
+      "chg_pct": -1.73,
+      "chg_abs": -1.61,
+      "drop_streak": 1,
+      "ma20_dev": -4.99,
+      "range_pos": 52.4,
+      "volume_ratio": 1.16,
+      "reasons": [
+        "较前一交易日下跌 1.73%（-1.61 美元）。",
+        "当前价格低于 20 日均线约 5.0%，短线偏弱。"
+      ]
+    },
+    "brent": {
+      "close": 102.7,
+      "prev": 102.31,
+      "chg_pct": 0.38,
+      "chg_abs": 0.39,
+      "drop_streak": 0,
+      "ma20_dev": -0.61,
+      "range_pos": 79.4,
+      "volume_ratio": 1.35,
+      "reasons": [
+        "较前一交易日上涨 0.38%（+0.39 美元）。",
+        "处于近两月价格区间高位，注意回落风险。"
+      ]
+    },
+    "news": [
+      {
+        "title": "Brent Crude Is Now Trading Above $100. What Does That Mean For the Crypto Market?",
+        "link": "https://finance.yahoo.com/markets/crypto/articles/brent-crude-now-trading-above-002000265.html"
+      },
+      {
+        "title": "US rig count down one as prices slide",
+        "link": "https://finance.yahoo.com/energy/articles/us-rig-count-down-one-000100288.html"
+      },
+      {
+        "title": "G-7 Agrees to Release 100 Million Barrels of Diesel and Crude",
+        "link": "https://finance.yahoo.com/m/b46fec3f-5f70-315d-8f63-882b191522dc/g-7-agrees-to-release-100.html"
+      },
+      {
+        "title": "AI Is Squeezing Out the Rest of the Stock Market",
+        "link": "https://finance.yahoo.com/m/a33c372f-4713-3423-add1-8265be1f6d57/ai-is-squeezing-out-the-rest.html"
       }
     ]
   }
