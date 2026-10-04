@@ -1,57 +1,5 @@
 [
   {
-    "date": "2026-09-29",
-    "updated_at": "2026-09-29T02:13:38Z",
-    "wti": {
-      "close": 93.71,
-      "prev": 92.6,
-      "chg_pct": 1.2,
-      "chg_abs": 1.11,
-      "drop_streak": 0,
-      "ma20_dev": -2.55,
-      "range_pos": 60.4,
-      "volume_ratio": 0.04,
-      "reasons": [
-        "较前一交易日上涨 1.20%（+1.11 美元）。",
-        "当前价格低于 20 日均线约 2.6%，短线偏弱。",
-        "成交量明显萎缩，市场观望情绪浓。"
-      ]
-    },
-    "brent": {
-      "close": 99.32,
-      "prev": 104.32,
-      "chg_pct": -4.79,
-      "chg_abs": -5.0,
-      "drop_streak": 2,
-      "ma20_dev": -1.94,
-      "range_pos": 67.9,
-      "volume_ratio": 0.06,
-      "reasons": [
-        "较前一交易日下跌 4.79%（-5.00 美元）。",
-        "已连续 2 个交易日走低，短期弱势延续。",
-        "成交量明显萎缩，市场观望情绪浓。"
-      ]
-    },
-    "news": [
-      {
-        "title": "Gold steadies near seven-week low after 4% plunge as Fed hike bets rise",
-        "link": "https://finance.yahoo.com/markets/commodities/articles/gold-steadies-near-seven-week-015133051.html"
-      },
-      {
-        "title": "Dow Jones Futures: Trump Sparks Stock Market Losses; Elon Musk-Led SpaceX, Tesla In Focus",
-        "link": "https://finance.yahoo.com/m/35969249-b51b-3ba3-8c6c-a06251d1d0ec/dow-jones-futures%3A-trump.html"
-      },
-      {
-        "title": "Major gold holder suffers $2.65 billion paper loss on bullion hitting 7-week low",
-        "link": "https://finance.yahoo.com/markets/commodities/articles/major-gold-holder-suffers-2-005000807.html"
-      },
-      {
-        "title": "These airlines have the highest fares",
-        "link": "https://finance.yahoo.com/energy/articles/airlines-highest-fares-003700276.html"
-      }
-    ]
-  },
-  {
     "date": "2026-09-30",
     "updated_at": "2026-09-30T01:28:10Z",
     "wti": {
@@ -255,6 +203,57 @@
       {
         "title": "AI Is Squeezing Out the Rest of the Stock Market",
         "link": "https://finance.yahoo.com/m/a33c372f-4713-3423-add1-8265be1f6d57/ai-is-squeezing-out-the-rest.html"
+      }
+    ]
+  },
+  {
+    "date": "2026-10-04",
+    "updated_at": "2026-10-04T01:56:06Z",
+    "wti": {
+      "close": 91.11,
+      "prev": 92.87,
+      "chg_pct": -1.9,
+      "chg_abs": -1.76,
+      "drop_streak": 1,
+      "ma20_dev": -5.14,
+      "range_pos": 51.9,
+      "volume_ratio": 1.2,
+      "reasons": [
+        "较前一交易日下跌 1.90%（-1.76 美元）。",
+        "当前价格低于 20 日均线约 5.1%，短线偏弱。"
+      ]
+    },
+    "brent": {
+      "close": 102.25,
+      "prev": 102.31,
+      "chg_pct": -0.06,
+      "chg_abs": -0.06,
+      "drop_streak": 2,
+      "ma20_dev": -1.02,
+      "range_pos": 77.9,
+      "volume_ratio": 1.41,
+      "reasons": [
+        "较前一交易日下跌 0.06%（-0.06 美元）。",
+        "已连续 2 个交易日走低，短期弱势延续。",
+        "处于近两月价格区间高位，注意回落风险。"
+      ]
+    },
+    "news": [
+      {
+        "title": "3 Oil And Gas Stocks Tied To Refining Supply Shocks",
+        "link": "https://finance.yahoo.com/energy/articles/3-oil-gas-stocks-tied-011040498.html"
+      },
+      {
+        "title": "The Iran War Is Showing What ADNOC’s AI Can Really Do",
+        "link": "https://finance.yahoo.com/energy/articles/iran-war-showing-adnoc-ai-230000928.html"
+      },
+      {
+        "title": "Iran’s currency is getting obliterated as the regime is about to run out of oil to sell and can’t even get its money from customers",
+        "link": "https://finance.yahoo.com/economy/articles/iran-currency-getting-obliterated-regime-214000456.html"
+      },
+      {
+        "title": "Indian Oil Stock And 2 Refiners Linked To Shifting Middle East Oil Flows",
+        "link": "https://finance.yahoo.com/energy/articles/indian-oil-stock-2-refiners-210933303.html"
       }
     ]
   }
