@@ -1,58 +1,5 @@
 [
   {
-    "date": "2026-10-01",
-    "updated_at": "2026-10-01T01:27:23Z",
-    "wti": {
-      "close": 90.08,
-      "prev": 89.38,
-      "chg_pct": 0.78,
-      "chg_abs": 0.7,
-      "drop_streak": 0,
-      "ma20_dev": -6.11,
-      "range_pos": 48.5,
-      "volume_ratio": 0.03,
-      "reasons": [
-        "较前一交易日上涨 0.78%（+0.70 美元）。",
-        "当前价格低于 20 日均线约 6.1%，短线偏弱。",
-        "成交量明显萎缩，市场观望情绪浓。"
-      ]
-    },
-    "brent": {
-      "close": 97.83,
-      "prev": 102.59,
-      "chg_pct": -4.64,
-      "chg_abs": -4.76,
-      "drop_streak": 2,
-      "ma20_dev": -4.42,
-      "range_pos": 62.8,
-      "volume_ratio": 0.04,
-      "reasons": [
-        "较前一交易日下跌 4.64%（-4.76 美元）。",
-        "已连续 2 个交易日走低，短期弱势延续。",
-        "当前价格低于 20 日均线约 4.4%，短线偏弱。",
-        "成交量明显萎缩，市场观望情绪浓。"
-      ]
-    },
-    "news": [
-      {
-        "title": "Dow Jones Futures: Micron Earnings Crush Views, S&P 500 At Critical Level As Treasury Yields Rise",
-        "link": "https://finance.yahoo.com/m/958fb542-74b3-3d16-bde8-baba1e31461e/dow-jones-futures%3A-micron.html"
-      },
-      {
-        "title": "Iran’s Disappearing Oil Is Becoming Everyone’s Problem",
-        "link": "https://finance.yahoo.com/energy/articles/iran-disappearing-oil-becoming-everyone-000000839.html"
-      },
-      {
-        "title": "The war with Iran upended markets this month. There were losers — and winners",
-        "link": "https://finance.yahoo.com/markets/articles/war-iran-upended-markets-month-192804914.html"
-      },
-      {
-        "title": "A Tech-Fueled Stock Market Powers Through, but Limps Into the Fourth Quarter",
-        "link": "https://finance.yahoo.com/m/39c33298-f2a7-373d-a538-2ab63c3be697/a-tech-fueled-stock-market.html"
-      }
-    ]
-  },
-  {
     "date": "2026-10-02",
     "updated_at": "2026-10-02T01:46:46Z",
     "wti": {
@@ -256,6 +203,58 @@
       {
         "title": "Valero (VLO) vs Phillips 66 (PSX): Which is a Better Stock to Buy?",
         "link": "https://finance.yahoo.com/markets/stocks/articles/valero-vlo-vs-phillips-66-214058034.html"
+      }
+    ]
+  },
+  {
+    "date": "2026-10-06",
+    "updated_at": "2026-10-06T02:26:58Z",
+    "wti": {
+      "close": 89.66,
+      "prev": 89.43,
+      "chg_pct": 0.26,
+      "chg_abs": 0.23,
+      "drop_streak": 0,
+      "ma20_dev": -6.38,
+      "range_pos": 47.2,
+      "volume_ratio": 0.02,
+      "reasons": [
+        "较前一交易日上涨 0.26%（+0.23 美元）。",
+        "当前价格低于 20 日均线约 6.4%，短线偏弱。",
+        "成交量明显萎缩，市场观望情绪浓。"
+      ]
+    },
+    "brent": {
+      "close": 100.67,
+      "prev": 100.32,
+      "chg_pct": 0.35,
+      "chg_abs": 0.35,
+      "drop_streak": 0,
+      "ma20_dev": -2.87,
+      "range_pos": 72.4,
+      "volume_ratio": 0.01,
+      "reasons": [
+        "较前一交易日上涨 0.35%（+0.35 美元）。",
+        "当前价格低于 20 日均线约 2.9%，短线偏弱。",
+        "成交量明显萎缩，市场观望情绪浓。"
+      ]
+    },
+    "news": [
+      {
+        "title": "Asian shares track Wall Street higher, Treasury yields near multi-decade highs",
+        "link": "https://finance.yahoo.com/markets/world-indices/articles/asian-shares-track-wall-street-014758852.html"
+      },
+      {
+        "title": "Long-Term JGB Yield Higher Following Gains in U.S. Treasury Yields",
+        "link": "https://finance.yahoo.com/m/80be063a-df3f-3595-b0af-847063dba702/long-term-jgb-yield-higher.html"
+      },
+      {
+        "title": "Nikkei Rises 0.4%, Led by Electronics, Financial Stocks",
+        "link": "https://finance.yahoo.com/m/04134b22-1169-356e-b086-9b5e633c5eeb/nikkei-rises-0.4%25%2C-led-by.html"
+      },
+      {
+        "title": "Oil prices edge lower as markets weigh Aramco price cuts, M.East supplies",
+        "link": "https://finance.yahoo.com/energy/articles/oil-prices-edge-lower-markets-003903887.html"
       }
     ]
   }
