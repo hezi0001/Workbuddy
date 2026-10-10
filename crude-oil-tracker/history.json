@@ -1,59 +1,5 @@
 [
   {
-    "date": "2026-10-05",
-    "updated_at": "2026-10-05T01:09:39Z",
-    "wti": {
-      "close": 90.37,
-      "prev": 91.11,
-      "chg_pct": -0.81,
-      "chg_abs": -0.74,
-      "drop_streak": 2,
-      "ma20_dev": -5.85,
-      "range_pos": 49.5,
-      "volume_ratio": 0.03,
-      "reasons": [
-        "较前一交易日下跌 0.81%（-0.74 美元）。",
-        "已连续 2 个交易日走低，短期弱势延续。",
-        "当前价格低于 20 日均线约 5.9%，短线偏弱。",
-        "成交量明显萎缩，市场观望情绪浓。"
-      ]
-    },
-    "brent": {
-      "close": 101.8,
-      "prev": 102.25,
-      "chg_pct": -0.44,
-      "chg_abs": -0.45,
-      "drop_streak": 3,
-      "ma20_dev": -1.72,
-      "range_pos": 76.4,
-      "volume_ratio": 0.04,
-      "reasons": [
-        "较前一交易日下跌 0.44%（-0.45 美元）。",
-        "已连续 3 个交易日走低，短期弱势延续。",
-        "处于近两月价格区间高位，注意回落风险。",
-        "成交量明显萎缩，市场观望情绪浓。"
-      ]
-    },
-    "news": [
-      {
-        "title": "U.S. stock futures tick higher as soft jobs data eases Fed hike bets",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/u-stock-futures-tick-higher-004924844.html"
-      },
-      {
-        "title": "3 Oil Stocks Retail Investors Are Watching As Diesel Tightness Keeps Refiners In Focus",
-        "link": "https://finance.yahoo.com/energy/articles/3-oil-stocks-retail-investors-231133257.html"
-      },
-      {
-        "title": "13 High-Conviction & Catalyst-Driven Long Ideas for 4Q  2026",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/13-high-conviction-catalyst-driven-214725180.html"
-      },
-      {
-        "title": "Valero (VLO) vs Phillips 66 (PSX): Which is a Better Stock to Buy?",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/valero-vlo-vs-phillips-66-214058034.html"
-      }
-    ]
-  },
-  {
     "date": "2026-10-06",
     "updated_at": "2026-10-06T02:26:58Z",
     "wti": {
@@ -257,6 +203,56 @@
       {
         "title": "Nikkei Falls 1.1%, Dragged by Chip, Metals Stocks",
         "link": "https://finance.yahoo.com/m/c01b19be-d023-36fd-a888-f148bda4eec7/nikkei-falls-1.1%25%2C-dragged-by.html"
+      }
+    ]
+  },
+  {
+    "date": "2026-10-10",
+    "updated_at": "2026-10-10T01:52:54Z",
+    "wti": {
+      "close": 91.66,
+      "prev": 91.49,
+      "chg_pct": 0.19,
+      "chg_abs": 0.17,
+      "drop_streak": 0,
+      "ma20_dev": -2.91,
+      "range_pos": 42.4,
+      "volume_ratio": 0.71,
+      "reasons": [
+        "较前一交易日上涨 0.19%（+0.17 美元）。",
+        "当前价格低于 20 日均线约 2.9%，短线偏弱。"
+      ]
+    },
+    "brent": {
+      "close": 104.43,
+      "prev": 104.28,
+      "chg_pct": 0.14,
+      "chg_abs": 0.15,
+      "drop_streak": 0,
+      "ma20_dev": 0.98,
+      "range_pos": 80.1,
+      "volume_ratio": 0.67,
+      "reasons": [
+        "较前一交易日上涨 0.14%（+0.15 美元）。",
+        "处于近两月价格区间高位，注意回落风险。"
+      ]
+    },
+    "news": [
+      {
+        "title": "Stocktwits Weekly Spread: What Shaped Treasury Yields And The Dollar This Week",
+        "link": "https://finance.yahoo.com/markets/currencies/articles/stocktwits-weekly-spread-shaped-treasury-001857840.html"
+      },
+      {
+        "title": "DOJ To Investigate Binance Again. Could More Fines Follow?",
+        "link": "https://finance.yahoo.com/markets/crypto/articles/doj-investigate-binance-again-could-000951538.html"
+      },
+      {
+        "title": "Basin rig count up four as prices increase",
+        "link": "https://finance.yahoo.com/energy/articles/basin-rig-count-four-prices-000000316.html"
+      },
+      {
+        "title": "Venezuela Wants to Return to the Days When Its Oil Fields Were Booming—With U.S. Help",
+        "link": "https://finance.yahoo.com/m/c5587e8c-4acc-351f-b945-7034e4fa1062/venezuela-wants-to-return-to.html"
       }
     ]
   }
