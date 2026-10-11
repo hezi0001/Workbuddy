@@ -1,57 +1,5 @@
 [
   {
-    "date": "2026-10-06",
-    "updated_at": "2026-10-06T02:26:58Z",
-    "wti": {
-      "close": 89.66,
-      "prev": 89.43,
-      "chg_pct": 0.26,
-      "chg_abs": 0.23,
-      "drop_streak": 0,
-      "ma20_dev": -6.38,
-      "range_pos": 47.2,
-      "volume_ratio": 0.02,
-      "reasons": [
-        "较前一交易日上涨 0.26%（+0.23 美元）。",
-        "当前价格低于 20 日均线约 6.4%，短线偏弱。",
-        "成交量明显萎缩，市场观望情绪浓。"
-      ]
-    },
-    "brent": {
-      "close": 100.67,
-      "prev": 100.32,
-      "chg_pct": 0.35,
-      "chg_abs": 0.35,
-      "drop_streak": 0,
-      "ma20_dev": -2.87,
-      "range_pos": 72.4,
-      "volume_ratio": 0.01,
-      "reasons": [
-        "较前一交易日上涨 0.35%（+0.35 美元）。",
-        "当前价格低于 20 日均线约 2.9%，短线偏弱。",
-        "成交量明显萎缩，市场观望情绪浓。"
-      ]
-    },
-    "news": [
-      {
-        "title": "Asian shares track Wall Street higher, Treasury yields near multi-decade highs",
-        "link": "https://finance.yahoo.com/markets/world-indices/articles/asian-shares-track-wall-street-014758852.html"
-      },
-      {
-        "title": "Long-Term JGB Yield Higher Following Gains in U.S. Treasury Yields",
-        "link": "https://finance.yahoo.com/m/80be063a-df3f-3595-b0af-847063dba702/long-term-jgb-yield-higher.html"
-      },
-      {
-        "title": "Nikkei Rises 0.4%, Led by Electronics, Financial Stocks",
-        "link": "https://finance.yahoo.com/m/04134b22-1169-356e-b086-9b5e633c5eeb/nikkei-rises-0.4%25%2C-led-by.html"
-      },
-      {
-        "title": "Oil prices edge lower as markets weigh Aramco price cuts, M.East supplies",
-        "link": "https://finance.yahoo.com/energy/articles/oil-prices-edge-lower-markets-003903887.html"
-      }
-    ]
-  },
-  {
     "date": "2026-10-07",
     "updated_at": "2026-10-07T01:45:45Z",
     "wti": {
@@ -253,6 +201,56 @@
       {
         "title": "Venezuela Wants to Return to the Days When Its Oil Fields Were Booming—With U.S. Help",
         "link": "https://finance.yahoo.com/m/c5587e8c-4acc-351f-b945-7034e4fa1062/venezuela-wants-to-return-to.html"
+      }
+    ]
+  },
+  {
+    "date": "2026-10-11",
+    "updated_at": "2026-10-11T01:11:13Z",
+    "wti": {
+      "close": 91.85,
+      "prev": 91.49,
+      "chg_pct": 0.39,
+      "chg_abs": 0.36,
+      "drop_streak": 0,
+      "ma20_dev": -2.72,
+      "range_pos": 43.1,
+      "volume_ratio": 1.2,
+      "reasons": [
+        "较前一交易日上涨 0.39%（+0.36 美元）。",
+        "当前价格低于 20 日均线约 2.7%，短线偏弱。"
+      ]
+    },
+    "brent": {
+      "close": 104.72,
+      "prev": 104.28,
+      "chg_pct": 0.42,
+      "chg_abs": 0.44,
+      "drop_streak": 0,
+      "ma20_dev": 1.25,
+      "range_pos": 81.4,
+      "volume_ratio": 1.21,
+      "reasons": [
+        "较前一交易日上涨 0.42%（+0.44 美元）。",
+        "处于近两月价格区间高位，注意回落风险。"
+      ]
+    },
+    "news": [
+      {
+        "title": "Emergency Oil Releases Risk Draining the World’s Last Supply Cushion",
+        "link": "https://finance.yahoo.com/energy/articles/emergency-oil-releases-risk-draining-230000316.html"
+      },
+      {
+        "title": "Dow Jones Futures: S&P 500, Nasdaq Near Highs; ASML, Nvidia's Chipmaker Taiwan Semi To Kick Off AI Earnings",
+        "link": "https://finance.yahoo.com/m/0d7a86f7-63d8-35ac-9402-ed0f2ca814ac/dow-jones-futures%3A-s%26p-500%2C.html"
+      },
+      {
+        "title": "One of Wall Street's Best Hedge Funds Just Blew a 44% Gain Because of AI Bets",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/one-wall-streets-best-hedge-132506526.html"
+      },
+      {
+        "title": "3 Insurance Stocks In Focus As Oil Prices Keep Energy Risk Premiums Elevated",
+        "link": "https://finance.yahoo.com/energy/articles/3-insurance-stocks-focus-oil-131555507.html"
       }
     ]
   }
