@@ -1,57 +1,5 @@
 [
   {
-    "date": "2026-10-07",
-    "updated_at": "2026-10-07T01:45:45Z",
-    "wti": {
-      "close": 90.38,
-      "prev": 89.43,
-      "chg_pct": 1.06,
-      "chg_abs": 0.95,
-      "drop_streak": 0,
-      "ma20_dev": -5.67,
-      "range_pos": 45.9,
-      "volume_ratio": 0.03,
-      "reasons": [
-        "较前一交易日上涨 1.06%（+0.95 美元）。",
-        "当前价格低于 20 日均线约 5.7%，短线偏弱。",
-        "成交量明显萎缩，市场观望情绪浓。"
-      ]
-    },
-    "brent": {
-      "close": 101.57,
-      "prev": 100.32,
-      "chg_pct": 1.25,
-      "chg_abs": 1.25,
-      "drop_streak": 0,
-      "ma20_dev": -2.05,
-      "range_pos": 72.7,
-      "volume_ratio": 0.03,
-      "reasons": [
-        "较前一交易日上涨 1.25%（+1.25 美元）。",
-        "当前价格低于 20 日均线约 2.0%，短线偏弱。",
-        "成交量明显萎缩，市场观望情绪浓。"
-      ]
-    },
-    "news": [
-      {
-        "title": "Gold holds gains as oil flows recover, Treasury yields ease",
-        "link": "https://finance.yahoo.com/markets/commodities/articles/gold-holds-gains-oil-flows-013012289.html"
-      },
-      {
-        "title": "Dow Jones Futures: S&P 500 Hits High As Astera, GE Vernova, Arista Lead Buys, But These Stocks Tumble",
-        "link": "https://finance.yahoo.com/m/0af6d9e8-1837-3d24-bf26-336d6cf15361/dow-jones-futures%3A-s%26p-500.html"
-      },
-      {
-        "title": "Oil prices rise as M.East supply jitters persist",
-        "link": "https://finance.yahoo.com/energy/articles/oil-prices-rise-m-east-004723850.html"
-      },
-      {
-        "title": "Oil Price Risk Puts YPF Stock And Global Oil Producers In Focus",
-        "link": "https://finance.yahoo.com/energy/articles/oil-price-risk-puts-ypf-220848568.html"
-      }
-    ]
-  },
-  {
     "date": "2026-10-08",
     "updated_at": "2026-10-08T02:13:14Z",
     "wti": {
@@ -251,6 +199,57 @@
       {
         "title": "3 Insurance Stocks In Focus As Oil Prices Keep Energy Risk Premiums Elevated",
         "link": "https://finance.yahoo.com/energy/articles/3-insurance-stocks-focus-oil-131555507.html"
+      }
+    ]
+  },
+  {
+    "date": "2026-10-12",
+    "updated_at": "2026-10-12T01:39:43Z",
+    "wti": {
+      "close": 90.19,
+      "prev": 91.85,
+      "chg_pct": -1.81,
+      "chg_abs": -1.66,
+      "drop_streak": 1,
+      "ma20_dev": -3.9,
+      "range_pos": 36.4,
+      "volume_ratio": 0.06,
+      "reasons": [
+        "较前一交易日下跌 1.81%（-1.66 美元）。",
+        "当前价格低于 20 日均线约 3.9%，短线偏弱。",
+        "成交量明显萎缩，市场观望情绪浓。"
+      ]
+    },
+    "brent": {
+      "close": 103.07,
+      "prev": 104.72,
+      "chg_pct": -1.58,
+      "chg_abs": -1.65,
+      "drop_streak": 1,
+      "ma20_dev": -0.22,
+      "range_pos": 73.8,
+      "volume_ratio": 0.09,
+      "reasons": [
+        "较前一交易日下跌 1.58%（-1.65 美元）。",
+        "成交量明显萎缩，市场观望情绪浓。"
+      ]
+    },
+    "news": [
+      {
+        "title": "Oil prices dip after Trump announces Russia-Ukraine energy ceasefire",
+        "link": "https://finance.yahoo.com/energy/articles/oil-prices-dip-trump-announces-004946678.html"
+      },
+      {
+        "title": "Oil falls on hopes Russia-Ukraine energy ceasefire will boost supplies",
+        "link": "https://finance.yahoo.com/energy/articles/oil-climbs-mideast-conflict-tanker-232559304.html"
+      },
+      {
+        "title": "Oil Falls on Hopes That Russian Diesel Can Ease Global Fuel Shortages",
+        "link": "https://finance.yahoo.com/m/fd8527de-679b-3b83-b162-bffa5ed5cfd5/oil-falls-on-hopes-that.html"
+      },
+      {
+        "title": "Shares cautious in Asia as earnings loom, oil slips",
+        "link": "https://finance.yahoo.com/markets/articles/shares-cautious-asia-earnings-loom-004235699.html"
       }
     ]
   }
