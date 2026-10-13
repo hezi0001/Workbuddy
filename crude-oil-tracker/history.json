@@ -1,56 +1,5 @@
 [
   {
-    "date": "2026-10-08",
-    "updated_at": "2026-10-08T02:13:14Z",
-    "wti": {
-      "close": 89.59,
-      "prev": 88.28,
-      "chg_pct": 1.48,
-      "chg_abs": 1.31,
-      "drop_streak": 0,
-      "ma20_dev": -5.42,
-      "range_pos": 41.3,
-      "volume_ratio": 0.03,
-      "reasons": [
-        "较前一交易日上涨 1.48%（+1.31 美元）。",
-        "当前价格低于 20 日均线约 5.4%，短线偏弱。",
-        "成交量明显萎缩，市场观望情绪浓。"
-      ]
-    },
-    "brent": {
-      "close": 101.91,
-      "prev": 100.2,
-      "chg_pct": 1.71,
-      "chg_abs": 1.71,
-      "drop_streak": 0,
-      "ma20_dev": -1.35,
-      "range_pos": 72.9,
-      "volume_ratio": 0.05,
-      "reasons": [
-        "较前一交易日上涨 1.71%（+1.71 美元）。",
-        "成交量明显萎缩，市场观望情绪浓。"
-      ]
-    },
-    "news": [
-      {
-        "title": "Oil prices rise as markets brace for U.S. Gulf coast supply disruptions",
-        "link": "https://finance.yahoo.com/energy/articles/oil-prices-rise-markets-brace-011220509.html"
-      },
-      {
-        "title": "Walker & Dunlop Sees Rates Peaking as Data Center Boom Raises Red Flags",
-        "link": "https://finance.yahoo.com/real-estate/articles/walker-dunlop-sees-rates-peaking-010207122.html"
-      },
-      {
-        "title": "Asia shares subdued, bonds swamped by AI debt wave",
-        "link": "https://finance.yahoo.com/markets/articles/asia-shares-subdued-bonds-swamped-005733345.html"
-      },
-      {
-        "title": "Petro-Victory Energy Corporate Update",
-        "link": "https://finance.yahoo.com/energy/articles/petro-victory-energy-corporate-003900711.html"
-      }
-    ]
-  },
-  {
     "date": "2026-10-09",
     "updated_at": "2026-10-09T02:27:58Z",
     "wti": {
@@ -250,6 +199,57 @@
       {
         "title": "Shares cautious in Asia as earnings loom, oil slips",
         "link": "https://finance.yahoo.com/markets/articles/shares-cautious-asia-earnings-loom-004235699.html"
+      }
+    ]
+  },
+  {
+    "date": "2026-10-13",
+    "updated_at": "2026-10-13T03:07:46Z",
+    "wti": {
+      "close": 92.42,
+      "prev": 93.74,
+      "chg_pct": -1.41,
+      "chg_abs": -1.32,
+      "drop_streak": 1,
+      "ma20_dev": -1.01,
+      "range_pos": 45.4,
+      "volume_ratio": 0.04,
+      "reasons": [
+        "较前一交易日下跌 1.41%（-1.32 美元）。",
+        "成交量明显萎缩，市场观望情绪浓。"
+      ]
+    },
+    "brent": {
+      "close": 105.37,
+      "prev": 106.65,
+      "chg_pct": -1.2,
+      "chg_abs": -1.28,
+      "drop_streak": 1,
+      "ma20_dev": 1.99,
+      "range_pos": 84.4,
+      "volume_ratio": 0.03,
+      "reasons": [
+        "较前一交易日下跌 1.20%（-1.28 美元）。",
+        "处于近两月价格区间高位，注意回落风险。",
+        "成交量明显萎缩，市场观望情绪浓。"
+      ]
+    },
+    "news": [
+      {
+        "title": "Seoul, Tokyo stocks plunge as Asia suffers fresh tech rout",
+        "link": "https://finance.yahoo.com/markets/world-indices/articles/seoul-tokyo-stocks-plunge-asia-024332072.html"
+      },
+      {
+        "title": "IMF warns global economy nearing \"limits of resilience",
+        "link": "https://finance.yahoo.com/economy/articles/imf-warns-global-economy-nearing-020105388.html"
+      },
+      {
+        "title": "Gold slips near $4,160 as Middle East tensions fuel rate-hike concerns",
+        "link": "https://finance.yahoo.com/markets/commodities/articles/gold-slips-near-4-160-015039835.html"
+      },
+      {
+        "title": "Asian stocks dive as focus on earnings, geopolitics",
+        "link": "https://finance.yahoo.com/markets/world-indices/articles/asian-stocks-dive-focus-earnings-015003210.html"
       }
     ]
   }
