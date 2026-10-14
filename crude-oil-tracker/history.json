@@ -1,57 +1,5 @@
 [
   {
-    "date": "2026-10-09",
-    "updated_at": "2026-10-09T02:27:58Z",
-    "wti": {
-      "close": 90.96,
-      "prev": 91.49,
-      "chg_pct": -0.58,
-      "chg_abs": -0.53,
-      "drop_streak": 1,
-      "ma20_dev": -3.61,
-      "range_pos": 39.5,
-      "volume_ratio": 0.03,
-      "reasons": [
-        "较前一交易日下跌 0.58%（-0.53 美元）。",
-        "当前价格低于 20 日均线约 3.6%，短线偏弱。",
-        "成交量明显萎缩，市场观望情绪浓。"
-      ]
-    },
-    "brent": {
-      "close": 103.54,
-      "prev": 104.28,
-      "chg_pct": -0.71,
-      "chg_abs": -0.74,
-      "drop_streak": 1,
-      "ma20_dev": 0.16,
-      "range_pos": 76.0,
-      "volume_ratio": 0.03,
-      "reasons": [
-        "较前一交易日下跌 0.71%（-0.74 美元）。",
-        "处于近两月价格区间高位，注意回落风险。",
-        "成交量明显萎缩，市场观望情绪浓。"
-      ]
-    },
-    "news": [
-      {
-        "title": "Dow Jones Futures Rise After AI Stocks Tumble On OpenAI News; SpaceX Move Slams Verizon, AT&T Late",
-        "link": "https://finance.yahoo.com/m/955f9165-6ca4-336e-9d6e-fff1a7c7f4e0/dow-jones-futures-rise-after.html"
-      },
-      {
-        "title": "Tech stocks struggle on AI spending worries, elevated yields",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/tech-stocks-struggle-ai-spending-015636766.html"
-      },
-      {
-        "title": "U.S. stock futures steady after Nasdaq slides on OpenAI revenue concerns",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/u-stock-futures-steady-nasdaq-010640302.html"
-      },
-      {
-        "title": "Nikkei Falls 1.1%, Dragged by Chip, Metals Stocks",
-        "link": "https://finance.yahoo.com/m/c01b19be-d023-36fd-a888-f148bda4eec7/nikkei-falls-1.1%25%2C-dragged-by.html"
-      }
-    ]
-  },
-  {
     "date": "2026-10-10",
     "updated_at": "2026-10-10T01:52:54Z",
     "wti": {
@@ -250,6 +198,58 @@
       {
         "title": "Asian stocks dive as focus on earnings, geopolitics",
         "link": "https://finance.yahoo.com/markets/world-indices/articles/asian-stocks-dive-focus-earnings-015003210.html"
+      }
+    ]
+  },
+  {
+    "date": "2026-10-14",
+    "updated_at": "2026-10-14T01:21:00Z",
+    "wti": {
+      "close": 95.35,
+      "prev": 93.74,
+      "chg_pct": 1.72,
+      "chg_abs": 1.61,
+      "drop_streak": 0,
+      "ma20_dev": 1.97,
+      "range_pos": 57.4,
+      "volume_ratio": 0.03,
+      "reasons": [
+        "较前一交易日上涨 1.72%（+1.61 美元）。",
+        "成交量明显萎缩，市场观望情绪浓。"
+      ]
+    },
+    "brent": {
+      "close": 107.09,
+      "prev": 106.65,
+      "chg_pct": 0.41,
+      "chg_abs": 0.44,
+      "drop_streak": 0,
+      "ma20_dev": 3.57,
+      "range_pos": 92.3,
+      "volume_ratio": 0.02,
+      "reasons": [
+        "较前一交易日上涨 0.41%（+0.44 美元）。",
+        "当前价格高于 20 日均线约 3.6%，短线偏强。",
+        "处于近两月价格区间高位，注意回落风险。",
+        "成交量明显萎缩，市场观望情绪浓。"
+      ]
+    },
+    "news": [
+      {
+        "title": "Oil prices rise as Houthi-Saudi attacks spur supply uncertainty",
+        "link": "https://finance.yahoo.com/energy/articles/oil-prices-rise-houthi-saudi-003118025.html"
+      },
+      {
+        "title": "Wall Street Sees Inflation Easing Even With Oil Above $90",
+        "link": "https://finance.yahoo.com/economy/policy/articles/wall-street-sees-inflation-easing-000000526.html"
+      },
+      {
+        "title": "Stock market today: Dow, S&P 500, Nasdaq slip as chip stocks fall, earnings roll in",
+        "link": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-october-13-dow-sp-500-nasdaq-chip-stocks-192419999.html"
+      },
+      {
+        "title": "Record Tanker Rates Leave Heavy Crude Stranded in the Americas",
+        "link": "https://finance.yahoo.com/energy/articles/record-tanker-rates-leave-heavy-230000211.html"
       }
     ]
   }
