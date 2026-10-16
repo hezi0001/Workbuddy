@@ -1,55 +1,5 @@
 [
   {
-    "date": "2026-10-11",
-    "updated_at": "2026-10-11T01:11:13Z",
-    "wti": {
-      "close": 91.85,
-      "prev": 91.49,
-      "chg_pct": 0.39,
-      "chg_abs": 0.36,
-      "drop_streak": 0,
-      "ma20_dev": -2.72,
-      "range_pos": 43.1,
-      "volume_ratio": 1.2,
-      "reasons": [
-        "较前一交易日上涨 0.39%（+0.36 美元）。",
-        "当前价格低于 20 日均线约 2.7%，短线偏弱。"
-      ]
-    },
-    "brent": {
-      "close": 104.72,
-      "prev": 104.28,
-      "chg_pct": 0.42,
-      "chg_abs": 0.44,
-      "drop_streak": 0,
-      "ma20_dev": 1.25,
-      "range_pos": 81.4,
-      "volume_ratio": 1.21,
-      "reasons": [
-        "较前一交易日上涨 0.42%（+0.44 美元）。",
-        "处于近两月价格区间高位，注意回落风险。"
-      ]
-    },
-    "news": [
-      {
-        "title": "Emergency Oil Releases Risk Draining the World’s Last Supply Cushion",
-        "link": "https://finance.yahoo.com/energy/articles/emergency-oil-releases-risk-draining-230000316.html"
-      },
-      {
-        "title": "Dow Jones Futures: S&P 500, Nasdaq Near Highs; ASML, Nvidia's Chipmaker Taiwan Semi To Kick Off AI Earnings",
-        "link": "https://finance.yahoo.com/m/0d7a86f7-63d8-35ac-9402-ed0f2ca814ac/dow-jones-futures%3A-s%26p-500%2C.html"
-      },
-      {
-        "title": "One of Wall Street's Best Hedge Funds Just Blew a 44% Gain Because of AI Bets",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/one-wall-streets-best-hedge-132506526.html"
-      },
-      {
-        "title": "3 Insurance Stocks In Focus As Oil Prices Keep Energy Risk Premiums Elevated",
-        "link": "https://finance.yahoo.com/energy/articles/3-insurance-stocks-focus-oil-131555507.html"
-      }
-    ]
-  },
-  {
     "date": "2026-10-12",
     "updated_at": "2026-10-12T01:39:43Z",
     "wti": {
@@ -252,6 +202,59 @@
       {
         "title": "HighPeak Energy (HPK) Lands $450 Million Preferred Deal, Is The Stock Already Fully Valued?",
         "link": "https://finance.yahoo.com/markets/stocks/articles/highpeak-energy-hpk-lands-450-221512263.html"
+      }
+    ]
+  },
+  {
+    "date": "2026-10-16",
+    "updated_at": "2026-10-16T00:39:19Z",
+    "wti": {
+      "close": 95.94,
+      "prev": 95.09,
+      "chg_pct": 0.89,
+      "chg_abs": 0.85,
+      "drop_streak": 0,
+      "ma20_dev": 3.4,
+      "range_pos": 58.1,
+      "volume_ratio": 0.02,
+      "reasons": [
+        "较前一交易日上涨 0.89%（+0.85 美元）。",
+        "当前价格高于 20 日均线约 3.4%，短线偏强。",
+        "成交量明显萎缩，市场观望情绪浓。"
+      ]
+    },
+    "brent": {
+      "close": 105.46,
+      "prev": 106.06,
+      "chg_pct": -0.57,
+      "chg_abs": -0.6,
+      "drop_streak": 1,
+      "ma20_dev": 2.02,
+      "range_pos": 84.3,
+      "volume_ratio": 0.01,
+      "reasons": [
+        "较前一交易日下跌 0.57%（-0.60 美元）。",
+        "当前价格高于 20 日均线约 2.0%，短线偏强。",
+        "处于近两月价格区间高位，注意回落风险。",
+        "成交量明显萎缩，市场观望情绪浓。"
+      ]
+    },
+    "news": [
+      {
+        "title": "The Diesel Crunch Will Persist Well into 2027",
+        "link": "https://finance.yahoo.com/energy/articles/diesel-crunch-persist-well-2027-230000048.html"
+      },
+      {
+        "title": "Energy Substantiation Brings Physically Backed Crude Oil to Institutional Markets with WTIC Listing on LMAX Digital",
+        "link": "https://finance.yahoo.com/energy/articles/energy-substantiation-brings-physically-backed-212300480.html"
+      },
+      {
+        "title": "Energy & Utilities Roundup: Market Talk",
+        "link": "https://finance.yahoo.com/m/cc8fc7dd-b2d5-3e42-8dfc-e4ab27cdb683/energy-%26-utilities-roundup%3A.html"
+      },
+      {
+        "title": "Basic Materials Roundup: Market Talk",
+        "link": "https://finance.yahoo.com/m/9132dd09-0638-33cc-9a5b-b8508a5a4ab9/basic-materials-roundup%3A.html"
       }
     ]
   }
