@@ -1,56 +1,5 @@
 [
   {
-    "date": "2026-10-13",
-    "updated_at": "2026-10-13T03:07:46Z",
-    "wti": {
-      "close": 92.42,
-      "prev": 93.74,
-      "chg_pct": -1.41,
-      "chg_abs": -1.32,
-      "drop_streak": 1,
-      "ma20_dev": -1.01,
-      "range_pos": 45.4,
-      "volume_ratio": 0.04,
-      "reasons": [
-        "较前一交易日下跌 1.41%（-1.32 美元）。",
-        "成交量明显萎缩，市场观望情绪浓。"
-      ]
-    },
-    "brent": {
-      "close": 105.37,
-      "prev": 106.65,
-      "chg_pct": -1.2,
-      "chg_abs": -1.28,
-      "drop_streak": 1,
-      "ma20_dev": 1.99,
-      "range_pos": 84.4,
-      "volume_ratio": 0.03,
-      "reasons": [
-        "较前一交易日下跌 1.20%（-1.28 美元）。",
-        "处于近两月价格区间高位，注意回落风险。",
-        "成交量明显萎缩，市场观望情绪浓。"
-      ]
-    },
-    "news": [
-      {
-        "title": "Seoul, Tokyo stocks plunge as Asia suffers fresh tech rout",
-        "link": "https://finance.yahoo.com/markets/world-indices/articles/seoul-tokyo-stocks-plunge-asia-024332072.html"
-      },
-      {
-        "title": "IMF warns global economy nearing \"limits of resilience",
-        "link": "https://finance.yahoo.com/economy/articles/imf-warns-global-economy-nearing-020105388.html"
-      },
-      {
-        "title": "Gold slips near $4,160 as Middle East tensions fuel rate-hike concerns",
-        "link": "https://finance.yahoo.com/markets/commodities/articles/gold-slips-near-4-160-015039835.html"
-      },
-      {
-        "title": "Asian stocks dive as focus on earnings, geopolitics",
-        "link": "https://finance.yahoo.com/markets/world-indices/articles/asian-stocks-dive-focus-earnings-015003210.html"
-      }
-    ]
-  },
-  {
     "date": "2026-10-14",
     "updated_at": "2026-10-14T01:21:00Z",
     "wti": {
@@ -255,6 +204,58 @@
       {
         "title": "Weekly Wrap: Crypto Under Pressure As A.I. Trade Unwinds",
         "link": "https://finance.yahoo.com/markets/crypto/articles/weekly-wrap-crypto-under-pressure-214400014.html"
+      }
+    ]
+  },
+  {
+    "date": "2026-10-18",
+    "updated_at": "2026-10-18T00:12:56Z",
+    "wti": {
+      "close": 101.41,
+      "prev": 97.97,
+      "chg_pct": 3.51,
+      "chg_abs": 3.44,
+      "drop_streak": 0,
+      "ma20_dev": 9.12,
+      "range_pos": 81.3,
+      "volume_ratio": 0.79,
+      "reasons": [
+        "较前一交易日上涨 3.51%（+3.44 美元）。",
+        "当前价格高于 20 日均线约 9.1%，短线偏强。",
+        "处于近两月价格区间高位，注意回落风险。"
+      ]
+    },
+    "brent": {
+      "close": 109.86,
+      "prev": 105.92,
+      "chg_pct": 3.72,
+      "chg_abs": 3.94,
+      "drop_streak": 0,
+      "ma20_dev": 5.95,
+      "range_pos": 100.0,
+      "volume_ratio": 1.37,
+      "reasons": [
+        "较前一交易日上涨 3.72%（+3.94 美元）。",
+        "当前价格高于 20 日均线约 5.9%，短线偏强。",
+        "处于近两月价格区间高位，注意回落风险。"
+      ]
+    },
+    "news": [
+      {
+        "title": "Dow Jones Futures: What To Do After S&P 500, Nasdaq Break Support; Will Meta Earnings Save AI?",
+        "link": "https://finance.yahoo.com/m/4342d021-69d3-3aa1-9753-76f72c9ba95d/dow-jones-futures%3A-what-to-do.html"
+      },
+      {
+        "title": "Oil Prices Stay High as War Keeps Supply Tight Into 2027",
+        "link": "https://finance.yahoo.com/energy/articles/oil-prices-stay-high-war-230000230.html"
+      },
+      {
+        "title": "3 Canadian Stocks With ROE Over 27%",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/3-canadian-stocks-roe-over-221100695.html"
+      },
+      {
+        "title": "Aclara Resources And 2 Other Canadian Rare Earth Stocks To Watch",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/aclara-resources-2-other-canadian-210851755.html"
       }
     ]
   }
