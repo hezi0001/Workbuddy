@@ -1,57 +1,5 @@
 [
   {
-    "date": "2026-10-14",
-    "updated_at": "2026-10-14T01:21:00Z",
-    "wti": {
-      "close": 95.35,
-      "prev": 93.74,
-      "chg_pct": 1.72,
-      "chg_abs": 1.61,
-      "drop_streak": 0,
-      "ma20_dev": 1.97,
-      "range_pos": 57.4,
-      "volume_ratio": 0.03,
-      "reasons": [
-        "较前一交易日上涨 1.72%（+1.61 美元）。",
-        "成交量明显萎缩，市场观望情绪浓。"
-      ]
-    },
-    "brent": {
-      "close": 107.09,
-      "prev": 106.65,
-      "chg_pct": 0.41,
-      "chg_abs": 0.44,
-      "drop_streak": 0,
-      "ma20_dev": 3.57,
-      "range_pos": 92.3,
-      "volume_ratio": 0.02,
-      "reasons": [
-        "较前一交易日上涨 0.41%（+0.44 美元）。",
-        "当前价格高于 20 日均线约 3.6%，短线偏强。",
-        "处于近两月价格区间高位，注意回落风险。",
-        "成交量明显萎缩，市场观望情绪浓。"
-      ]
-    },
-    "news": [
-      {
-        "title": "Oil prices rise as Houthi-Saudi attacks spur supply uncertainty",
-        "link": "https://finance.yahoo.com/energy/articles/oil-prices-rise-houthi-saudi-003118025.html"
-      },
-      {
-        "title": "Wall Street Sees Inflation Easing Even With Oil Above $90",
-        "link": "https://finance.yahoo.com/economy/policy/articles/wall-street-sees-inflation-easing-000000526.html"
-      },
-      {
-        "title": "Stock market today: Dow, S&P 500, Nasdaq slip as chip stocks fall, earnings roll in",
-        "link": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-october-13-dow-sp-500-nasdaq-chip-stocks-192419999.html"
-      },
-      {
-        "title": "Record Tanker Rates Leave Heavy Crude Stranded in the Americas",
-        "link": "https://finance.yahoo.com/energy/articles/record-tanker-rates-leave-heavy-230000211.html"
-      }
-    ]
-  },
-  {
     "date": "2026-10-15",
     "updated_at": "2026-10-15T00:46:03Z",
     "wti": {
@@ -256,6 +204,59 @@
       {
         "title": "Aclara Resources And 2 Other Canadian Rare Earth Stocks To Watch",
         "link": "https://finance.yahoo.com/markets/stocks/articles/aclara-resources-2-other-canadian-210851755.html"
+      }
+    ]
+  },
+  {
+    "date": "2026-10-19",
+    "updated_at": "2026-10-19T00:24:45Z",
+    "wti": {
+      "close": 97.61,
+      "prev": 101.41,
+      "chg_pct": -3.75,
+      "chg_abs": -3.8,
+      "drop_streak": 1,
+      "ma20_dev": 4.92,
+      "range_pos": 65.2,
+      "volume_ratio": 0.03,
+      "reasons": [
+        "较前一交易日下跌 3.75%（-3.80 美元）。",
+        "当前价格高于 20 日均线约 4.9%，短线偏强。",
+        "成交量明显萎缩，市场观望情绪浓。"
+      ]
+    },
+    "brent": {
+      "close": 108.05,
+      "prev": 109.86,
+      "chg_pct": -1.65,
+      "chg_abs": -1.81,
+      "drop_streak": 1,
+      "ma20_dev": 3.82,
+      "range_pos": 91.8,
+      "volume_ratio": 0.02,
+      "reasons": [
+        "较前一交易日下跌 1.65%（-1.81 美元）。",
+        "当前价格高于 20 日均线约 3.8%，短线偏强。",
+        "处于近两月价格区间高位，注意回落风险。",
+        "成交量明显萎缩，市场观望情绪浓。"
+      ]
+    },
+    "news": [
+      {
+        "title": "Dow Jones Futures Rebound After AI Sell-Off; Meta, SpaceX, Tesla Earnings Key",
+        "link": "https://finance.yahoo.com/m/4342d021-69d3-3aa1-9753-76f72c9ba95d/dow-jones-futures-rebound.html"
+      },
+      {
+        "title": "Oil slips as Trump's sanction waiver may lead to more Russian fuel supplies",
+        "link": "https://finance.yahoo.com/energy/articles/oil-slips-trumps-sanction-waiver-222256196.html"
+      },
+      {
+        "title": "Updated Output Guidance Change The Bull Case For BP Stock (LSE:BP.)?",
+        "link": "https://finance.yahoo.com/energy/articles/updated-output-guidance-change-bull-232036310.html"
+      },
+      {
+        "title": "Record Shipping Costs Force Oil Producers to Slash Prices",
+        "link": "https://finance.yahoo.com/energy/articles/record-shipping-costs-force-oil-230000308.html"
       }
     ]
   }
