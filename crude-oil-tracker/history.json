@@ -1,57 +1,5 @@
 [
   {
-    "date": "2026-10-15",
-    "updated_at": "2026-10-15T00:46:03Z",
-    "wti": {
-      "close": 94.45,
-      "prev": 94.14,
-      "chg_pct": 0.33,
-      "chg_abs": 0.31,
-      "drop_streak": 0,
-      "ma20_dev": 1.51,
-      "range_pos": 51.8,
-      "volume_ratio": 0.02,
-      "reasons": [
-        "较前一交易日上涨 0.33%（+0.31 美元）。",
-        "成交量明显萎缩，市场观望情绪浓。"
-      ]
-    },
-    "brent": {
-      "close": 105.3,
-      "prev": 105.69,
-      "chg_pct": -0.37,
-      "chg_abs": -0.39,
-      "drop_streak": 2,
-      "ma20_dev": 1.94,
-      "range_pos": 83.5,
-      "volume_ratio": 0.02,
-      "reasons": [
-        "较前一交易日下跌 0.37%（-0.39 美元）。",
-        "已连续 2 个交易日走低，短期弱势延续。",
-        "处于近两月价格区间高位，注意回落风险。",
-        "成交量明显萎缩，市场观望情绪浓。"
-      ]
-    },
-    "news": [
-      {
-        "title": "Taiwan Semiconductor Manufacturing And 2 AI Chip Stocks To Watch",
-        "link": "https://finance.yahoo.com/technology/ai/articles/taiwan-semiconductor-manufacturing-2-ai-231859326.html"
-      },
-      {
-        "title": "Oil prices gain on attacks in Saudi Arabia, Iran's new tactics to target tankers",
-        "link": "https://finance.yahoo.com/energy/articles/oil-prices-climb-traders-weigh-012735546.html"
-      },
-      {
-        "title": "Oil Market Tightens as Tanker Attacks and Inventory Draws Mount",
-        "link": "https://finance.yahoo.com/energy/articles/oil-market-tightens-tanker-attacks-230000051.html"
-      },
-      {
-        "title": "HighPeak Energy (HPK) Lands $450 Million Preferred Deal, Is The Stock Already Fully Valued?",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/highpeak-energy-hpk-lands-450-221512263.html"
-      }
-    ]
-  },
-  {
     "date": "2026-10-16",
     "updated_at": "2026-10-16T00:39:19Z",
     "wti": {
@@ -257,6 +205,59 @@
       {
         "title": "Record Shipping Costs Force Oil Producers to Slash Prices",
         "link": "https://finance.yahoo.com/energy/articles/record-shipping-costs-force-oil-230000308.html"
+      }
+    ]
+  },
+  {
+    "date": "2026-10-20",
+    "updated_at": "2026-10-20T01:11:34Z",
+    "wti": {
+      "close": 98.72,
+      "prev": 101.41,
+      "chg_pct": -2.65,
+      "chg_abs": -2.69,
+      "drop_streak": 1,
+      "ma20_dev": 6.05,
+      "range_pos": 69.9,
+      "volume_ratio": 0.02,
+      "reasons": [
+        "较前一交易日下跌 2.65%（-2.69 美元）。",
+        "当前价格高于 20 日均线约 6.1%，短线偏强。",
+        "成交量明显萎缩，市场观望情绪浓。"
+      ]
+    },
+    "brent": {
+      "close": 109.71,
+      "prev": 109.86,
+      "chg_pct": -0.14,
+      "chg_abs": -0.15,
+      "drop_streak": 1,
+      "ma20_dev": 5.33,
+      "range_pos": 99.3,
+      "volume_ratio": 0.01,
+      "reasons": [
+        "较前一交易日下跌 0.14%（-0.15 美元）。",
+        "当前价格高于 20 日均线约 5.3%，短线偏强。",
+        "处于近两月价格区间高位，注意回落风险。",
+        "成交量明显萎缩，市场观望情绪浓。"
+      ]
+    },
+    "news": [
+      {
+        "title": "Oil eases as markets assess potential waiver on Russian energy, Middle East supply risks",
+        "link": "https://finance.yahoo.com/energy/articles/oil-eases-markets-assess-potential-005750414.html"
+      },
+      {
+        "title": "3 Canadian Energy Stocks To Screen As Inflation Pushes Oil Prices Higher",
+        "link": "https://finance.yahoo.com/energy/articles/3-canadian-energy-stocks-screen-001709316.html"
+      },
+      {
+        "title": "Corrections & Amplifications",
+        "link": "https://finance.yahoo.com/m/32d09282-bc57-31a7-be90-a902f301f8b0/corrections-%26-amplifications.html"
+      },
+      {
+        "title": "Forget Tech. Energy Will Be The Big Winner This Earnings Season.",
+        "link": "https://finance.yahoo.com/m/2bba9727-a5dc-3eb3-821b-571b920f9856/forget-tech.-energy-will-be.html"
       }
     ]
   }
