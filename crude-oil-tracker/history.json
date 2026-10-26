@@ -1,59 +1,5 @@
 [
   {
-    "date": "2026-10-21",
-    "updated_at": "2026-10-21T00:49:02Z",
-    "wti": {
-      "close": 98.52,
-      "prev": 103.66,
-      "chg_pct": -4.96,
-      "chg_abs": -5.14,
-      "drop_streak": 1,
-      "ma20_dev": 5.34,
-      "range_pos": 69.0,
-      "volume_ratio": 0.02,
-      "reasons": [
-        "较前一交易日下跌 4.96%（-5.14 美元）。",
-        "当前价格高于 20 日均线约 5.3%，短线偏强。",
-        "成交量明显萎缩，市场观望情绪浓。"
-      ]
-    },
-    "brent": {
-      "close": 109.54,
-      "prev": 109.55,
-      "chg_pct": -0.01,
-      "chg_abs": -0.01,
-      "drop_streak": 2,
-      "ma20_dev": 4.66,
-      "range_pos": 98.5,
-      "volume_ratio": 0.01,
-      "reasons": [
-        "较前一交易日下跌 0.01%（-0.01 美元）。",
-        "已连续 2 个交易日走低，短期弱势延续。",
-        "当前价格高于 20 日均线约 4.7%，短线偏强。",
-        "处于近两月价格区间高位，注意回落风险。",
-        "成交量明显萎缩，市场观望情绪浓。"
-      ]
-    },
-    "news": [
-      {
-        "title": "Australian central banker says inflation outlook worse, unsure about November rate hike",
-        "link": "https://finance.yahoo.com/economy/policy/articles/australia-central-banker-says-policy-221416518.html"
-      },
-      {
-        "title": "Dow Jones Futures: AI Stocks Jump On SpaceX, Supermicro; Tesla, Meta On Deck",
-        "link": "https://finance.yahoo.com/m/40378091-9f13-35f6-a4eb-65961ef4434c/dow-jones-futures%3A-ai-stocks.html"
-      },
-      {
-        "title": "Beach Energy posts record $565 million quarterly revenue as production and gas prices rise",
-        "link": "https://finance.yahoo.com/energy/articles/beach-energy-posts-record-565-000700241.html"
-      },
-      {
-        "title": "Fashion Can’t Keep Reacting to the Next Crisis",
-        "link": "https://finance.yahoo.com/energy/articles/fashion-t-keep-reacting-next-234342929.html"
-      }
-    ]
-  },
-  {
     "date": "2026-10-22",
     "updated_at": "2026-10-22T00:50:23Z",
     "wti": {
@@ -261,6 +207,60 @@
       {
         "title": "Fuel Oil Becomes Asia’s Next Cost Shock",
         "link": "https://finance.yahoo.com/energy/articles/fuel-oil-becomes-asia-next-210000466.html"
+      }
+    ]
+  },
+  {
+    "date": "2026-10-26",
+    "updated_at": "2026-10-26T00:37:08Z",
+    "wti": {
+      "close": 101.76,
+      "prev": 103.27,
+      "chg_pct": -1.46,
+      "chg_abs": -1.51,
+      "drop_streak": 1,
+      "ma20_dev": 6.91,
+      "range_pos": 82.8,
+      "volume_ratio": 0.05,
+      "reasons": [
+        "较前一交易日下跌 1.46%（-1.51 美元）。",
+        "当前价格高于 20 日均线约 6.9%，短线偏强。",
+        "处于近两月价格区间高位，注意回落风险。",
+        "成交量明显萎缩，市场观望情绪浓。"
+      ]
+    },
+    "brent": {
+      "close": 110.4,
+      "prev": 116.72,
+      "chg_pct": -5.41,
+      "chg_abs": -6.32,
+      "drop_streak": 1,
+      "ma20_dev": 4.03,
+      "range_pos": 78.1,
+      "volume_ratio": 0.03,
+      "reasons": [
+        "较前一交易日下跌 5.41%（-6.32 美元）。",
+        "当前价格高于 20 日均线约 4.0%，短线偏强。",
+        "处于近两月价格区间高位，注意回落风险。",
+        "成交量明显萎缩，市场观望情绪浓。"
+      ]
+    },
+    "news": [
+      {
+        "title": "Trump Calls Off Iran Strike But Will Oil Hold Above $100?",
+        "link": "https://finance.yahoo.com/energy/articles/trump-calls-off-iran-strike-234455166.html"
+      },
+      {
+        "title": "Goldman lists 3 factors that support long commodities positions",
+        "link": "https://finance.yahoo.com/markets/commodities/articles/goldman-lists-3-factors-support-222328372.html"
+      },
+      {
+        "title": "Oil Supply Risks Put Phillips 66 Stock And Global Energy Majors In Focus",
+        "link": "https://finance.yahoo.com/energy/articles/oil-supply-risks-put-phillips-170844973.html"
+      },
+      {
+        "title": "Big Tech Earnings, Fed Decision and Other Key Things to Watch this Week",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/big-tech-earnings-fed-decision-170002299.html"
       }
     ]
   }
