@@ -1,59 +1,5 @@
 [
   {
-    "date": "2026-10-22",
-    "updated_at": "2026-10-22T00:50:23Z",
-    "wti": {
-      "close": 98.03,
-      "prev": 101.79,
-      "chg_pct": -3.69,
-      "chg_abs": -3.76,
-      "drop_streak": 2,
-      "ma20_dev": 4.3,
-      "range_pos": 66.9,
-      "volume_ratio": 0.02,
-      "reasons": [
-        "较前一交易日下跌 3.69%（-3.76 美元）。",
-        "已连续 2 个交易日走低，短期弱势延续。",
-        "当前价格高于 20 日均线约 4.3%，短线偏强。",
-        "成交量明显萎缩，市场观望情绪浓。"
-      ]
-    },
-    "brent": {
-      "close": 110.03,
-      "prev": 108.79,
-      "chg_pct": 1.14,
-      "chg_abs": 1.24,
-      "drop_streak": 0,
-      "ma20_dev": 4.81,
-      "range_pos": 100.0,
-      "volume_ratio": 0.01,
-      "reasons": [
-        "较前一交易日上涨 1.14%（+1.24 美元）。",
-        "当前价格高于 20 日均线约 4.8%，短线偏强。",
-        "处于近两月价格区间高位，注意回落风险。",
-        "成交量明显萎缩，市场观望情绪浓。"
-      ]
-    },
-    "news": [
-      {
-        "title": "Petrobras to Remain State-Owned Under Bolsonaro, Adviser Says",
-        "link": "https://finance.yahoo.com/energy/articles/petrobras-remain-state-owned-under-233722225.html"
-      },
-      {
-        "title": "BEACH ENERGY REPORT 21% INCREASE IN OIL PRODUCTION FROM WESTERN FLANK. EXPLORATION AND DEVELOPMENT CAMPAIGN TO BE INCREASED",
-        "link": "https://finance.yahoo.com/energy/articles/beach-energy-report-21-increase-220200682.html"
-      },
-      {
-        "title": "Basic Materials Roundup: Market Talk",
-        "link": "https://finance.yahoo.com/m/5d4a00eb-6e39-38fb-bdc3-18d7c85cecdb/basic-materials-roundup%3A.html"
-      },
-      {
-        "title": "U.S. Stocks Rise as SpaceX Spurs AI Relief Rally",
-        "link": "https://finance.yahoo.com/m/2d7ac23c-f99d-3bce-bad1-3e09aaaa3624/u.s.-stocks-rise-as-spacex.html"
-      }
-    ]
-  },
-  {
     "date": "2026-10-23",
     "updated_at": "2026-10-23T00:51:47Z",
     "wti": {
@@ -261,6 +207,60 @@
       {
         "title": "Big Tech Earnings, Fed Decision and Other Key Things to Watch this Week",
         "link": "https://finance.yahoo.com/markets/stocks/articles/big-tech-earnings-fed-decision-170002299.html"
+      }
+    ]
+  },
+  {
+    "date": "2026-10-27",
+    "updated_at": "2026-10-27T01:35:24Z",
+    "wti": {
+      "close": 101.14,
+      "prev": 103.27,
+      "chg_pct": -2.06,
+      "chg_abs": -2.13,
+      "drop_streak": 1,
+      "ma20_dev": 6.29,
+      "range_pos": 80.1,
+      "volume_ratio": 0.03,
+      "reasons": [
+        "较前一交易日下跌 2.06%（-2.13 美元）。",
+        "当前价格高于 20 日均线约 6.3%，短线偏强。",
+        "处于近两月价格区间高位，注意回落风险。",
+        "成交量明显萎缩，市场观望情绪浓。"
+      ]
+    },
+    "brent": {
+      "close": 110.02,
+      "prev": 116.72,
+      "chg_pct": -5.74,
+      "chg_abs": -6.7,
+      "drop_streak": 1,
+      "ma20_dev": 3.69,
+      "range_pos": 76.8,
+      "volume_ratio": 0.03,
+      "reasons": [
+        "较前一交易日下跌 5.74%（-6.70 美元）。",
+        "当前价格高于 20 日均线约 3.7%，短线偏强。",
+        "处于近两月价格区间高位，注意回落风险。",
+        "成交量明显萎缩，市场观望情绪浓。"
+      ]
+    },
+    "news": [
+      {
+        "title": "Greenfire Resources (NYSE:GFR) Stock Could Be Overvalued As Analyst Upgrades Land",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/greenfire-resources-nyse-gfr-stock-011315157.html"
+      },
+      {
+        "title": "Oil extends losses as Iran mediation efforts ease escalation fears",
+        "link": "https://finance.yahoo.com/energy/articles/oil-extends-losses-iran-mediation-005423071.html"
+      },
+      {
+        "title": "Gold Edges Lower as Investors Mull Potential Fed Rate Hike This Year",
+        "link": "https://finance.yahoo.com/m/ebc30168-754a-393e-badf-f15b1011f22b/gold-edges-lower-as-investors.html"
+      },
+      {
+        "title": "Gold Price Crashed 25%, But Investors are Still Buying",
+        "link": "https://finance.yahoo.com/markets/commodities/articles/gold-price-crashed-25-investors-004642833.html"
       }
     ]
   }
