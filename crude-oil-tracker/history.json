@@ -1,58 +1,5 @@
 [
   {
-    "date": "2026-10-23",
-    "updated_at": "2026-10-23T00:51:47Z",
-    "wti": {
-      "close": 99.26,
-      "prev": 97.15,
-      "chg_pct": 2.17,
-      "chg_abs": 2.11,
-      "drop_streak": 0,
-      "ma20_dev": 5.4,
-      "range_pos": 72.2,
-      "volume_ratio": 0.02,
-      "reasons": [
-        "较前一交易日上涨 2.17%（+2.11 美元）。",
-        "当前价格高于 20 日均线约 5.4%，短线偏强。",
-        "成交量明显萎缩，市场观望情绪浓。"
-      ]
-    },
-    "brent": {
-      "close": 112.95,
-      "prev": 108.82,
-      "chg_pct": 3.8,
-      "chg_abs": 4.13,
-      "drop_streak": 0,
-      "ma20_dev": 7.33,
-      "range_pos": 100.0,
-      "volume_ratio": 0.0,
-      "reasons": [
-        "较前一交易日上涨 3.80%（+4.13 美元）。",
-        "当前价格高于 20 日均线约 7.3%，短线偏强。",
-        "处于近两月价格区间高位，注意回落风险。",
-        "成交量明显萎缩，市场观望情绪浓。"
-      ]
-    },
-    "news": [
-      {
-        "title": "Constellation Energy And 2 Other Top Nuclear Power Stocks",
-        "link": "https://finance.yahoo.com/energy/articles/constellation-energy-2-other-top-001640294.html"
-      },
-      {
-        "title": "Nikkei Falls 2.2%, Dragged by Chip, Bank Stocks",
-        "link": "https://finance.yahoo.com/m/8c0252d5-d469-354a-8235-8d0e89845be5/nikkei-falls-2.2%25%2C-dragged-by.html"
-      },
-      {
-        "title": "Japan Consumer Inflation Uptick Offers Tailwind for BOJ Rate Hike",
-        "link": "https://finance.yahoo.com/m/98e771d2-4db8-3b89-8b69-b66ada9a530b/japan-consumer-inflation.html"
-      },
-      {
-        "title": "Nasdaq 100 Clocks Worst Day In Four Months As Investors Grow Weary Of Capex, Elevated Debt — META, SPCX, BE, MRNA In Focus",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/nasdaq-100-clocks-worst-day-234448333.html"
-      }
-    ]
-  },
-  {
     "date": "2026-10-24",
     "updated_at": "2026-10-24T00:58:50Z",
     "wti": {
@@ -261,6 +208,62 @@
       {
         "title": "Gold Price Crashed 25%, But Investors are Still Buying",
         "link": "https://finance.yahoo.com/markets/commodities/articles/gold-price-crashed-25-investors-004642833.html"
+      }
+    ]
+  },
+  {
+    "date": "2026-10-28",
+    "updated_at": "2026-10-28T01:34:54Z",
+    "wti": {
+      "close": 100.82,
+      "prev": 101.76,
+      "chg_pct": -0.92,
+      "chg_abs": -0.94,
+      "drop_streak": 2,
+      "ma20_dev": 5.29,
+      "range_pos": 77.7,
+      "volume_ratio": 0.04,
+      "reasons": [
+        "较前一交易日下跌 0.92%（-0.94 美元）。",
+        "已连续 2 个交易日走低，短期弱势延续。",
+        "当前价格高于 20 日均线约 5.3%，短线偏强。",
+        "处于近两月价格区间高位，注意回落风险。",
+        "成交量明显萎缩，市场观望情绪浓。"
+      ]
+    },
+    "brent": {
+      "close": 110.5,
+      "prev": 115.81,
+      "chg_pct": -4.59,
+      "chg_abs": -5.31,
+      "drop_streak": 2,
+      "ma20_dev": 3.48,
+      "range_pos": 77.3,
+      "volume_ratio": 0.03,
+      "reasons": [
+        "较前一交易日下跌 4.59%（-5.31 美元）。",
+        "已连续 2 个交易日走低，短期弱势延续。",
+        "当前价格高于 20 日均线约 3.5%，短线偏强。",
+        "处于近两月价格区间高位，注意回落风险。",
+        "成交量明显萎缩，市场观望情绪浓。"
+      ]
+    },
+    "news": [
+      {
+        "title": "Dow Jones Futures: Growth Stocks Rally, Tesla Clears Buy Point; Fed, Microsoft, Google On Tap",
+        "link": "https://finance.yahoo.com/m/7066a700-b33b-3fa1-858d-f75f49b920da/dow-jones-futures%3A-growth.html"
+      },
+      {
+        "title": "Australia Q3 inflation quickens, bolstering RBA rate hike case",
+        "link": "https://finance.yahoo.com/economy/policy/articles/australia-q3-inflation-quickens-bolstering-012141282.html"
+      },
+      {
+        "title": "PrairieSky Royalty Ltd (PREKF) (Q3 2026) Earnings Call Highlights: Record Duvernay Drilling and ...",
+        "link": "https://finance.yahoo.com/energy/articles/prairiesky-royalty-ltd-prekf-q3-010318009.html"
+      },
+      {
+        "title": "Gold Clings to Gains Above $4,000 as Markets Await Fed",
+        "link": "https://finance.yahoo.com/m/13771fc0-fc63-30e1-a06c-f7c5f0fd0594/gold-clings-to-gains-above.html"
       }
     ]
   }
