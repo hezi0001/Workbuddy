@@ -1,57 +1,5 @@
 [
   {
-    "date": "2026-10-24",
-    "updated_at": "2026-10-24T00:58:50Z",
-    "wti": {
-      "close": 103.44,
-      "prev": 99.47,
-      "chg_pct": 3.99,
-      "chg_abs": 3.97,
-      "drop_streak": 0,
-      "ma20_dev": 9.19,
-      "range_pos": 89.9,
-      "volume_ratio": 1.06,
-      "reasons": [
-        "较前一交易日上涨 3.99%（+3.97 美元）。",
-        "当前价格高于 20 日均线约 9.2%，短线偏强。",
-        "处于近两月价格区间高位，注意回落风险。"
-      ]
-    },
-    "brent": {
-      "close": 111.66,
-      "prev": 113.17,
-      "chg_pct": -1.33,
-      "chg_abs": -1.51,
-      "drop_streak": 1,
-      "ma20_dev": 5.73,
-      "range_pos": 94.0,
-      "volume_ratio": 1.0,
-      "reasons": [
-        "较前一交易日下跌 1.33%（-1.51 美元）。",
-        "当前价格高于 20 日均线约 5.7%，短线偏强。",
-        "处于近两月价格区间高位，注意回落风险。"
-      ]
-    },
-    "news": [
-      {
-        "title": "Alphabet (GOOGL): Investing Behind AI Demand and TPU Growth",
-        "link": "https://finance.yahoo.com/technology/ai/articles/alphabet-googl-investing-behind-ai-165149716.html"
-      },
-      {
-        "title": "Stocktwits Fintech Pulse: US Fintech Weekly Briefing And Market Drivers",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/stocktwits-fintech-pulse-us-fintech-000436414.html"
-      },
-      {
-        "title": "Rocket Lab And 2 Top Space Stocks To Watch",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/rocket-lab-2-top-space-231051195.html"
-      },
-      {
-        "title": "S&P 500, Dow Drop As Elevated Oil Prices Stoke Inflation Fears Ahead Of Fed Meeting Next Week — AAPL, AXP, CART, UBER In Focus",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/p-500-dow-drop-elevated-223557989.html"
-      }
-    ]
-  },
-  {
     "date": "2026-10-25",
     "updated_at": "2026-10-25T00:29:09Z",
     "wti": {
@@ -264,6 +212,61 @@
       {
         "title": "Gold Clings to Gains Above $4,000 as Markets Await Fed",
         "link": "https://finance.yahoo.com/m/13771fc0-fc63-30e1-a06c-f7c5f0fd0594/gold-clings-to-gains-above.html"
+      }
+    ]
+  },
+  {
+    "date": "2026-10-29",
+    "updated_at": "2026-10-29T01:55:19Z",
+    "wti": {
+      "close": 102.11,
+      "prev": 99.9,
+      "chg_pct": 2.21,
+      "chg_abs": 2.21,
+      "drop_streak": 0,
+      "ma20_dev": 6.04,
+      "range_pos": 83.4,
+      "volume_ratio": 0.03,
+      "reasons": [
+        "较前一交易日上涨 2.21%（+2.21 美元）。",
+        "当前价格高于 20 日均线约 6.0%，短线偏强。",
+        "处于近两月价格区间高位，注意回落风险。",
+        "成交量明显萎缩，市场观望情绪浓。"
+      ]
+    },
+    "brent": {
+      "close": 110.87,
+      "prev": 113.88,
+      "chg_pct": -2.64,
+      "chg_abs": -3.01,
+      "drop_streak": 3,
+      "ma20_dev": 3.31,
+      "range_pos": 78.7,
+      "volume_ratio": 0.04,
+      "reasons": [
+        "较前一交易日下跌 2.64%（-3.01 美元）。",
+        "已连续 3 个交易日走低，短期弱势延续。",
+        "当前价格高于 20 日均线约 3.3%，短线偏强。",
+        "处于近两月价格区间高位，注意回落风险。",
+        "成交量明显萎缩，市场观望情绪浓。"
+      ]
+    },
+    "news": [
+      {
+        "title": "Dow Jones Futures: Microsoft Rises, But Google, ServiceNow, Fortinet Dive On Earnings",
+        "link": "https://finance.yahoo.com/m/6c0b166b-19af-3d40-b6ff-7c6d65d3c4da/dow-jones-futures%3A-microsoft.html"
+      },
+      {
+        "title": "HF Sinclair Corp (DINO) (Q3 2026) Earnings Call Highlights: Record Refining Margins Drive $2. ...",
+        "link": "https://finance.yahoo.com/energy/articles/hf-sinclair-corp-dino-q3-010613205.html"
+      },
+      {
+        "title": "Petrobras Oil and Gas Output Jumps 11.7% to Record High in Q3",
+        "link": "https://finance.yahoo.com/energy/articles/petrobras-oil-gas-output-jumps-010500840.html"
+      },
+      {
+        "title": "Oil's War Premium Could Vanish Fast Once a Hormuz Deal Lands, Analysts Warn",
+        "link": "https://finance.yahoo.com/markets/commodities/articles/oils-war-premium-could-vanish-004013222.html"
       }
     ]
   }
