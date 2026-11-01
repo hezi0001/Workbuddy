@@ -1,59 +1,5 @@
 [
   {
-    "date": "2026-10-27",
-    "updated_at": "2026-10-27T01:35:24Z",
-    "wti": {
-      "close": 101.14,
-      "prev": 103.27,
-      "chg_pct": -2.06,
-      "chg_abs": -2.13,
-      "drop_streak": 1,
-      "ma20_dev": 6.29,
-      "range_pos": 80.1,
-      "volume_ratio": 0.03,
-      "reasons": [
-        "较前一交易日下跌 2.06%（-2.13 美元）。",
-        "当前价格高于 20 日均线约 6.3%，短线偏强。",
-        "处于近两月价格区间高位，注意回落风险。",
-        "成交量明显萎缩，市场观望情绪浓。"
-      ]
-    },
-    "brent": {
-      "close": 110.02,
-      "prev": 116.72,
-      "chg_pct": -5.74,
-      "chg_abs": -6.7,
-      "drop_streak": 1,
-      "ma20_dev": 3.69,
-      "range_pos": 76.8,
-      "volume_ratio": 0.03,
-      "reasons": [
-        "较前一交易日下跌 5.74%（-6.70 美元）。",
-        "当前价格高于 20 日均线约 3.7%，短线偏强。",
-        "处于近两月价格区间高位，注意回落风险。",
-        "成交量明显萎缩，市场观望情绪浓。"
-      ]
-    },
-    "news": [
-      {
-        "title": "Greenfire Resources (NYSE:GFR) Stock Could Be Overvalued As Analyst Upgrades Land",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/greenfire-resources-nyse-gfr-stock-011315157.html"
-      },
-      {
-        "title": "Oil extends losses as Iran mediation efforts ease escalation fears",
-        "link": "https://finance.yahoo.com/energy/articles/oil-extends-losses-iran-mediation-005423071.html"
-      },
-      {
-        "title": "Gold Edges Lower as Investors Mull Potential Fed Rate Hike This Year",
-        "link": "https://finance.yahoo.com/m/ebc30168-754a-393e-badf-f15b1011f22b/gold-edges-lower-as-investors.html"
-      },
-      {
-        "title": "Gold Price Crashed 25%, But Investors are Still Buying",
-        "link": "https://finance.yahoo.com/markets/commodities/articles/gold-price-crashed-25-investors-004642833.html"
-      }
-    ]
-  },
-  {
     "date": "2026-10-28",
     "updated_at": "2026-10-28T01:34:54Z",
     "wti": {
@@ -269,6 +215,59 @@
       {
         "title": "3 Australian Penny Stocks With Revenue Over 250 Million",
         "link": "https://finance.yahoo.com/markets/stocks/articles/3-australian-penny-stocks-revenue-231147762.html"
+      }
+    ]
+  },
+  {
+    "date": "2026-11-01",
+    "updated_at": "2026-11-01T01:23:56Z",
+    "wti": {
+      "close": 104.12,
+      "prev": 102.0,
+      "chg_pct": 2.08,
+      "chg_abs": 2.12,
+      "drop_streak": 0,
+      "ma20_dev": 6.86,
+      "range_pos": 91.5,
+      "volume_ratio": 0.88,
+      "reasons": [
+        "较前一交易日上涨 2.08%（+2.12 美元）。",
+        "当前价格高于 20 日均线约 6.9%，短线偏强。",
+        "处于近两月价格区间高位，注意回落风险。"
+      ]
+    },
+    "brent": {
+      "close": 117.64,
+      "prev": 114.88,
+      "chg_pct": 2.4,
+      "chg_abs": 2.76,
+      "drop_streak": 0,
+      "ma20_dev": 7.98,
+      "range_pos": 100.0,
+      "volume_ratio": 0.16,
+      "reasons": [
+        "较前一交易日上涨 2.40%（+2.76 美元）。",
+        "当前价格高于 20 日均线约 8.0%，短线偏强。",
+        "处于近两月价格区间高位，注意回落风险。",
+        "成交量明显萎缩，市场观望情绪浓。"
+      ]
+    },
+    "news": [
+      {
+        "title": "OPEC+ set to hold December oil output steady, Reuters reports",
+        "link": "https://finance.yahoo.com/energy/articles/opec-set-hold-december-oil-211425680.html"
+      },
+      {
+        "title": "Saturn Oil & Gas (TSX:SOIL) Stock May Trade Below Fair Value Despite Corex Deal",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/saturn-oil-gas-tsx-soil-210820495.html"
+      },
+      {
+        "title": "NABEP Rig Fleet Grows to 41 as Production Passes 223,000 Barrels of Oil Equivalent a Day",
+        "link": "https://finance.yahoo.com/energy/articles/nabep-rig-fleet-grows-41-193200516.html"
+      },
+      {
+        "title": "'The Fed put is very much back': Wall Street strategists weigh central bank's next move",
+        "link": "https://finance.yahoo.com/markets/article/the-fed-put-is-very-much-back-wall-street-strategists-weigh-central-banks-next-move-155353732.html"
       }
     ]
   }
