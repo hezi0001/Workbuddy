@@ -1,60 +1,5 @@
 [
   {
-    "date": "2026-10-30",
-    "updated_at": "2026-10-30T02:06:40Z",
-    "wti": {
-      "close": 104.43,
-      "prev": 102.0,
-      "chg_pct": 2.38,
-      "chg_abs": 2.43,
-      "drop_streak": 0,
-      "ma20_dev": 7.16,
-      "range_pos": 93.0,
-      "volume_ratio": 0.07,
-      "reasons": [
-        "较前一交易日上涨 2.38%（+2.43 美元）。",
-        "当前价格高于 20 日均线约 7.2%，短线偏强。",
-        "处于近两月价格区间高位，注意回落风险。",
-        "成交量明显萎缩，市场观望情绪浓。"
-      ]
-    },
-    "brent": {
-      "close": 113.5,
-      "prev": 114.88,
-      "chg_pct": -1.2,
-      "chg_abs": -1.38,
-      "drop_streak": 2,
-      "ma20_dev": 4.38,
-      "range_pos": 87.7,
-      "volume_ratio": 0.07,
-      "reasons": [
-        "较前一交易日下跌 1.20%（-1.38 美元）。",
-        "已连续 2 个交易日走低，短期弱势延续。",
-        "当前价格高于 20 日均线约 4.4%，短线偏强。",
-        "处于近两月价格区间高位，注意回落风险。",
-        "成交量明显萎缩，市场观望情绪浓。"
-      ]
-    },
-    "news": [
-      {
-        "title": "Gold hovers near $4,000 as PCE inflation, oil risks revive Fed hike concerns",
-        "link": "https://finance.yahoo.com/markets/commodities/articles/gold-hovers-near-4-000-014613798.html"
-      },
-      {
-        "title": "Vista Energy SAB de CV (VIST) Q3 2026 Earnings Call Highlights: Record Production and 75% ...",
-        "link": "https://finance.yahoo.com/energy/articles/vista-energy-sab-cv-vist-011038909.html"
-      },
-      {
-        "title": "Commodity Prices Can Rise While PDBC Lags. Blame the Futures Roll",
-        "link": "https://finance.yahoo.com/markets/commodities/articles/commodity-prices-rise-while-pdbc-010309572.html"
-      },
-      {
-        "title": "FTAI Aviation Ltd. Q3 2026 Earnings Call Summary",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/ftai-aviation-ltd-q3-2026-222816450.html"
-      }
-    ]
-  },
-  {
     "date": "2026-10-31",
     "updated_at": "2026-10-31T01:44:52Z",
     "wti": {
@@ -261,6 +206,60 @@
       {
         "title": "Goldman Sachs resets oil price target for 2027",
         "link": "https://finance.yahoo.com/energy/articles/goldman-sachs-resets-oil-price-021700296.html"
+      }
+    ]
+  },
+  {
+    "date": "2026-11-04",
+    "updated_at": "2026-11-04T02:37:40Z",
+    "wti": {
+      "close": 95.18,
+      "prev": 96.09,
+      "chg_pct": -0.95,
+      "chg_abs": -0.91,
+      "drop_streak": 3,
+      "ma20_dev": -3.34,
+      "range_pos": 39.3,
+      "volume_ratio": 0.05,
+      "reasons": [
+        "较前一交易日下跌 0.95%（-0.91 美元）。",
+        "已连续 3 个交易日走低，短期弱势延续。",
+        "当前价格低于 20 日均线约 3.3%，短线偏弱。",
+        "成交量明显萎缩，市场观望情绪浓。"
+      ]
+    },
+    "brent": {
+      "close": 102.8,
+      "prev": 103.6,
+      "chg_pct": -0.77,
+      "chg_abs": -0.8,
+      "drop_streak": 3,
+      "ma20_dev": -6.07,
+      "range_pos": 32.9,
+      "volume_ratio": 0.03,
+      "reasons": [
+        "较前一交易日下跌 0.77%（-0.80 美元）。",
+        "已连续 3 个交易日走低，短期弱势延续。",
+        "当前价格低于 20 日均线约 6.1%，短线偏弱。",
+        "成交量明显萎缩，市场观望情绪浓。"
+      ]
+    },
+    "news": [
+      {
+        "title": "Stock Market Election Night: Tech, AI Stocks Lead Futures Lower As ; AMD, Arista Rise On Earnings",
+        "link": "https://finance.yahoo.com/m/e5be454d-07fd-3d94-8114-a4e8ff2910de/stock-market-election-night%3A.html"
+      },
+      {
+        "title": "Suncor Profit More Than Doubles as Cash Flow Hits Record High",
+        "link": "https://finance.yahoo.com/energy/articles/suncor-profit-more-doubles-cash-014813868.html"
+      },
+      {
+        "title": "Gold holds near $3,930 as Iran talks, U.S. midterms shape outlook",
+        "link": "https://finance.yahoo.com/markets/commodities/articles/gold-holds-near-3-930-013232167.html"
+      },
+      {
+        "title": "U.S. stock futures slide as Dems lead early midterm results; AMD rises",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/u-stock-futures-steady-midterms-010643358.html"
       }
     ]
   }
