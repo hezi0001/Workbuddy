@@ -1,57 +1,5 @@
 [
   {
-    "date": "2026-11-02",
-    "updated_at": "2026-11-02T01:44:11Z",
-    "wti": {
-      "close": 101.64,
-      "prev": 104.12,
-      "chg_pct": -2.38,
-      "chg_abs": -2.48,
-      "drop_streak": 1,
-      "ma20_dev": 3.66,
-      "range_pos": 76.1,
-      "volume_ratio": 0.04,
-      "reasons": [
-        "较前一交易日下跌 2.38%（-2.48 美元）。",
-        "当前价格高于 20 日均线约 3.7%，短线偏强。",
-        "处于近两月价格区间高位，注意回落风险。",
-        "成交量明显萎缩，市场观望情绪浓。"
-      ]
-    },
-    "brent": {
-      "close": 111.05,
-      "prev": 117.64,
-      "chg_pct": -5.6,
-      "chg_abs": -6.59,
-      "drop_streak": 1,
-      "ma20_dev": 1.43,
-      "range_pos": 71.3,
-      "volume_ratio": 0.02,
-      "reasons": [
-        "较前一交易日下跌 5.60%（-6.59 美元）。",
-        "成交量明显萎缩，市场观望情绪浓。"
-      ]
-    },
-    "news": [
-      {
-        "title": "Gold rebounds toward $3,900 as dip buyers emerge, Iran risks persist",
-        "link": "https://finance.yahoo.com/markets/commodities/articles/gold-rebounds-toward-3-900-013553389.html"
-      },
-      {
-        "title": "Oil slips more than 1% as talks continue on ending Iran war",
-        "link": "https://finance.yahoo.com/energy/articles/oil-slips-more-1-talks-231257365.html"
-      },
-      {
-        "title": "Earnings to watch: California Resources (CRC) reports Q3 results tomorrow",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/earnings-watch-california-resources-crc-230407292.html"
-      },
-      {
-        "title": "3 Catalysts Cramer Says Could Extend the Nasdaq Sell-Off This Week",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/3-catalysts-cramer-says-could-223812237.html"
-      }
-    ]
-  },
-  {
     "date": "2026-11-03",
     "updated_at": "2026-11-03T03:39:32Z",
     "wti": {
@@ -264,6 +212,58 @@
       {
         "title": "Nikkei Falls 5.9%, Dragged by Chip Stocks",
         "link": "https://finance.yahoo.com/m/69e6c53d-ef6d-3d6d-9e3f-7b97870fd3dc/nikkei-falls-5.9%25%2C-dragged-by.html"
+      }
+    ]
+  },
+  {
+    "date": "2026-11-07",
+    "updated_at": "2026-11-07T02:17:08Z",
+    "wti": {
+      "close": 90.34,
+      "prev": 90.52,
+      "chg_pct": -0.2,
+      "chg_abs": -0.18,
+      "drop_streak": 1,
+      "ma20_dev": -7.81,
+      "range_pos": 12.5,
+      "volume_ratio": 0.83,
+      "reasons": [
+        "较前一交易日下跌 0.20%（-0.18 美元）。",
+        "当前价格低于 20 日均线约 7.8%，短线偏弱。",
+        "处于近两月价格区间低位，下方空间相对有限。"
+      ]
+    },
+    "brent": {
+      "close": 97.76,
+      "prev": 98.29,
+      "chg_pct": -0.54,
+      "chg_abs": -0.53,
+      "drop_streak": 1,
+      "ma20_dev": -9.81,
+      "range_pos": 13.6,
+      "volume_ratio": 0.9,
+      "reasons": [
+        "较前一交易日下跌 0.54%（-0.53 美元）。",
+        "当前价格低于 20 日均线约 9.8%，短线偏弱。",
+        "处于近两月价格区间低位，下方空间相对有限。"
+      ]
+    },
+    "news": [
+      {
+        "title": "Petrus Resources Ltd (PTRUF) (Q3 2026) Earnings Call Highlights: Record Production and Surging ...",
+        "link": "https://finance.yahoo.com/energy/articles/petrus-resources-ltd-ptruf-q3-011709499.html"
+      },
+      {
+        "title": "Basin rig count up one as prices drop",
+        "link": "https://finance.yahoo.com/energy/articles/basin-rig-count-one-prices-010100109.html"
+      },
+      {
+        "title": "Gas Could Drop to $3.65/Gallon, Says Top Oil Analyst, Citing ‘Very High’ Political Pressure Following Republican Midterm Setbacks",
+        "link": "https://finance.yahoo.com/energy/articles/gas-could-drop-3-65-003006160.html"
+      },
+      {
+        "title": "Canadian Natural Resources (TSX:CNQ) Q3 Results Mask A One Off Profit Boost",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/canadian-natural-resources-tsx-cnq-231600341.html"
       }
     ]
   }
