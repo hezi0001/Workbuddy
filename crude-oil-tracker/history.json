@@ -1,57 +1,5 @@
 [
   {
-    "date": "2026-11-03",
-    "updated_at": "2026-11-03T03:39:32Z",
-    "wti": {
-      "close": 96.61,
-      "prev": 96.46,
-      "chg_pct": 0.16,
-      "chg_abs": 0.15,
-      "drop_streak": 0,
-      "ma20_dev": -1.57,
-      "range_pos": 47.5,
-      "volume_ratio": 0.07,
-      "reasons": [
-        "较前一交易日上涨 0.16%（+0.15 美元）。",
-        "成交量明显萎缩，市场观望情绪浓。"
-      ]
-    },
-    "brent": {
-      "close": 104.73,
-      "prev": 104.77,
-      "chg_pct": -0.04,
-      "chg_abs": -0.04,
-      "drop_streak": 2,
-      "ma20_dev": -4.25,
-      "range_pos": 41.6,
-      "volume_ratio": 0.07,
-      "reasons": [
-        "较前一交易日下跌 0.04%（-0.04 美元）。",
-        "已连续 2 个交易日走低，短期弱势延续。",
-        "当前价格低于 20 日均线约 4.2%，短线偏弱。",
-        "成交量明显萎缩，市场观望情绪浓。"
-      ]
-    },
-    "news": [
-      {
-        "title": "Diamondback Energy Raises Dividend and 2026 Oil Production Outlook",
-        "link": "https://finance.yahoo.com/energy/articles/diamondback-energy-raises-dividend-2026-031118758.html"
-      },
-      {
-        "title": "Stocks mostly down as AI concerns top plunge in oil prices",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/stocks-mostly-down-ai-concerns-025549205.html"
-      },
-      {
-        "title": "Asian stocks retreat ahead of US midterms, oil steadies",
-        "link": "https://finance.yahoo.com/markets/world-indices/articles/asian-stocks-retreat-ahead-us-022420502.html"
-      },
-      {
-        "title": "Goldman Sachs resets oil price target for 2027",
-        "link": "https://finance.yahoo.com/energy/articles/goldman-sachs-resets-oil-price-021700296.html"
-      }
-    ]
-  },
-  {
     "date": "2026-11-04",
     "updated_at": "2026-11-04T02:37:40Z",
     "wti": {
@@ -264,6 +212,58 @@
       {
         "title": "Canadian Natural Resources (TSX:CNQ) Q3 Results Mask A One Off Profit Boost",
         "link": "https://finance.yahoo.com/markets/stocks/articles/canadian-natural-resources-tsx-cnq-231600341.html"
+      }
+    ]
+  },
+  {
+    "date": "2026-11-08",
+    "updated_at": "2026-11-08T01:45:00Z",
+    "wti": {
+      "close": 90.83,
+      "prev": 90.52,
+      "chg_pct": 0.34,
+      "chg_abs": 0.31,
+      "drop_streak": 0,
+      "ma20_dev": -7.33,
+      "range_pos": 15.3,
+      "volume_ratio": 1.09,
+      "reasons": [
+        "较前一交易日上涨 0.34%（+0.31 美元）。",
+        "当前价格低于 20 日均线约 7.3%，短线偏弱。",
+        "处于近两月价格区间低位，下方空间相对有限。"
+      ]
+    },
+    "brent": {
+      "close": 98.32,
+      "prev": 98.29,
+      "chg_pct": 0.03,
+      "chg_abs": 0.03,
+      "drop_streak": 0,
+      "ma20_dev": -9.31,
+      "range_pos": 16.1,
+      "volume_ratio": 1.23,
+      "reasons": [
+        "较前一交易日上涨 0.03%（+0.03 美元）。",
+        "当前价格低于 20 日均线约 9.3%，短线偏弱。",
+        "处于近两月价格区间低位，下方空间相对有限。"
+      ]
+    },
+    "news": [
+      {
+        "title": "AI stock selloff drives investors to China, India, and overlooked Asian sectors",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/ai-stock-selloff-drives-investors-013045557.html"
+      },
+      {
+        "title": "What Suzano (SUZ) Said on Its Q3 Earnings Call",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/suzano-suz-said-q3-earnings-001410791.html"
+      },
+      {
+        "title": "What Kimbell Royalty (KRP) Said on Its Q3 Earnings Call",
+        "link": "https://finance.yahoo.com/energy/articles/kimbell-royalty-krp-said-q3-221418425.html"
+      },
+      {
+        "title": "Devon Energy Stock And Other Oil Producers Facing Inflation Pressure",
+        "link": "https://finance.yahoo.com/energy/articles/devon-energy-stock-other-oil-221413315.html"
       }
     ]
   }
