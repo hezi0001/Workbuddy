@@ -1,59 +1,5 @@
 [
   {
-    "date": "2026-11-04",
-    "updated_at": "2026-11-04T02:37:40Z",
-    "wti": {
-      "close": 95.18,
-      "prev": 96.09,
-      "chg_pct": -0.95,
-      "chg_abs": -0.91,
-      "drop_streak": 3,
-      "ma20_dev": -3.34,
-      "range_pos": 39.3,
-      "volume_ratio": 0.05,
-      "reasons": [
-        "较前一交易日下跌 0.95%（-0.91 美元）。",
-        "已连续 3 个交易日走低，短期弱势延续。",
-        "当前价格低于 20 日均线约 3.3%，短线偏弱。",
-        "成交量明显萎缩，市场观望情绪浓。"
-      ]
-    },
-    "brent": {
-      "close": 102.8,
-      "prev": 103.6,
-      "chg_pct": -0.77,
-      "chg_abs": -0.8,
-      "drop_streak": 3,
-      "ma20_dev": -6.07,
-      "range_pos": 32.9,
-      "volume_ratio": 0.03,
-      "reasons": [
-        "较前一交易日下跌 0.77%（-0.80 美元）。",
-        "已连续 3 个交易日走低，短期弱势延续。",
-        "当前价格低于 20 日均线约 6.1%，短线偏弱。",
-        "成交量明显萎缩，市场观望情绪浓。"
-      ]
-    },
-    "news": [
-      {
-        "title": "Stock Market Election Night: Tech, AI Stocks Lead Futures Lower As ; AMD, Arista Rise On Earnings",
-        "link": "https://finance.yahoo.com/m/e5be454d-07fd-3d94-8114-a4e8ff2910de/stock-market-election-night%3A.html"
-      },
-      {
-        "title": "Suncor Profit More Than Doubles as Cash Flow Hits Record High",
-        "link": "https://finance.yahoo.com/energy/articles/suncor-profit-more-doubles-cash-014813868.html"
-      },
-      {
-        "title": "Gold holds near $3,930 as Iran talks, U.S. midterms shape outlook",
-        "link": "https://finance.yahoo.com/markets/commodities/articles/gold-holds-near-3-930-013232167.html"
-      },
-      {
-        "title": "U.S. stock futures slide as Dems lead early midterm results; AMD rises",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/u-stock-futures-steady-midterms-010643358.html"
-      }
-    ]
-  },
-  {
     "date": "2026-11-05",
     "updated_at": "2026-11-05T02:42:04Z",
     "wti": {
@@ -264,6 +210,60 @@
       {
         "title": "Devon Energy Stock And Other Oil Producers Facing Inflation Pressure",
         "link": "https://finance.yahoo.com/energy/articles/devon-energy-stock-other-oil-221413315.html"
+      }
+    ]
+  },
+  {
+    "date": "2026-11-09",
+    "updated_at": "2026-11-09T01:53:26Z",
+    "wti": {
+      "close": 90.52,
+      "prev": 90.83,
+      "chg_pct": -0.34,
+      "chg_abs": -0.31,
+      "drop_streak": 1,
+      "ma20_dev": -7.49,
+      "range_pos": 13.6,
+      "volume_ratio": 0.04,
+      "reasons": [
+        "较前一交易日下跌 0.34%（-0.31 美元）。",
+        "当前价格低于 20 日均线约 7.5%，短线偏弱。",
+        "处于近两月价格区间低位，下方空间相对有限。",
+        "成交量明显萎缩，市场观望情绪浓。"
+      ]
+    },
+    "brent": {
+      "close": 97.51,
+      "prev": 98.32,
+      "chg_pct": -0.82,
+      "chg_abs": -0.81,
+      "drop_streak": 1,
+      "ma20_dev": -9.68,
+      "range_pos": 12.6,
+      "volume_ratio": 0.04,
+      "reasons": [
+        "较前一交易日下跌 0.82%（-0.81 美元）。",
+        "当前价格低于 20 日均线约 9.7%，短线偏弱。",
+        "处于近两月价格区间低位，下方空间相对有限。",
+        "成交量明显萎缩，市场观望情绪浓。"
+      ]
+    },
+    "news": [
+      {
+        "title": "5 revealing analyst questions from Magnolia Oil & Gas’s Q3 2026 earnings call",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/5-revealing-analyst-questions-magnolia-011736256.html"
+      },
+      {
+        "title": "Oil prices dip as Trump says new Iran attacks ‘unlikely’ if talks progress",
+        "link": "https://finance.yahoo.com/energy/articles/oil-prices-dip-trump-says-005521345.html"
+      },
+      {
+        "title": "The top 5 analyst questions from Permian Resources’s Q3 2026 earnings call",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/top-5-analyst-questions-permian-220536252.html"
+      },
+      {
+        "title": "What Parex Resources (PXT) Said on Its Q3 Earnings Call",
+        "link": "https://finance.yahoo.com/energy/articles/parex-resources-pxt-said-q3-211406995.html"
       }
     ]
   }
