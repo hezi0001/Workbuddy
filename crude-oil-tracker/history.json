@@ -1,61 +1,5 @@
 [
   {
-    "date": "2026-11-05",
-    "updated_at": "2026-11-05T02:42:04Z",
-    "wti": {
-      "close": 87.43,
-      "prev": 88.12,
-      "chg_pct": -0.78,
-      "chg_abs": -0.69,
-      "drop_streak": 4,
-      "ma20_dev": -10.7,
-      "range_pos": 0.0,
-      "volume_ratio": 0.07,
-      "reasons": [
-        "较前一交易日下跌 0.78%（-0.69 美元）。",
-        "已连续 4 个交易日走低，短期弱势延续。",
-        "当前价格低于 20 日均线约 10.7%，短线偏弱。",
-        "处于近两月价格区间低位，下方空间相对有限。",
-        "成交量明显萎缩，市场观望情绪浓。"
-      ]
-    },
-    "brent": {
-      "close": 94.24,
-      "prev": 103.6,
-      "chg_pct": -9.03,
-      "chg_abs": -9.36,
-      "drop_streak": 3,
-      "ma20_dev": -13.56,
-      "range_pos": 0.0,
-      "volume_ratio": 0.04,
-      "reasons": [
-        "较前一交易日下跌 9.03%（-9.36 美元）。",
-        "已连续 3 个交易日走低，短期弱势延续。",
-        "当前价格低于 20 日均线约 13.6%，短线偏弱。",
-        "处于近两月价格区间低位，下方空间相对有限。",
-        "成交量明显萎缩，市场观望情绪浓。"
-      ]
-    },
-    "news": [
-      {
-        "title": "Dow Jones Futures Rise, Techs Fall; Apple, Microsoft, Amazon Flash Buy Signals In Postelection Rally",
-        "link": "https://finance.yahoo.com/m/a147bf9a-4218-3171-97a4-fb80fda211eb/dow-jones-futures-rise%2C-techs.html"
-      },
-      {
-        "title": "With Oil Prices Surging, Recycled Plastic is no Longer a Sustainability Pledge; it's an Economic Priority",
-        "link": "https://finance.yahoo.com/energy/articles/oil-prices-surging-recycled-plastic-013000882.html"
-      },
-      {
-        "title": "Oil holds steep losses after U.S. election fuels Iran peace hopes",
-        "link": "https://finance.yahoo.com/energy/articles/oil-holds-steep-losses-u-012632186.html"
-      },
-      {
-        "title": "SM Energy Co (SM) Q3 2026 Earnings Call Highlights: $400 Million in Synergies, $1. ...",
-        "link": "https://finance.yahoo.com/energy/articles/sm-energy-co-sm-q3-011132001.html"
-      }
-    ]
-  },
-  {
     "date": "2026-11-06",
     "updated_at": "2026-11-06T02:45:31Z",
     "wti": {
@@ -264,6 +208,62 @@
       {
         "title": "What Parex Resources (PXT) Said on Its Q3 Earnings Call",
         "link": "https://finance.yahoo.com/energy/articles/parex-resources-pxt-said-q3-211406995.html"
+      }
+    ]
+  },
+  {
+    "date": "2026-11-10",
+    "updated_at": "2026-11-10T04:15:42Z",
+    "wti": {
+      "close": 85.93,
+      "prev": 86.85,
+      "chg_pct": -1.06,
+      "chg_abs": -0.92,
+      "drop_streak": 2,
+      "ma20_dev": -11.65,
+      "range_pos": 0.0,
+      "volume_ratio": 0.04,
+      "reasons": [
+        "较前一交易日下跌 1.06%（-0.92 美元）。",
+        "已连续 2 个交易日走低，短期弱势延续。",
+        "当前价格低于 20 日均线约 11.6%，短线偏弱。",
+        "处于近两月价格区间低位，下方空间相对有限。",
+        "成交量明显萎缩，市场观望情绪浓。"
+      ]
+    },
+    "brent": {
+      "close": 91.71,
+      "prev": 92.57,
+      "chg_pct": -0.93,
+      "chg_abs": -0.86,
+      "drop_streak": 2,
+      "ma20_dev": -14.3,
+      "range_pos": 0.0,
+      "volume_ratio": 0.06,
+      "reasons": [
+        "较前一交易日下跌 0.93%（-0.86 美元）。",
+        "已连续 2 个交易日走低，短期弱势延续。",
+        "当前价格低于 20 日均线约 14.3%，短线偏弱。",
+        "处于近两月价格区间低位，下方空间相对有限。",
+        "成交量明显萎缩，市场观望情绪浓。"
+      ]
+    },
+    "news": [
+      {
+        "title": "Asian stocks rise after technology shares advance on Wall Street",
+        "link": "https://finance.yahoo.com/markets/world-indices/articles/asian-stocks-rise-technology-shares-034421581.html"
+      },
+      {
+        "title": "Occidental Cuts Debt to $10 Billion as Q3 Cash Flow Hits $4.1 Billion",
+        "link": "https://finance.yahoo.com/energy/articles/occidental-cuts-debt-10-billion-025000403.html"
+      },
+      {
+        "title": "Post-Midterms AI Selloff on Data-Center Buildout Concerns Appears Overdone",
+        "link": "https://finance.yahoo.com/m/05e86002-4c3f-3bfd-8c26-ccc94acf7ece/post-midterms-ai-selloff-on.html"
+      },
+      {
+        "title": "Tech leads Asian stock rally as traders track Wall St rebound",
+        "link": "https://finance.yahoo.com/markets/world-indices/articles/tech-leads-asian-stock-rally-023930562.html"
       }
     ]
   }
