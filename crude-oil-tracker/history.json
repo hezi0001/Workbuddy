@@ -1,59 +1,5 @@
 [
   {
-    "date": "2026-11-06",
-    "updated_at": "2026-11-06T02:45:31Z",
-    "wti": {
-      "close": 91.73,
-      "prev": 90.52,
-      "chg_pct": 1.34,
-      "chg_abs": 1.21,
-      "drop_streak": 0,
-      "ma20_dev": -6.45,
-      "range_pos": 20.4,
-      "volume_ratio": 0.04,
-      "reasons": [
-        "较前一交易日上涨 1.34%（+1.21 美元）。",
-        "当前价格低于 20 日均线约 6.5%，短线偏弱。",
-        "处于近两月价格区间低位，下方空间相对有限。",
-        "成交量明显萎缩，市场观望情绪浓。"
-      ]
-    },
-    "brent": {
-      "close": 99.98,
-      "prev": 98.29,
-      "chg_pct": 1.72,
-      "chg_abs": 1.69,
-      "drop_streak": 0,
-      "ma20_dev": -7.85,
-      "range_pos": 23.3,
-      "volume_ratio": 0.04,
-      "reasons": [
-        "较前一交易日上涨 1.72%（+1.69 美元）。",
-        "当前价格低于 20 日均线约 7.9%，短线偏弱。",
-        "处于近两月价格区间低位，下方空间相对有限。",
-        "成交量明显萎缩，市场观望情绪浓。"
-      ]
-    },
-    "news": [
-      {
-        "title": "JGB Yields Fall as Stock Markets Drop Sharply",
-        "link": "https://finance.yahoo.com/m/a91ae0bb-a8d0-3580-a96d-7322b3463a01/jgb-yields-fall-as-stock.html"
-      },
-      {
-        "title": "Oil rises on fresh tanker attacks, but heads for steep weekly loss",
-        "link": "https://finance.yahoo.com/energy/articles/oil-rises-fresh-tanker-attacks-012523801.html"
-      },
-      {
-        "title": "Oil Rebounds Toward $100 as Democrats’ Sweep Rattles Energy Stocks",
-        "link": "https://finance.yahoo.com/energy/articles/oil-rebounds-toward-100-democrats-010000633.html"
-      },
-      {
-        "title": "Nikkei Falls 5.9%, Dragged by Chip Stocks",
-        "link": "https://finance.yahoo.com/m/69e6c53d-ef6d-3d6d-9e3f-7b97870fd3dc/nikkei-falls-5.9%25%2C-dragged-by.html"
-      }
-    ]
-  },
-  {
     "date": "2026-11-07",
     "updated_at": "2026-11-07T02:17:08Z",
     "wti": {
@@ -264,6 +210,62 @@
       {
         "title": "Tech leads Asian stock rally as traders track Wall St rebound",
         "link": "https://finance.yahoo.com/markets/world-indices/articles/tech-leads-asian-stock-rally-023930562.html"
+      }
+    ]
+  },
+  {
+    "date": "2026-11-11",
+    "updated_at": "2026-11-11T02:08:37Z",
+    "wti": {
+      "close": 86.19,
+      "prev": 86.85,
+      "chg_pct": -0.76,
+      "chg_abs": -0.66,
+      "drop_streak": 2,
+      "ma20_dev": -11.39,
+      "range_pos": 0.0,
+      "volume_ratio": 0.02,
+      "reasons": [
+        "较前一交易日下跌 0.76%（-0.66 美元）。",
+        "已连续 2 个交易日走低，短期弱势延续。",
+        "当前价格低于 20 日均线约 11.4%，短线偏弱。",
+        "处于近两月价格区间低位，下方空间相对有限。",
+        "成交量明显萎缩，市场观望情绪浓。"
+      ]
+    },
+    "brent": {
+      "close": 91.91,
+      "prev": 92.57,
+      "chg_pct": -0.71,
+      "chg_abs": -0.66,
+      "drop_streak": 2,
+      "ma20_dev": -14.12,
+      "range_pos": 0.0,
+      "volume_ratio": 0.02,
+      "reasons": [
+        "较前一交易日下跌 0.71%（-0.66 美元）。",
+        "已连续 2 个交易日走低，短期弱势延续。",
+        "当前价格低于 20 日均线约 14.1%，短线偏弱。",
+        "处于近两月价格区间低位，下方空间相对有限。",
+        "成交量明显萎缩，市场观望情绪浓。"
+      ]
+    },
+    "news": [
+      {
+        "title": "Middle East Oil Flows Far from Normal Despite Signs of Oversupply",
+        "link": "https://finance.yahoo.com/energy/articles/middle-east-oil-flows-far-010000433.html"
+      },
+      {
+        "title": "Scope for Treasury Yields to Continue Rising",
+        "link": "https://finance.yahoo.com/m/16b0a6ba-40bb-3b98-831e-85b58e48988a/scope-for-treasury-yields-to.html"
+      },
+      {
+        "title": "Nikkei Flat, Supported by Bank, Pharma Stocks",
+        "link": "https://finance.yahoo.com/m/5f50917f-5a1f-3974-9055-d72307a2f402/nikkei-flat%2C-supported-by.html"
+      },
+      {
+        "title": "Morgan Stanley shares a definitive oil price verdict for 2027",
+        "link": "https://finance.yahoo.com/energy/articles/morgan-stanley-shares-definitive-oil-000000436.html"
       }
     ]
   }
