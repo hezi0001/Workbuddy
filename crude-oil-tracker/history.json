@@ -1,57 +1,5 @@
 [
   {
-    "date": "2026-11-07",
-    "updated_at": "2026-11-07T02:17:08Z",
-    "wti": {
-      "close": 90.34,
-      "prev": 90.52,
-      "chg_pct": -0.2,
-      "chg_abs": -0.18,
-      "drop_streak": 1,
-      "ma20_dev": -7.81,
-      "range_pos": 12.5,
-      "volume_ratio": 0.83,
-      "reasons": [
-        "较前一交易日下跌 0.20%（-0.18 美元）。",
-        "当前价格低于 20 日均线约 7.8%，短线偏弱。",
-        "处于近两月价格区间低位，下方空间相对有限。"
-      ]
-    },
-    "brent": {
-      "close": 97.76,
-      "prev": 98.29,
-      "chg_pct": -0.54,
-      "chg_abs": -0.53,
-      "drop_streak": 1,
-      "ma20_dev": -9.81,
-      "range_pos": 13.6,
-      "volume_ratio": 0.9,
-      "reasons": [
-        "较前一交易日下跌 0.54%（-0.53 美元）。",
-        "当前价格低于 20 日均线约 9.8%，短线偏弱。",
-        "处于近两月价格区间低位，下方空间相对有限。"
-      ]
-    },
-    "news": [
-      {
-        "title": "Petrus Resources Ltd (PTRUF) (Q3 2026) Earnings Call Highlights: Record Production and Surging ...",
-        "link": "https://finance.yahoo.com/energy/articles/petrus-resources-ltd-ptruf-q3-011709499.html"
-      },
-      {
-        "title": "Basin rig count up one as prices drop",
-        "link": "https://finance.yahoo.com/energy/articles/basin-rig-count-one-prices-010100109.html"
-      },
-      {
-        "title": "Gas Could Drop to $3.65/Gallon, Says Top Oil Analyst, Citing ‘Very High’ Political Pressure Following Republican Midterm Setbacks",
-        "link": "https://finance.yahoo.com/energy/articles/gas-could-drop-3-65-003006160.html"
-      },
-      {
-        "title": "Canadian Natural Resources (TSX:CNQ) Q3 Results Mask A One Off Profit Boost",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/canadian-natural-resources-tsx-cnq-231600341.html"
-      }
-    ]
-  },
-  {
     "date": "2026-11-08",
     "updated_at": "2026-11-08T01:45:00Z",
     "wti": {
@@ -266,6 +214,60 @@
       {
         "title": "Morgan Stanley shares a definitive oil price verdict for 2027",
         "link": "https://finance.yahoo.com/energy/articles/morgan-stanley-shares-definitive-oil-000000436.html"
+      }
+    ]
+  },
+  {
+    "date": "2026-11-12",
+    "updated_at": "2026-11-12T03:17:17Z",
+    "wti": {
+      "close": 85.68,
+      "prev": 86.53,
+      "chg_pct": -0.98,
+      "chg_abs": -0.85,
+      "drop_streak": 1,
+      "ma20_dev": -10.96,
+      "range_pos": 0.0,
+      "volume_ratio": 0.03,
+      "reasons": [
+        "较前一交易日下跌 0.98%（-0.85 美元）。",
+        "当前价格低于 20 日均线约 11.0%，短线偏弱。",
+        "处于近两月价格区间低位，下方空间相对有限。",
+        "成交量明显萎缩，市场观望情绪浓。"
+      ]
+    },
+    "brent": {
+      "close": 91.8,
+      "prev": 92.76,
+      "chg_pct": -1.03,
+      "chg_abs": -0.96,
+      "drop_streak": 1,
+      "ma20_dev": -13.1,
+      "range_pos": 1.2,
+      "volume_ratio": 0.02,
+      "reasons": [
+        "较前一交易日下跌 1.03%（-0.96 美元）。",
+        "当前价格低于 20 日均线约 13.1%，短线偏弱。",
+        "处于近两月价格区间低位，下方空间相对有限。",
+        "成交量明显萎缩，市场观望情绪浓。"
+      ]
+    },
+    "news": [
+      {
+        "title": "Meren Energy Inc (MRNFF) Q3 2026 Earnings Call Highlights: Strong Cash Flow, Raised Guidance ...",
+        "link": "https://finance.yahoo.com/energy/articles/meren-energy-inc-mrnff-q3-010541483.html"
+      },
+      {
+        "title": "Who Will Buy Sable’s Oil if California Keeps Closing Refineries?",
+        "link": "https://finance.yahoo.com/energy/articles/buy-sable-oil-california-keeps-010000630.html"
+      },
+      {
+        "title": "Nikkei Falls 0.2%, Dragged by Electronics Stocks",
+        "link": "https://finance.yahoo.com/m/4a640300-9952-3c3e-9a24-8cedc27ffe63/nikkei-falls-0.2%25%2C-dragged-by.html"
+      },
+      {
+        "title": "In the Year of AI, Tech Isn’t the Top Sector",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/ai-tech-isn-t-top-231203443.html"
       }
     ]
   }
