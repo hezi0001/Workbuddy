@@ -1,57 +1,5 @@
 [
   {
-    "date": "2026-11-08",
-    "updated_at": "2026-11-08T01:45:00Z",
-    "wti": {
-      "close": 90.83,
-      "prev": 90.52,
-      "chg_pct": 0.34,
-      "chg_abs": 0.31,
-      "drop_streak": 0,
-      "ma20_dev": -7.33,
-      "range_pos": 15.3,
-      "volume_ratio": 1.09,
-      "reasons": [
-        "较前一交易日上涨 0.34%（+0.31 美元）。",
-        "当前价格低于 20 日均线约 7.3%，短线偏弱。",
-        "处于近两月价格区间低位，下方空间相对有限。"
-      ]
-    },
-    "brent": {
-      "close": 98.32,
-      "prev": 98.29,
-      "chg_pct": 0.03,
-      "chg_abs": 0.03,
-      "drop_streak": 0,
-      "ma20_dev": -9.31,
-      "range_pos": 16.1,
-      "volume_ratio": 1.23,
-      "reasons": [
-        "较前一交易日上涨 0.03%（+0.03 美元）。",
-        "当前价格低于 20 日均线约 9.3%，短线偏弱。",
-        "处于近两月价格区间低位，下方空间相对有限。"
-      ]
-    },
-    "news": [
-      {
-        "title": "AI stock selloff drives investors to China, India, and overlooked Asian sectors",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/ai-stock-selloff-drives-investors-013045557.html"
-      },
-      {
-        "title": "What Suzano (SUZ) Said on Its Q3 Earnings Call",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/suzano-suz-said-q3-earnings-001410791.html"
-      },
-      {
-        "title": "What Kimbell Royalty (KRP) Said on Its Q3 Earnings Call",
-        "link": "https://finance.yahoo.com/energy/articles/kimbell-royalty-krp-said-q3-221418425.html"
-      },
-      {
-        "title": "Devon Energy Stock And Other Oil Producers Facing Inflation Pressure",
-        "link": "https://finance.yahoo.com/energy/articles/devon-energy-stock-other-oil-221413315.html"
-      }
-    ]
-  },
-  {
     "date": "2026-11-09",
     "updated_at": "2026-11-09T01:53:26Z",
     "wti": {
@@ -268,6 +216,60 @@
       {
         "title": "In the Year of AI, Tech Isn’t the Top Sector",
         "link": "https://finance.yahoo.com/markets/stocks/articles/ai-tech-isn-t-top-231203443.html"
+      }
+    ]
+  },
+  {
+    "date": "2026-11-13",
+    "updated_at": "2026-11-13T02:50:49Z",
+    "wti": {
+      "close": 88.58,
+      "prev": 88.74,
+      "chg_pct": -0.18,
+      "chg_abs": -0.16,
+      "drop_streak": 1,
+      "ma20_dev": -7.47,
+      "range_pos": 12.8,
+      "volume_ratio": 0.03,
+      "reasons": [
+        "较前一交易日下跌 0.18%（-0.16 美元）。",
+        "当前价格低于 20 日均线约 7.5%，短线偏弱。",
+        "处于近两月价格区间低位，下方空间相对有限。",
+        "成交量明显萎缩，市场观望情绪浓。"
+      ]
+    },
+    "brent": {
+      "close": 95.94,
+      "prev": 95.82,
+      "chg_pct": 0.13,
+      "chg_abs": 0.12,
+      "drop_streak": 0,
+      "ma20_dev": -8.75,
+      "range_pos": 17.0,
+      "volume_ratio": 0.03,
+      "reasons": [
+        "较前一交易日上涨 0.13%（+0.12 美元）。",
+        "当前价格低于 20 日均线约 8.7%，短线偏弱。",
+        "处于近两月价格区间低位，下方空间相对有限。",
+        "成交量明显萎缩，市场观望情绪浓。"
+      ]
+    },
+    "news": [
+      {
+        "title": "CITGO Posts Record $2.2 Billion Q3 Profit as Refining Margins Surge",
+        "link": "https://finance.yahoo.com/energy/articles/citgo-posts-record-2-2-023957378.html"
+      },
+      {
+        "title": "Gold languishes near 13-month low as $96 oil fuels bets on bigger Fed hikes",
+        "link": "https://finance.yahoo.com/markets/commodities/articles/gold-languishes-near-13-month-013344008.html"
+      },
+      {
+        "title": "What Codexis (CDXS) Said on Its Q3 Earnings Call",
+        "link": "https://finance.yahoo.com/healthcare/articles/codexis-cdxs-said-q3-earnings-011431903.html"
+      },
+      {
+        "title": "Oil prices hold gains as Trump sidelines Vance from Iran diplomacy",
+        "link": "https://finance.yahoo.com/energy/articles/oil-prices-hold-gains-trump-004137464.html"
       }
     ]
   }
