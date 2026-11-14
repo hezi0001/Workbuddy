@@ -1,59 +1,5 @@
 [
   {
-    "date": "2026-11-09",
-    "updated_at": "2026-11-09T01:53:26Z",
-    "wti": {
-      "close": 90.52,
-      "prev": 90.83,
-      "chg_pct": -0.34,
-      "chg_abs": -0.31,
-      "drop_streak": 1,
-      "ma20_dev": -7.49,
-      "range_pos": 13.6,
-      "volume_ratio": 0.04,
-      "reasons": [
-        "较前一交易日下跌 0.34%（-0.31 美元）。",
-        "当前价格低于 20 日均线约 7.5%，短线偏弱。",
-        "处于近两月价格区间低位，下方空间相对有限。",
-        "成交量明显萎缩，市场观望情绪浓。"
-      ]
-    },
-    "brent": {
-      "close": 97.51,
-      "prev": 98.32,
-      "chg_pct": -0.82,
-      "chg_abs": -0.81,
-      "drop_streak": 1,
-      "ma20_dev": -9.68,
-      "range_pos": 12.6,
-      "volume_ratio": 0.04,
-      "reasons": [
-        "较前一交易日下跌 0.82%（-0.81 美元）。",
-        "当前价格低于 20 日均线约 9.7%，短线偏弱。",
-        "处于近两月价格区间低位，下方空间相对有限。",
-        "成交量明显萎缩，市场观望情绪浓。"
-      ]
-    },
-    "news": [
-      {
-        "title": "5 revealing analyst questions from Magnolia Oil & Gas’s Q3 2026 earnings call",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/5-revealing-analyst-questions-magnolia-011736256.html"
-      },
-      {
-        "title": "Oil prices dip as Trump says new Iran attacks ‘unlikely’ if talks progress",
-        "link": "https://finance.yahoo.com/energy/articles/oil-prices-dip-trump-says-005521345.html"
-      },
-      {
-        "title": "The top 5 analyst questions from Permian Resources’s Q3 2026 earnings call",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/top-5-analyst-questions-permian-220536252.html"
-      },
-      {
-        "title": "What Parex Resources (PXT) Said on Its Q3 Earnings Call",
-        "link": "https://finance.yahoo.com/energy/articles/parex-resources-pxt-said-q3-211406995.html"
-      }
-    ]
-  },
-  {
     "date": "2026-11-10",
     "updated_at": "2026-11-10T04:15:42Z",
     "wti": {
@@ -270,6 +216,59 @@
       {
         "title": "Oil prices hold gains as Trump sidelines Vance from Iran diplomacy",
         "link": "https://finance.yahoo.com/energy/articles/oil-prices-hold-gains-trump-004137464.html"
+      }
+    ]
+  },
+  {
+    "date": "2026-11-14",
+    "updated_at": "2026-11-14T02:38:28Z",
+    "wti": {
+      "close": 88.92,
+      "prev": 88.74,
+      "chg_pct": 0.2,
+      "chg_abs": 0.18,
+      "drop_streak": 0,
+      "ma20_dev": -7.13,
+      "range_pos": 14.6,
+      "volume_ratio": 0.61,
+      "reasons": [
+        "较前一交易日上涨 0.20%（+0.18 美元）。",
+        "当前价格低于 20 日均线约 7.1%，短线偏弱。",
+        "处于近两月价格区间低位，下方空间相对有限。"
+      ]
+    },
+    "brent": {
+      "close": 96.08,
+      "prev": 95.82,
+      "chg_pct": 0.27,
+      "chg_abs": 0.26,
+      "drop_streak": 0,
+      "ma20_dev": -8.62,
+      "range_pos": 17.6,
+      "volume_ratio": 0.54,
+      "reasons": [
+        "较前一交易日上涨 0.27%（+0.26 美元）。",
+        "当前价格低于 20 日均线约 8.6%，短线偏弱。",
+        "处于近两月价格区间低位，下方空间相对有限。",
+        "成交量明显萎缩，市场观望情绪浓。"
+      ]
+    },
+    "news": [
+      {
+        "title": "Oil India Ltd (BOM:533106) (Q2 2027) Earnings Call Highlights: Record Half-Year EBITDA of ...",
+        "link": "https://finance.yahoo.com/energy/articles/oil-india-ltd-bom-533106-010136397.html"
+      },
+      {
+        "title": "Basin rig count up two as prices decline",
+        "link": "https://finance.yahoo.com/energy/articles/basin-rig-count-two-prices-010100982.html"
+      },
+      {
+        "title": "CES Energy Solutions Corp (CESDF) (Q3 2026) Earnings Call Highlights: Record Revenue and $1 ...",
+        "link": "https://finance.yahoo.com/energy/articles/ces-energy-solutions-corp-cesdf-230432089.html"
+      },
+      {
+        "title": "Prairie Operating Co (PROP) Q3 2026 Earnings Call Highlights: Revenue Jumps 31% and Adjusted ...",
+        "link": "https://finance.yahoo.com/energy/articles/prairie-operating-co-prop-q3-230316895.html"
       }
     ]
   }
