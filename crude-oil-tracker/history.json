@@ -1,61 +1,5 @@
 [
   {
-    "date": "2026-11-10",
-    "updated_at": "2026-11-10T04:15:42Z",
-    "wti": {
-      "close": 85.93,
-      "prev": 86.85,
-      "chg_pct": -1.06,
-      "chg_abs": -0.92,
-      "drop_streak": 2,
-      "ma20_dev": -11.65,
-      "range_pos": 0.0,
-      "volume_ratio": 0.04,
-      "reasons": [
-        "较前一交易日下跌 1.06%（-0.92 美元）。",
-        "已连续 2 个交易日走低，短期弱势延续。",
-        "当前价格低于 20 日均线约 11.6%，短线偏弱。",
-        "处于近两月价格区间低位，下方空间相对有限。",
-        "成交量明显萎缩，市场观望情绪浓。"
-      ]
-    },
-    "brent": {
-      "close": 91.71,
-      "prev": 92.57,
-      "chg_pct": -0.93,
-      "chg_abs": -0.86,
-      "drop_streak": 2,
-      "ma20_dev": -14.3,
-      "range_pos": 0.0,
-      "volume_ratio": 0.06,
-      "reasons": [
-        "较前一交易日下跌 0.93%（-0.86 美元）。",
-        "已连续 2 个交易日走低，短期弱势延续。",
-        "当前价格低于 20 日均线约 14.3%，短线偏弱。",
-        "处于近两月价格区间低位，下方空间相对有限。",
-        "成交量明显萎缩，市场观望情绪浓。"
-      ]
-    },
-    "news": [
-      {
-        "title": "Asian stocks rise after technology shares advance on Wall Street",
-        "link": "https://finance.yahoo.com/markets/world-indices/articles/asian-stocks-rise-technology-shares-034421581.html"
-      },
-      {
-        "title": "Occidental Cuts Debt to $10 Billion as Q3 Cash Flow Hits $4.1 Billion",
-        "link": "https://finance.yahoo.com/energy/articles/occidental-cuts-debt-10-billion-025000403.html"
-      },
-      {
-        "title": "Post-Midterms AI Selloff on Data-Center Buildout Concerns Appears Overdone",
-        "link": "https://finance.yahoo.com/m/05e86002-4c3f-3bfd-8c26-ccc94acf7ece/post-midterms-ai-selloff-on.html"
-      },
-      {
-        "title": "Tech leads Asian stock rally as traders track Wall St rebound",
-        "link": "https://finance.yahoo.com/markets/world-indices/articles/tech-leads-asian-stock-rally-023930562.html"
-      }
-    ]
-  },
-  {
     "date": "2026-11-11",
     "updated_at": "2026-11-11T02:08:37Z",
     "wti": {
@@ -269,6 +213,58 @@
       {
         "title": "Prairie Operating Co (PROP) Q3 2026 Earnings Call Highlights: Revenue Jumps 31% and Adjusted ...",
         "link": "https://finance.yahoo.com/energy/articles/prairie-operating-co-prop-q3-230316895.html"
+      }
+    ]
+  },
+  {
+    "date": "2026-11-15",
+    "updated_at": "2026-11-15T02:03:48Z",
+    "wti": {
+      "close": 88.56,
+      "prev": 88.74,
+      "chg_pct": -0.2,
+      "chg_abs": -0.18,
+      "drop_streak": 1,
+      "ma20_dev": -7.49,
+      "range_pos": 12.7,
+      "volume_ratio": 0.91,
+      "reasons": [
+        "较前一交易日下跌 0.20%（-0.18 美元）。",
+        "当前价格低于 20 日均线约 7.5%，短线偏弱。",
+        "处于近两月价格区间低位，下方空间相对有限。"
+      ]
+    },
+    "brent": {
+      "close": 95.84,
+      "prev": 95.82,
+      "chg_pct": 0.02,
+      "chg_abs": 0.02,
+      "drop_streak": 0,
+      "ma20_dev": -8.84,
+      "range_pos": 16.6,
+      "volume_ratio": 0.86,
+      "reasons": [
+        "较前一交易日上涨 0.02%（+0.02 美元）。",
+        "当前价格低于 20 日均线约 8.8%，短线偏弱。",
+        "处于近两月价格区间低位，下方空间相对有限。"
+      ]
+    },
+    "news": [
+      {
+        "title": "What Citi Expects From Alibaba (BABA) Before November 19",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/citi-expects-alibaba-baba-november-191647796.html"
+      },
+      {
+        "title": "Viper Energy (VNOM) Just Had a Strong Q3. But is the Stock at Risk Now That the Blue Wave is Here?",
+        "link": "https://finance.yahoo.com/energy/articles/viper-energy-vnom-just-had-172356519.html"
+      },
+      {
+        "title": "APA Has Rallied by 91% This Year. Here’s Why You Should Take Some Chips Off The Table",
+        "link": "https://finance.yahoo.com/energy/articles/apa-rallied-91-why-chips-172343925.html"
+      },
+      {
+        "title": "Here is Why Range Resources (RRC) Could be Vulnerable to a Sharp Correction",
+        "link": "https://finance.yahoo.com/energy/articles/why-range-resources-rrc-could-172230397.html"
       }
     ]
   }
