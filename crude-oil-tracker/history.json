@@ -1,61 +1,5 @@
 [
   {
-    "date": "2026-11-11",
-    "updated_at": "2026-11-11T02:08:37Z",
-    "wti": {
-      "close": 86.19,
-      "prev": 86.85,
-      "chg_pct": -0.76,
-      "chg_abs": -0.66,
-      "drop_streak": 2,
-      "ma20_dev": -11.39,
-      "range_pos": 0.0,
-      "volume_ratio": 0.02,
-      "reasons": [
-        "较前一交易日下跌 0.76%（-0.66 美元）。",
-        "已连续 2 个交易日走低，短期弱势延续。",
-        "当前价格低于 20 日均线约 11.4%，短线偏弱。",
-        "处于近两月价格区间低位，下方空间相对有限。",
-        "成交量明显萎缩，市场观望情绪浓。"
-      ]
-    },
-    "brent": {
-      "close": 91.91,
-      "prev": 92.57,
-      "chg_pct": -0.71,
-      "chg_abs": -0.66,
-      "drop_streak": 2,
-      "ma20_dev": -14.12,
-      "range_pos": 0.0,
-      "volume_ratio": 0.02,
-      "reasons": [
-        "较前一交易日下跌 0.71%（-0.66 美元）。",
-        "已连续 2 个交易日走低，短期弱势延续。",
-        "当前价格低于 20 日均线约 14.1%，短线偏弱。",
-        "处于近两月价格区间低位，下方空间相对有限。",
-        "成交量明显萎缩，市场观望情绪浓。"
-      ]
-    },
-    "news": [
-      {
-        "title": "Middle East Oil Flows Far from Normal Despite Signs of Oversupply",
-        "link": "https://finance.yahoo.com/energy/articles/middle-east-oil-flows-far-010000433.html"
-      },
-      {
-        "title": "Scope for Treasury Yields to Continue Rising",
-        "link": "https://finance.yahoo.com/m/16b0a6ba-40bb-3b98-831e-85b58e48988a/scope-for-treasury-yields-to.html"
-      },
-      {
-        "title": "Nikkei Flat, Supported by Bank, Pharma Stocks",
-        "link": "https://finance.yahoo.com/m/5f50917f-5a1f-3974-9055-d72307a2f402/nikkei-flat%2C-supported-by.html"
-      },
-      {
-        "title": "Morgan Stanley shares a definitive oil price verdict for 2027",
-        "link": "https://finance.yahoo.com/energy/articles/morgan-stanley-shares-definitive-oil-000000436.html"
-      }
-    ]
-  },
-  {
     "date": "2026-11-12",
     "updated_at": "2026-11-12T03:17:17Z",
     "wti": {
@@ -265,6 +209,61 @@
       {
         "title": "Here is Why Range Resources (RRC) Could be Vulnerable to a Sharp Correction",
         "link": "https://finance.yahoo.com/energy/articles/why-range-resources-rrc-could-172230397.html"
+      }
+    ]
+  },
+  {
+    "date": "2026-11-16",
+    "updated_at": "2026-11-16T02:20:36Z",
+    "wti": {
+      "close": 88.13,
+      "prev": 88.56,
+      "chg_pct": -0.49,
+      "chg_abs": -0.43,
+      "drop_streak": 2,
+      "ma20_dev": -7.19,
+      "range_pos": 10.6,
+      "volume_ratio": 0.03,
+      "reasons": [
+        "较前一交易日下跌 0.49%（-0.43 美元）。",
+        "已连续 2 个交易日走低，短期弱势延续。",
+        "当前价格低于 20 日均线约 7.2%，短线偏弱。",
+        "处于近两月价格区间低位，下方空间相对有限。",
+        "成交量明显萎缩，市场观望情绪浓。"
+      ]
+    },
+    "brent": {
+      "close": 95.2,
+      "prev": 95.84,
+      "chg_pct": -0.67,
+      "chg_abs": -0.64,
+      "drop_streak": 1,
+      "ma20_dev": -8.83,
+      "range_pos": 14.2,
+      "volume_ratio": 0.02,
+      "reasons": [
+        "较前一交易日下跌 0.67%（-0.64 美元）。",
+        "当前价格低于 20 日均线约 8.8%，短线偏弱。",
+        "处于近两月价格区间低位，下方空间相对有限。",
+        "成交量明显萎缩，市场观望情绪浓。"
+      ]
+    },
+    "news": [
+      {
+        "title": "Gold falls below $3,900 as December Fed hike bets build, Warsh in focus",
+        "link": "https://finance.yahoo.com/markets/commodities/articles/gold-falls-below-3-900-021343440.html"
+      },
+      {
+        "title": "Dow, S&P 500, Nasdaq Futures Edge Lower As Markets Brace For Nvidia Earnings, Anthropic IPO, Fed Minutes: SMMT, NBIS, HELP, MSTR In Focus",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/dow-p-500-nasdaq-futures-020421221.html"
+      },
+      {
+        "title": "Japan's economy contracts slightly in the latest quarter as oil prices remain high",
+        "link": "https://finance.yahoo.com/economy/articles/japans-economy-contracts-slightly-latest-020258803.html"
+      },
+      {
+        "title": "Oil prices fall on expectations of coming supply surplus",
+        "link": "https://finance.yahoo.com/energy/articles/oil-prices-fall-expectations-coming-020042042.html"
       }
     ]
   }
