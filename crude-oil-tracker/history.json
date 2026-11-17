@@ -1,59 +1,5 @@
 [
   {
-    "date": "2026-11-12",
-    "updated_at": "2026-11-12T03:17:17Z",
-    "wti": {
-      "close": 85.68,
-      "prev": 86.53,
-      "chg_pct": -0.98,
-      "chg_abs": -0.85,
-      "drop_streak": 1,
-      "ma20_dev": -10.96,
-      "range_pos": 0.0,
-      "volume_ratio": 0.03,
-      "reasons": [
-        "较前一交易日下跌 0.98%（-0.85 美元）。",
-        "当前价格低于 20 日均线约 11.0%，短线偏弱。",
-        "处于近两月价格区间低位，下方空间相对有限。",
-        "成交量明显萎缩，市场观望情绪浓。"
-      ]
-    },
-    "brent": {
-      "close": 91.8,
-      "prev": 92.76,
-      "chg_pct": -1.03,
-      "chg_abs": -0.96,
-      "drop_streak": 1,
-      "ma20_dev": -13.1,
-      "range_pos": 1.2,
-      "volume_ratio": 0.02,
-      "reasons": [
-        "较前一交易日下跌 1.03%（-0.96 美元）。",
-        "当前价格低于 20 日均线约 13.1%，短线偏弱。",
-        "处于近两月价格区间低位，下方空间相对有限。",
-        "成交量明显萎缩，市场观望情绪浓。"
-      ]
-    },
-    "news": [
-      {
-        "title": "Meren Energy Inc (MRNFF) Q3 2026 Earnings Call Highlights: Strong Cash Flow, Raised Guidance ...",
-        "link": "https://finance.yahoo.com/energy/articles/meren-energy-inc-mrnff-q3-010541483.html"
-      },
-      {
-        "title": "Who Will Buy Sable’s Oil if California Keeps Closing Refineries?",
-        "link": "https://finance.yahoo.com/energy/articles/buy-sable-oil-california-keeps-010000630.html"
-      },
-      {
-        "title": "Nikkei Falls 0.2%, Dragged by Electronics Stocks",
-        "link": "https://finance.yahoo.com/m/4a640300-9952-3c3e-9a24-8cedc27ffe63/nikkei-falls-0.2%25%2C-dragged-by.html"
-      },
-      {
-        "title": "In the Year of AI, Tech Isn’t the Top Sector",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/ai-tech-isn-t-top-231203443.html"
-      }
-    ]
-  },
-  {
     "date": "2026-11-13",
     "updated_at": "2026-11-13T02:50:49Z",
     "wti": {
@@ -264,6 +210,62 @@
       {
         "title": "Oil prices fall on expectations of coming supply surplus",
         "link": "https://finance.yahoo.com/energy/articles/oil-prices-fall-expectations-coming-020042042.html"
+      }
+    ]
+  },
+  {
+    "date": "2026-11-17",
+    "updated_at": "2026-11-17T04:43:21Z",
+    "wti": {
+      "close": 85.05,
+      "prev": 85.72,
+      "chg_pct": -0.78,
+      "chg_abs": -0.67,
+      "drop_streak": 3,
+      "ma20_dev": -9.52,
+      "range_pos": 0.0,
+      "volume_ratio": 0.04,
+      "reasons": [
+        "较前一交易日下跌 0.78%（-0.67 美元）。",
+        "已连续 3 个交易日走低，短期弱势延续。",
+        "当前价格低于 20 日均线约 9.5%，短线偏弱。",
+        "处于近两月价格区间低位，下方空间相对有限。",
+        "成交量明显萎缩，市场观望情绪浓。"
+      ]
+    },
+    "brent": {
+      "close": 91.71,
+      "prev": 92.44,
+      "chg_pct": -0.79,
+      "chg_abs": -0.73,
+      "drop_streak": 2,
+      "ma20_dev": -11.33,
+      "range_pos": 0.8,
+      "volume_ratio": 0.03,
+      "reasons": [
+        "较前一交易日下跌 0.79%（-0.73 美元）。",
+        "已连续 2 个交易日走低，短期弱势延续。",
+        "当前价格低于 20 日均线约 11.3%，短线偏弱。",
+        "处于近两月价格区间低位，下方空间相对有限。",
+        "成交量明显萎缩，市场观望情绪浓。"
+      ]
+    },
+    "news": [
+      {
+        "title": "Asian shares decline following stocks tumbled on Wall Street",
+        "link": "https://finance.yahoo.com/markets/world-indices/articles/asian-shares-decline-following-stocks-040148315.html"
+      },
+      {
+        "title": "Paz Retail And Energy (TASE:PAZ) Stock Looks Fully Valued After Oil Price Talks",
+        "link": "https://finance.yahoo.com/energy/articles/paz-retail-energy-tase-paz-021235902.html"
+      },
+      {
+        "title": "Canadian Natural Resources (TSX:CNQ) Plans To Acquire Advantage Energy",
+        "link": "https://finance.yahoo.com/energy/articles/canadian-natural-resources-tsx-cnq-020851221.html"
+      },
+      {
+        "title": "Singapore non-oil exports jump 79.8% in October",
+        "link": "https://finance.yahoo.com/economy/articles/singapore-non-oil-exports-jump-012228559.html"
       }
     ]
   }
