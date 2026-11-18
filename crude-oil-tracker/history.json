@@ -1,59 +1,5 @@
 [
   {
-    "date": "2026-11-13",
-    "updated_at": "2026-11-13T02:50:49Z",
-    "wti": {
-      "close": 88.58,
-      "prev": 88.74,
-      "chg_pct": -0.18,
-      "chg_abs": -0.16,
-      "drop_streak": 1,
-      "ma20_dev": -7.47,
-      "range_pos": 12.8,
-      "volume_ratio": 0.03,
-      "reasons": [
-        "较前一交易日下跌 0.18%（-0.16 美元）。",
-        "当前价格低于 20 日均线约 7.5%，短线偏弱。",
-        "处于近两月价格区间低位，下方空间相对有限。",
-        "成交量明显萎缩，市场观望情绪浓。"
-      ]
-    },
-    "brent": {
-      "close": 95.94,
-      "prev": 95.82,
-      "chg_pct": 0.13,
-      "chg_abs": 0.12,
-      "drop_streak": 0,
-      "ma20_dev": -8.75,
-      "range_pos": 17.0,
-      "volume_ratio": 0.03,
-      "reasons": [
-        "较前一交易日上涨 0.13%（+0.12 美元）。",
-        "当前价格低于 20 日均线约 8.7%，短线偏弱。",
-        "处于近两月价格区间低位，下方空间相对有限。",
-        "成交量明显萎缩，市场观望情绪浓。"
-      ]
-    },
-    "news": [
-      {
-        "title": "CITGO Posts Record $2.2 Billion Q3 Profit as Refining Margins Surge",
-        "link": "https://finance.yahoo.com/energy/articles/citgo-posts-record-2-2-023957378.html"
-      },
-      {
-        "title": "Gold languishes near 13-month low as $96 oil fuels bets on bigger Fed hikes",
-        "link": "https://finance.yahoo.com/markets/commodities/articles/gold-languishes-near-13-month-013344008.html"
-      },
-      {
-        "title": "What Codexis (CDXS) Said on Its Q3 Earnings Call",
-        "link": "https://finance.yahoo.com/healthcare/articles/codexis-cdxs-said-q3-earnings-011431903.html"
-      },
-      {
-        "title": "Oil prices hold gains as Trump sidelines Vance from Iran diplomacy",
-        "link": "https://finance.yahoo.com/energy/articles/oil-prices-hold-gains-trump-004137464.html"
-      }
-    ]
-  },
-  {
     "date": "2026-11-14",
     "updated_at": "2026-11-14T02:38:28Z",
     "wti": {
@@ -266,6 +212,60 @@
       {
         "title": "Singapore non-oil exports jump 79.8% in October",
         "link": "https://finance.yahoo.com/economy/articles/singapore-non-oil-exports-jump-012228559.html"
+      }
+    ]
+  },
+  {
+    "date": "2026-11-18",
+    "updated_at": "2026-11-18T03:48:50Z",
+    "wti": {
+      "close": 85.03,
+      "prev": 86.01,
+      "chg_pct": -1.14,
+      "chg_abs": -0.98,
+      "drop_streak": 1,
+      "ma20_dev": -9.0,
+      "range_pos": 0.0,
+      "volume_ratio": 0.01,
+      "reasons": [
+        "较前一交易日下跌 1.14%（-0.98 美元）。",
+        "当前价格低于 20 日均线约 9.0%，短线偏弱。",
+        "处于近两月价格区间低位，下方空间相对有限。",
+        "成交量明显萎缩，市场观望情绪浓。"
+      ]
+    },
+    "brent": {
+      "close": 92.81,
+      "prev": 93.14,
+      "chg_pct": -0.35,
+      "chg_abs": -0.33,
+      "drop_streak": 1,
+      "ma20_dev": -9.63,
+      "range_pos": 5.0,
+      "volume_ratio": 0.03,
+      "reasons": [
+        "较前一交易日下跌 0.35%（-0.33 美元）。",
+        "当前价格低于 20 日均线约 9.6%，短线偏弱。",
+        "处于近两月价格区间低位，下方空间相对有限。",
+        "成交量明显萎缩，市场观望情绪浓。"
+      ]
+    },
+    "news": [
+      {
+        "title": "Oil prices edge lower as markets parse M.East tensions, U.S. inventory build",
+        "link": "https://finance.yahoo.com/energy/articles/oil-prices-edge-lower-markets-024104976.html"
+      },
+      {
+        "title": "5 Oil and Gas Stocks That Crushed Third-Quarter Earnings Estimates",
+        "link": "https://finance.yahoo.com/energy/articles/5-oil-gas-stocks-crushed-010000263.html"
+      },
+      {
+        "title": "Cuba’s Energy Crisis Turns Into a Goldmine for U.S. Fuel Exporters",
+        "link": "https://finance.yahoo.com/energy/articles/cuba-energy-crisis-turns-goldmine-230000134.html"
+      },
+      {
+        "title": "Stocks fall but Nvidia rebound lifts sentiment",
+        "link": "https://finance.yahoo.com/markets/world-indices/articles/asia-shares-stumble-tech-weakness-012906483.html"
       }
     ]
   }
