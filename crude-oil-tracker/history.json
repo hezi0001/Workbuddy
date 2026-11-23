@@ -1,59 +1,5 @@
 [
   {
-    "date": "2026-11-18",
-    "updated_at": "2026-11-18T03:48:50Z",
-    "wti": {
-      "close": 85.03,
-      "prev": 86.01,
-      "chg_pct": -1.14,
-      "chg_abs": -0.98,
-      "drop_streak": 1,
-      "ma20_dev": -9.0,
-      "range_pos": 0.0,
-      "volume_ratio": 0.01,
-      "reasons": [
-        "较前一交易日下跌 1.14%（-0.98 美元）。",
-        "当前价格低于 20 日均线约 9.0%，短线偏弱。",
-        "处于近两月价格区间低位，下方空间相对有限。",
-        "成交量明显萎缩，市场观望情绪浓。"
-      ]
-    },
-    "brent": {
-      "close": 92.81,
-      "prev": 93.14,
-      "chg_pct": -0.35,
-      "chg_abs": -0.33,
-      "drop_streak": 1,
-      "ma20_dev": -9.63,
-      "range_pos": 5.0,
-      "volume_ratio": 0.03,
-      "reasons": [
-        "较前一交易日下跌 0.35%（-0.33 美元）。",
-        "当前价格低于 20 日均线约 9.6%，短线偏弱。",
-        "处于近两月价格区间低位，下方空间相对有限。",
-        "成交量明显萎缩，市场观望情绪浓。"
-      ]
-    },
-    "news": [
-      {
-        "title": "Oil prices edge lower as markets parse M.East tensions, U.S. inventory build",
-        "link": "https://finance.yahoo.com/energy/articles/oil-prices-edge-lower-markets-024104976.html"
-      },
-      {
-        "title": "5 Oil and Gas Stocks That Crushed Third-Quarter Earnings Estimates",
-        "link": "https://finance.yahoo.com/energy/articles/5-oil-gas-stocks-crushed-010000263.html"
-      },
-      {
-        "title": "Cuba’s Energy Crisis Turns Into a Goldmine for U.S. Fuel Exporters",
-        "link": "https://finance.yahoo.com/energy/articles/cuba-energy-crisis-turns-goldmine-230000134.html"
-      },
-      {
-        "title": "Stocks fall but Nvidia rebound lifts sentiment",
-        "link": "https://finance.yahoo.com/markets/world-indices/articles/asia-shares-stumble-tech-weakness-012906483.html"
-      }
-    ]
-  },
-  {
     "date": "2026-11-19",
     "updated_at": "2026-11-19T03:46:58Z",
     "wti": {
@@ -267,6 +213,60 @@
       {
         "title": "Frontline: 3 Key Takeaways for Long-Term Investors",
         "link": "https://finance.yahoo.com/markets/stocks/articles/frontline-3-key-takeaways-long-155408540.html"
+      }
+    ]
+  },
+  {
+    "date": "2026-11-23",
+    "updated_at": "2026-11-23T03:01:05Z",
+    "wti": {
+      "close": 82.94,
+      "prev": 83.98,
+      "chg_pct": -1.24,
+      "chg_abs": -1.04,
+      "drop_streak": 1,
+      "ma20_dev": -8.49,
+      "range_pos": 0.0,
+      "volume_ratio": 0.05,
+      "reasons": [
+        "较前一交易日下跌 1.24%（-1.04 美元）。",
+        "当前价格低于 20 日均线约 8.5%，短线偏弱。",
+        "处于近两月价格区间低位，下方空间相对有限。",
+        "成交量明显萎缩，市场观望情绪浓。"
+      ]
+    },
+    "brent": {
+      "close": 89.42,
+      "prev": 92.57,
+      "chg_pct": -3.4,
+      "chg_abs": -3.15,
+      "drop_streak": 1,
+      "ma20_dev": -9.74,
+      "range_pos": 0.0,
+      "volume_ratio": 0.04,
+      "reasons": [
+        "较前一交易日下跌 3.40%（-3.15 美元）。",
+        "当前价格低于 20 日均线约 9.7%，短线偏弱。",
+        "处于近两月价格区间低位，下方空间相对有限。",
+        "成交量明显萎缩，市场观望情绪浓。"
+      ]
+    },
+    "news": [
+      {
+        "title": "South Korea's finance minister sees solid growth next year, flags chip volatility risks",
+        "link": "https://finance.yahoo.com/economy/articles/south-koreas-finance-minister-sees-024346169.html"
+      },
+      {
+        "title": "Mike McGlone Says Crypto Crash Is A Preview Of The 'Everything Bubble' Bursting, Sees Bitcoin At $10,000 Again",
+        "link": "https://finance.yahoo.com/markets/crypto/articles/mike-mcglone-says-crypto-crash-024241278.html"
+      },
+      {
+        "title": "Oil prices fall amid equity selloff though Iran war attacks limit losses",
+        "link": "https://finance.yahoo.com/energy/articles/oil-prices-fall-amid-equity-022442236.html"
+      },
+      {
+        "title": "3 Shipping Stocks That Could Benefit If Lower Oil Prices Hold",
+        "link": "https://finance.yahoo.com/energy/articles/3-shipping-stocks-could-benefit-020836890.html"
       }
     ]
   }
