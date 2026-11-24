@@ -1,61 +1,5 @@
 [
   {
-    "date": "2026-11-19",
-    "updated_at": "2026-11-19T03:46:58Z",
-    "wti": {
-      "close": 81.85,
-      "prev": 83.26,
-      "chg_pct": -1.69,
-      "chg_abs": -1.41,
-      "drop_streak": 2,
-      "ma20_dev": -11.49,
-      "range_pos": 0.0,
-      "volume_ratio": 0.06,
-      "reasons": [
-        "较前一交易日下跌 1.69%（-1.41 美元）。",
-        "已连续 2 个交易日走低，短期弱势延续。",
-        "当前价格低于 20 日均线约 11.5%，短线偏弱。",
-        "处于近两月价格区间低位，下方空间相对有限。",
-        "成交量明显萎缩，市场观望情绪浓。"
-      ]
-    },
-    "brent": {
-      "close": 88.95,
-      "prev": 91.95,
-      "chg_pct": -3.26,
-      "chg_abs": -3.0,
-      "drop_streak": 2,
-      "ma20_dev": -12.31,
-      "range_pos": 0.0,
-      "volume_ratio": 0.05,
-      "reasons": [
-        "较前一交易日下跌 3.26%（-3.00 美元）。",
-        "已连续 2 个交易日走低，短期弱势延续。",
-        "当前价格低于 20 日均线约 12.3%，短线偏弱。",
-        "处于近两月价格区间低位，下方空间相对有限。",
-        "成交量明显萎缩，市场观望情绪浓。"
-      ]
-    },
-    "news": [
-      {
-        "title": "BOJ chief plays down soft consumption data, signals near-term rate hike",
-        "link": "https://finance.yahoo.com/economy/policy/articles/boj-governor-ueda-says-financial-013529504.html"
-      },
-      {
-        "title": "Asian stocks drop as Anthropic's record IPO fails to reassure",
-        "link": "https://finance.yahoo.com/markets/world-indices/articles/asian-stocks-drop-anthropics-record-025108034.html"
-      },
-      {
-        "title": "Oil prices steady as supply surplus softens sentiment though Gulf war supports",
-        "link": "https://finance.yahoo.com/energy/articles/oil-prices-steady-supply-surplus-024608326.html"
-      },
-      {
-        "title": "JGBs Edge Higher Amid Mixed Developments",
-        "link": "https://finance.yahoo.com/m/5fe5561f-bd06-3ee0-957a-b3c48a3395e2/jgbs-edge-higher-amid-mixed.html"
-      }
-    ]
-  },
-  {
     "date": "2026-11-20",
     "updated_at": "2026-11-20T03:40:36Z",
     "wti": {
@@ -267,6 +211,62 @@
       {
         "title": "3 Shipping Stocks That Could Benefit If Lower Oil Prices Hold",
         "link": "https://finance.yahoo.com/energy/articles/3-shipping-stocks-could-benefit-020836890.html"
+      }
+    ]
+  },
+  {
+    "date": "2026-11-24",
+    "updated_at": "2026-11-24T06:18:07Z",
+    "wti": {
+      "close": 79.69,
+      "prev": 80.17,
+      "chg_pct": -0.6,
+      "chg_abs": -0.48,
+      "drop_streak": 2,
+      "ma20_dev": -10.94,
+      "range_pos": 0.0,
+      "volume_ratio": 0.06,
+      "reasons": [
+        "较前一交易日下跌 0.60%（-0.48 美元）。",
+        "已连续 2 个交易日走低，短期弱势延续。",
+        "当前价格低于 20 日均线约 10.9%，短线偏弱。",
+        "处于近两月价格区间低位，下方空间相对有限。",
+        "成交量明显萎缩，市场观望情绪浓。"
+      ]
+    },
+    "brent": {
+      "close": 86.26,
+      "prev": 89.37,
+      "chg_pct": -3.48,
+      "chg_abs": -3.11,
+      "drop_streak": 2,
+      "ma20_dev": -11.69,
+      "range_pos": 0.0,
+      "volume_ratio": 0.05,
+      "reasons": [
+        "较前一交易日下跌 3.48%（-3.11 美元）。",
+        "已连续 2 个交易日走低，短期弱势延续。",
+        "当前价格低于 20 日均线约 11.7%，短线偏弱。",
+        "处于近两月价格区间低位，下方空间相对有限。",
+        "成交量明显萎缩，市场观望情绪浓。"
+      ]
+    },
+    "news": [
+      {
+        "title": "Brent Crude Prices Slip Below $90 A Barrel: Patrick De Haan Says Oil, Refined Products Are ‘Oversold,’ While Hanke Sees Prices Staying Elevated",
+        "link": "https://finance.yahoo.com/energy/articles/brent-crude-prices-slip-below-060232831.html"
+      },
+      {
+        "title": "Oil prices near three-month lows as rising supply offsets Hormuz threat",
+        "link": "https://finance.yahoo.com/energy/articles/oil-prices-near-three-month-051343862.html"
+      },
+      {
+        "title": "JGBs Rise Further Amid Uncertainty Over AI Infrastructure Investments",
+        "link": "https://finance.yahoo.com/m/de48e911-1328-3743-b192-e909ca44c050/jgbs-rise-further-amid.html"
+      },
+      {
+        "title": "Asian stocks rally after Wall Street rebound as Jensen Huang returns as Nvidia’s CEO",
+        "link": "https://finance.yahoo.com/markets/world-indices/articles/asian-stocks-rally-wall-street-033125464.html"
       }
     ]
   }
