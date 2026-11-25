@@ -1,60 +1,5 @@
 [
   {
-    "date": "2026-11-20",
-    "updated_at": "2026-11-20T03:40:36Z",
-    "wti": {
-      "close": 82.73,
-      "prev": 83.21,
-      "chg_pct": -0.58,
-      "chg_abs": -0.48,
-      "drop_streak": 3,
-      "ma20_dev": -9.6,
-      "range_pos": 0.0,
-      "volume_ratio": 0.04,
-      "reasons": [
-        "较前一交易日下跌 0.58%（-0.48 美元）。",
-        "已连续 3 个交易日走低，短期弱势延续。",
-        "当前价格低于 20 日均线约 9.6%，短线偏弱。",
-        "处于近两月价格区间低位，下方空间相对有限。",
-        "成交量明显萎缩，市场观望情绪浓。"
-      ]
-    },
-    "brent": {
-      "close": 89.75,
-      "prev": 91.98,
-      "chg_pct": -2.42,
-      "chg_abs": -2.23,
-      "drop_streak": 1,
-      "ma20_dev": -10.47,
-      "range_pos": 0.0,
-      "volume_ratio": 0.03,
-      "reasons": [
-        "较前一交易日下跌 2.42%（-2.23 美元）。",
-        "当前价格低于 20 日均线约 10.5%，短线偏弱。",
-        "处于近两月价格区间低位，下方空间相对有限。",
-        "成交量明显萎缩，市场观望情绪浓。"
-      ]
-    },
-    "news": [
-      {
-        "title": "Top 3 British Oil Stocks To Watch In November 2026",
-        "link": "https://finance.yahoo.com/energy/articles/top-3-british-oil-stocks-031524263.html"
-      },
-      {
-        "title": "Full Truck Alliance (YMM) is Catching a New Wave. Here’s Why",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/full-truck-alliance-ymm-catching-022904341.html"
-      },
-      {
-        "title": "Oil prices rise as M.East tensions persist; set for third week in red",
-        "link": "https://finance.yahoo.com/energy/articles/oil-prices-rise-m-east-022549273.html"
-      },
-      {
-        "title": "Oil prices edge higher as Houthi attacks on Riyadh raise supply concerns",
-        "link": "https://finance.yahoo.com/energy/articles/oil-prices-edge-higher-houthi-020004794.html"
-      }
-    ]
-  },
-  {
     "date": "2026-11-21",
     "updated_at": "2026-11-21T03:23:42Z",
     "wti": {
@@ -267,6 +212,60 @@
       {
         "title": "Asian stocks rally after Wall Street rebound as Jensen Huang returns as Nvidia’s CEO",
         "link": "https://finance.yahoo.com/markets/world-indices/articles/asian-stocks-rally-wall-street-033125464.html"
+      }
+    ]
+  },
+  {
+    "date": "2026-11-25",
+    "updated_at": "2026-11-25T04:59:27Z",
+    "wti": {
+      "close": 80.71,
+      "prev": 82.05,
+      "chg_pct": -1.63,
+      "chg_abs": -1.34,
+      "drop_streak": 1,
+      "ma20_dev": -8.8,
+      "range_pos": 2.3,
+      "volume_ratio": 0.06,
+      "reasons": [
+        "较前一交易日下跌 1.63%（-1.34 美元）。",
+        "当前价格低于 20 日均线约 8.8%，短线偏弱。",
+        "处于近两月价格区间低位，下方空间相对有限。",
+        "成交量明显萎缩，市场观望情绪浓。"
+      ]
+    },
+    "brent": {
+      "close": 87.48,
+      "prev": 91.4,
+      "chg_pct": -4.29,
+      "chg_abs": -3.92,
+      "drop_streak": 1,
+      "ma20_dev": -9.39,
+      "range_pos": 0.0,
+      "volume_ratio": 0.03,
+      "reasons": [
+        "较前一交易日下跌 4.29%（-3.92 美元）。",
+        "当前价格低于 20 日均线约 9.4%，短线偏弱。",
+        "处于近两月价格区间低位，下方空间相对有限。",
+        "成交量明显萎缩，市场观望情绪浓。"
+      ]
+    },
+    "news": [
+      {
+        "title": "S&P 500 Target: Wall Street Split On How The Benchmark Index Will Move In 2027",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/p-500-target-wall-street-044316801.html"
+      },
+      {
+        "title": "Asian stocks mostly decline as AI shares fall following a retreat on Wall Street",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/asian-stocks-mostly-decline-ai-040526833.html"
+      },
+      {
+        "title": "Venezuela reveals $237.5 billion debt pile in key step towards restructuring",
+        "link": "https://finance.yahoo.com/economy/articles/venezuela-unveils-long-awaited-economic-144315427.html"
+      },
+      {
+        "title": "Nvidia’s Rebound, Falling Oil And A Strong Dollar: Three Signals Complicating The Fed’s December Decision",
+        "link": "https://finance.yahoo.com/economy/policy/articles/nvidia-rebound-falling-oil-strong-020932908.html"
       }
     ]
   }
