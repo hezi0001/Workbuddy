@@ -1,57 +1,5 @@
 [
   {
-    "date": "2026-11-21",
-    "updated_at": "2026-11-21T03:23:42Z",
-    "wti": {
-      "close": 83.62,
-      "prev": 83.21,
-      "chg_pct": 0.49,
-      "chg_abs": 0.41,
-      "drop_streak": 0,
-      "ma20_dev": -8.67,
-      "range_pos": 2.0,
-      "volume_ratio": 0.98,
-      "reasons": [
-        "较前一交易日上涨 0.49%（+0.41 美元）。",
-        "当前价格低于 20 日均线约 8.7%，短线偏弱。",
-        "处于近两月价格区间低位，下方空间相对有限。"
-      ]
-    },
-    "brent": {
-      "close": 89.87,
-      "prev": 91.98,
-      "chg_pct": -2.29,
-      "chg_abs": -2.11,
-      "drop_streak": 1,
-      "ma20_dev": -10.35,
-      "range_pos": 0.0,
-      "volume_ratio": 0.68,
-      "reasons": [
-        "较前一交易日下跌 2.29%（-2.11 美元）。",
-        "当前价格低于 20 日均线约 10.4%，短线偏弱。",
-        "处于近两月价格区间低位，下方空间相对有限。"
-      ]
-    },
-    "news": [
-      {
-        "title": "UBS flags resilient commodity investment case despite easing oil supply premium",
-        "link": "https://finance.yahoo.com/markets/commodities/articles/ubs-flags-resilient-commodity-investment-015801247.html"
-      },
-      {
-        "title": "North Dakota oil numbers up again, but prices expected to level off into 2027",
-        "link": "https://finance.yahoo.com/energy/articles/north-dakota-oil-numbers-again-013600152.html"
-      },
-      {
-        "title": "Oil Prices Caught Between a Looming Glut and Middle East Turmoil",
-        "link": "https://finance.yahoo.com/energy/articles/oil-prices-caught-between-looming-000000112.html"
-      },
-      {
-        "title": "S&P affirms Kuwait’s ‘AA-’ rating as wealth buffers offset war-driven GDP slump",
-        "link": "https://finance.yahoo.com/economy/policy/articles/p-affirms-kuwait-aa-rating-225336469.html"
-      }
-    ]
-  },
-  {
     "date": "2026-11-22",
     "updated_at": "2026-11-22T02:34:41Z",
     "wti": {
@@ -266,6 +214,60 @@
       {
         "title": "Nvidia’s Rebound, Falling Oil And A Strong Dollar: Three Signals Complicating The Fed’s December Decision",
         "link": "https://finance.yahoo.com/economy/policy/articles/nvidia-rebound-falling-oil-strong-020932908.html"
+      }
+    ]
+  },
+  {
+    "date": "2026-11-26",
+    "updated_at": "2026-11-26T04:18:00Z",
+    "wti": {
+      "close": 84.36,
+      "prev": 83.68,
+      "chg_pct": 0.81,
+      "chg_abs": 0.68,
+      "drop_streak": 0,
+      "ma20_dev": -3.88,
+      "range_pos": 17.5,
+      "volume_ratio": 0.04,
+      "reasons": [
+        "较前一交易日上涨 0.81%（+0.68 美元）。",
+        "当前价格低于 20 日均线约 3.9%，短线偏弱。",
+        "处于近两月价格区间低位，下方空间相对有限。",
+        "成交量明显萎缩，市场观望情绪浓。"
+      ]
+    },
+    "brent": {
+      "close": 91.11,
+      "prev": 94.61,
+      "chg_pct": -3.7,
+      "chg_abs": -3.5,
+      "drop_streak": 1,
+      "ma20_dev": -4.81,
+      "range_pos": 6.2,
+      "volume_ratio": 0.04,
+      "reasons": [
+        "较前一交易日下跌 3.70%（-3.50 美元）。",
+        "当前价格低于 20 日均线约 4.8%，短线偏弱。",
+        "处于近两月价格区间低位，下方空间相对有限。",
+        "成交量明显萎缩，市场观望情绪浓。"
+      ]
+    },
+    "news": [
+      {
+        "title": "Oil little changed as Hormuz attacks threaten rebound in Gulf crude shipments",
+        "link": "https://finance.yahoo.com/energy/articles/oil-little-changed-hormuz-attacks-031718598.html"
+      },
+      {
+        "title": "Oil rises on supply concerns as Iran claims mine strikes on ships",
+        "link": "https://finance.yahoo.com/energy/articles/oil-rises-supply-concerns-iran-030849858.html"
+      },
+      {
+        "title": "BOJ policymaker signals chance of faster-pace interest rate hikes",
+        "link": "https://finance.yahoo.com/economy/policy/articles/bojs-tamura-signals-chance-faster-013537147.html"
+      },
+      {
+        "title": "Oil Rises Amid Ongoing Middle East Tensions",
+        "link": "https://finance.yahoo.com/m/595b5beb-a0e2-3233-877a-767749d3cd92/oil-rises-amid-ongoing-middle.html"
       }
     ]
   }
