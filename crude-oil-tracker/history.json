@@ -1,59 +1,5 @@
 [
   {
-    "date": "2026-11-22",
-    "updated_at": "2026-11-22T02:34:41Z",
-    "wti": {
-      "close": 83.98,
-      "prev": 83.21,
-      "chg_pct": 0.93,
-      "chg_abs": 0.77,
-      "drop_streak": 0,
-      "ma20_dev": -8.29,
-      "range_pos": 3.7,
-      "volume_ratio": 0.33,
-      "reasons": [
-        "较前一交易日上涨 0.93%（+0.77 美元）。",
-        "当前价格低于 20 日均线约 8.3%，短线偏弱。",
-        "处于近两月价格区间低位，下方空间相对有限。",
-        "成交量明显萎缩，市场观望情绪浓。"
-      ]
-    },
-    "brent": {
-      "close": 92.57,
-      "prev": 91.98,
-      "chg_pct": 0.64,
-      "chg_abs": 0.59,
-      "drop_streak": 0,
-      "ma20_dev": -7.78,
-      "range_pos": 4.1,
-      "volume_ratio": 0.59,
-      "reasons": [
-        "较前一交易日上涨 0.64%（+0.59 美元）。",
-        "当前价格低于 20 日均线约 7.8%，短线偏弱。",
-        "处于近两月价格区间低位，下方空间相对有限。",
-        "成交量明显萎缩，市场观望情绪浓。"
-      ]
-    },
-    "news": [
-      {
-        "title": "3 Penny Stocks With Value Gaps Up To 81%",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/3-penny-stocks-value-gaps-011025134.html"
-      },
-      {
-        "title": "Oil Is Taking the Long Way Around, and $90,000 Across These 3 Tanker Stocks Pays More Than $10,000 a Year",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/oil-taking-long-way-around-194944634.html"
-      },
-      {
-        "title": "Gas Prices Are Dropping at a 2008 Pace Right Before Thanksgiving",
-        "link": "https://finance.yahoo.com/energy/articles/gas-prices-dropping-2008-pace-172255879.html"
-      },
-      {
-        "title": "Frontline: 3 Key Takeaways for Long-Term Investors",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/frontline-3-key-takeaways-long-155408540.html"
-      }
-    ]
-  },
-  {
     "date": "2026-11-23",
     "updated_at": "2026-11-23T03:01:05Z",
     "wti": {
@@ -268,6 +214,60 @@
       {
         "title": "Oil Rises Amid Ongoing Middle East Tensions",
         "link": "https://finance.yahoo.com/m/595b5beb-a0e2-3233-877a-767749d3cd92/oil-rises-amid-ongoing-middle.html"
+      }
+    ]
+  },
+  {
+    "date": "2026-11-27",
+    "updated_at": "2026-11-27T04:27:15Z",
+    "wti": {
+      "close": 85.76,
+      "prev": 83.68,
+      "chg_pct": 2.49,
+      "chg_abs": 2.08,
+      "drop_streak": 0,
+      "ma20_dev": -2.36,
+      "range_pos": 23.3,
+      "volume_ratio": 0.37,
+      "reasons": [
+        "较前一交易日上涨 2.49%（+2.08 美元）。",
+        "当前价格低于 20 日均线约 2.4%，短线偏弱。",
+        "处于近两月价格区间低位，下方空间相对有限。",
+        "成交量明显萎缩，市场观望情绪浓。"
+      ]
+    },
+    "brent": {
+      "close": 92.24,
+      "prev": 94.61,
+      "chg_pct": -2.51,
+      "chg_abs": -2.37,
+      "drop_streak": 1,
+      "ma20_dev": -3.69,
+      "range_pos": 10.2,
+      "volume_ratio": 0.55,
+      "reasons": [
+        "较前一交易日下跌 2.51%（-2.37 美元）。",
+        "当前价格低于 20 日均线约 3.7%，短线偏弱。",
+        "处于近两月价格区间低位，下方空间相对有限。",
+        "成交量明显萎缩，市场观望情绪浓。"
+      ]
+    },
+    "news": [
+      {
+        "title": "Oil set for first weekly gain in November as Gulf attacks threaten supply recovery",
+        "link": "https://finance.yahoo.com/energy/articles/oil-set-first-weekly-gain-024015834.html"
+      },
+      {
+        "title": "Shares find footing after bruising month, dollar set for third monthly gain",
+        "link": "https://finance.yahoo.com/markets/articles/shares-footing-bruising-month-dollar-020059656.html"
+      },
+      {
+        "title": "Oil Mixed as Markets Track Mideast Developments, U.S. Inventories",
+        "link": "https://finance.yahoo.com/m/56fae783-b0c5-3ee1-8a03-9bb9a00bfa03/oil-mixed-as-markets-track.html"
+      },
+      {
+        "title": "Standard Chartered: Oil Needs a New Shock to Fall Further",
+        "link": "https://finance.yahoo.com/energy/articles/standard-chartered-oil-needs-shock-010000737.html"
       }
     ]
   }
