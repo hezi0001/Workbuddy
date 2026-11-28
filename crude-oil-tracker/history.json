@@ -1,59 +1,5 @@
 [
   {
-    "date": "2026-11-23",
-    "updated_at": "2026-11-23T03:01:05Z",
-    "wti": {
-      "close": 82.94,
-      "prev": 83.98,
-      "chg_pct": -1.24,
-      "chg_abs": -1.04,
-      "drop_streak": 1,
-      "ma20_dev": -8.49,
-      "range_pos": 0.0,
-      "volume_ratio": 0.05,
-      "reasons": [
-        "较前一交易日下跌 1.24%（-1.04 美元）。",
-        "当前价格低于 20 日均线约 8.5%，短线偏弱。",
-        "处于近两月价格区间低位，下方空间相对有限。",
-        "成交量明显萎缩，市场观望情绪浓。"
-      ]
-    },
-    "brent": {
-      "close": 89.42,
-      "prev": 92.57,
-      "chg_pct": -3.4,
-      "chg_abs": -3.15,
-      "drop_streak": 1,
-      "ma20_dev": -9.74,
-      "range_pos": 0.0,
-      "volume_ratio": 0.04,
-      "reasons": [
-        "较前一交易日下跌 3.40%（-3.15 美元）。",
-        "当前价格低于 20 日均线约 9.7%，短线偏弱。",
-        "处于近两月价格区间低位，下方空间相对有限。",
-        "成交量明显萎缩，市场观望情绪浓。"
-      ]
-    },
-    "news": [
-      {
-        "title": "South Korea's finance minister sees solid growth next year, flags chip volatility risks",
-        "link": "https://finance.yahoo.com/economy/articles/south-koreas-finance-minister-sees-024346169.html"
-      },
-      {
-        "title": "Mike McGlone Says Crypto Crash Is A Preview Of The 'Everything Bubble' Bursting, Sees Bitcoin At $10,000 Again",
-        "link": "https://finance.yahoo.com/markets/crypto/articles/mike-mcglone-says-crypto-crash-024241278.html"
-      },
-      {
-        "title": "Oil prices fall amid equity selloff though Iran war attacks limit losses",
-        "link": "https://finance.yahoo.com/energy/articles/oil-prices-fall-amid-equity-022442236.html"
-      },
-      {
-        "title": "3 Shipping Stocks That Could Benefit If Lower Oil Prices Hold",
-        "link": "https://finance.yahoo.com/energy/articles/3-shipping-stocks-could-benefit-020836890.html"
-      }
-    ]
-  },
-  {
     "date": "2026-11-24",
     "updated_at": "2026-11-24T06:18:07Z",
     "wti": {
@@ -268,6 +214,58 @@
       {
         "title": "Standard Chartered: Oil Needs a New Shock to Fall Further",
         "link": "https://finance.yahoo.com/energy/articles/standard-chartered-oil-needs-shock-010000737.html"
+      }
+    ]
+  },
+  {
+    "date": "2026-11-28",
+    "updated_at": "2026-11-28T04:09:17Z",
+    "wti": {
+      "close": 83.08,
+      "prev": 83.68,
+      "chg_pct": -0.72,
+      "chg_abs": -0.6,
+      "drop_streak": 1,
+      "ma20_dev": -5.27,
+      "range_pos": 12.2,
+      "volume_ratio": 0.93,
+      "reasons": [
+        "较前一交易日下跌 0.72%（-0.60 美元）。",
+        "当前价格低于 20 日均线约 5.3%，短线偏弱。",
+        "处于近两月价格区间低位，下方空间相对有限。"
+      ]
+    },
+    "brent": {
+      "close": 90.84,
+      "prev": 94.61,
+      "chg_pct": -3.98,
+      "chg_abs": -3.77,
+      "drop_streak": 1,
+      "ma20_dev": -5.08,
+      "range_pos": 5.2,
+      "volume_ratio": 1.15,
+      "reasons": [
+        "较前一交易日下跌 3.98%（-3.77 美元）。",
+        "当前价格低于 20 日均线约 5.1%，短线偏弱。",
+        "处于近两月价格区间低位，下方空间相对有限。"
+      ]
+    },
+    "news": [
+      {
+        "title": "3 Hydrogen Stocks With Earnings Growth Up To 62%",
+        "link": "https://finance.yahoo.com/energy/articles/3-hydrogen-stocks-earnings-growth-031246450.html"
+      },
+      {
+        "title": "NIO And 2 Other Top EV Stocks",
+        "link": "https://finance.yahoo.com/energy/articles/nio-2-other-top-ev-001507883.html"
+      },
+      {
+        "title": "Soybeans Rally on the Short Friday Session",
+        "link": "https://finance.yahoo.com/markets/commodities/articles/soybeans-rally-short-friday-session-211409692.html"
+      },
+      {
+        "title": "Treasury Yields Gain As U.S. Equities Rally",
+        "link": "https://finance.yahoo.com/m/16548d8f-c0e1-3f33-ba6c-11c2e0ddb8e8/treasury-yields-gain-as-u.s..html"
       }
     ]
   }
